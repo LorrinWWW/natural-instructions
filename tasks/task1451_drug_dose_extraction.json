@@ -299,13 +299,6 @@
             ]
         },
         {
-            "id": "task1451-dc627f755d0e442d9e8d3ae7b5f5f5ab",
-            "input": "We describe a patient who developed HUS after treatment with mitomycin C (total dose 144 mg/m2) due to a carcinoma of the ascending colon.\t mitomycin C",
-            "output": [
-                "144 mg/m2"
-            ]
-        },
-        {
             "id": "task1451-52260c9fd9094918834099b6d599a8a8",
             "input": "A 53-year-old man developed lower leg edema 4 weeks after rosiglitazone was increased from 4 mg once/day to 4 mg twice/day.\t rosiglitazone",
             "output": [

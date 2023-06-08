@@ -547,7 +547,7 @@
         },
         {
             "id": "task306-36e28c7f38144d849b0f67617201fa6a",
-            "input": "Category: PLAYS & PLAYWRIGHTS \nClue: Turgenev wrote a play called \"A Month in\" this place — how bucolic",
+            "input": "Category: PLAYS & PLAYWRIGHTS \nClue: Turgenev wrote a play called \"A Month in\" this place \u2014 how bucolic",
             "output": [
                 "the country"
             ]
@@ -927,7 +927,7 @@
             "id": "task306-95e4e7bc41ba4023934818fbc78a3942",
             "input": "Category: RHYME TIME FOOD & DRINK \nClue: A thin pancake with a Concord fruit filling",
             "output": [
-                "a grape crêpe"
+                "a grape cr\u00eape"
             ]
         },
         {
@@ -1193,7 +1193,7 @@
             "id": "task306-a98466f516c44ce09393f695d6247822",
             "input": "Category: LAST OF THE COMPOSERS \nClue: This Hungarian was just measures away from finishing his \"Piano Concerto No. 3\" when he died in New York in 1945",
             "output": [
-                "béla bartók"
+                "b\u00e9la bart\u00f3k"
             ]
         },
         {
@@ -3487,7 +3487,7 @@
         },
         {
             "id": "task306-4013c75da20a48fd9f4c821653c3a894",
-            "input": "Category: “R” MOVIES \nClue: Detroit is the city protected by this title character; some might have called the performance robotic",
+            "input": "Category: \u201cR\u201d MOVIES \nClue: Detroit is the city protected by this title character; some might have called the performance robotic",
             "output": [
                 "robocop"
             ]
@@ -5771,7 +5771,7 @@
             "id": "task306-969ad387245c4f77b85b8c6ab9d54e79",
             "input": "Category: MUSEUMS \nClue: The museum devoted to this Belgian painter is in the Brussels house where he lived & worked for 24 years",
             "output": [
-                "rené magritte"
+                "ren\u00e9 magritte"
             ]
         },
         {
@@ -6553,7 +6553,7 @@
         },
         {
             "id": "task306-80607c49f8eb4359a0001e2e34fa7af9",
-            "input": "Category: SPORTS PAGE CLICHÉS \nClue: As his country is on the metric system, Aussie Jason Stoltenberg called tennis \"a game of\" these",
+            "input": "Category: SPORTS PAGE CLICH\u00c9S \nClue: As his country is on the metric system, Aussie Jason Stoltenberg called tennis \"a game of\" these",
             "output": [
                 "centimeters"
             ]
@@ -6574,7 +6574,7 @@
         },
         {
             "id": "task306-b4a4e7d69e434cc2a317adb9e548700d",
-            "input": "Category: LEAVE BRITTANY ALONE! \nClue: In the 9th century Nomenoë, Brittany's national hero, drove out this \"Bald\" Frankish king's forces",
+            "input": "Category: LEAVE BRITTANY ALONE! \nClue: In the 9th century Nomeno\u00eb, Brittany's national hero, drove out this \"Bald\" Frankish king's forces",
             "output": [
                 "charles"
             ]
@@ -7122,7 +7122,7 @@
             "id": "task306-64544212b54d43d4b2b6739c0c84f017",
             "input": "Category: FRENCH LITERATURE \nClue: When Victor Hugo began writing this novel, its working title was \"Miseres\"",
             "output": [
-                "les misérables"
+                "les mis\u00e9rables"
             ]
         },
         {
@@ -8508,7 +8508,7 @@
             "id": "task306-7d8adc2d268c448fb5e1a6ed89813e98",
             "input": "Category: SCANDINAVIA \nClue: This buffet's traditional 1st course is herring",
             "output": [
-                "a smörgåsbord"
+                "a sm\u00f6rg\u00e5sbord"
             ]
         },
         {
@@ -9815,7 +9815,7 @@
         },
         {
             "id": "task306-749864cd0911424192162a0aeae7984d",
-            "input": "Category: IT TAKES A THIEF \nClue: English novelist Ernest Hornung created this “gentleman cracksman”",
+            "input": "Category: IT TAKES A THIEF \nClue: English novelist Ernest Hornung created this \u201cgentleman cracksman\u201d",
             "output": [
                 "raffles"
             ]
@@ -10172,7 +10172,7 @@
         },
         {
             "id": "task306-5c82117f428b47698e78f0a301b1a8b9",
-            "input": "Category: POLITICAL QUOTES \nClue: This financier & advisor to presidents coined the expression “cold war” in 1947",
+            "input": "Category: POLITICAL QUOTES \nClue: This financier & advisor to presidents coined the expression \u201ccold war\u201d in 1947",
             "output": [
                 "bernard baruch"
             ]
@@ -12545,7 +12545,7 @@
         },
         {
             "id": "task306-910071a4d3e948b88e15b3ab605bd790",
-            "input": "Category: SCIENCE \nClue: Estimated temperatures on this planet range from 950° F. on the sunlit side to -346° on the dark side",
+            "input": "Category: SCIENCE \nClue: Estimated temperatures on this planet range from 950\u00b0 F. on the sunlit side to -346\u00b0 on the dark side",
             "output": [
                 "mercury"
             ]
@@ -15921,7 +15921,7 @@
             "id": "task306-2964b3a529f14bdaa31eda2298077e63",
             "input": "Category: SINGERS \nClue: This singer played detective Foxxy Cleopatra in the third \"Austin Powers\" movie",
             "output": [
-                "beyoncé knowles"
+                "beyonc\u00e9 knowles"
             ]
         },
         {
@@ -16339,7 +16339,7 @@
         },
         {
             "id": "task306-164f4ec020334b298bc2f502b61b5061",
-            "input": "Category: SPORTS PAGE CLICHÉS \nClue: Told, \"There is no 'I' in 'team\", Michael Jordan supposedly responded that there is one in this 3-letter word",
+            "input": "Category: SPORTS PAGE CLICH\u00c9S \nClue: Told, \"There is no 'I' in 'team\", Michael Jordan supposedly responded that there is one in this 3-letter word",
             "output": [
                 "win"
             ]
@@ -16411,7 +16411,7 @@
             "id": "task306-6479adafbc594642b1d938dd74de06f7",
             "input": "Category: WORLD CAPITALS \nClue: This Colombian capital sits over 8,000 feet up in the Andes",
             "output": [
-                "bogotá"
+                "bogot\u00e1"
             ]
         },
         {
@@ -18775,7 +18775,7 @@
         },
         {
             "id": "task306-fca2adffba764ec3881c59ca781877ed",
-            "input": "Category: MAGAZINES & NEWSPAPERS \nClue: The USA’s 2 top-selling magazines are Reader’s Digest & TV Guide; this “Better” magazine comes in third",
+            "input": "Category: MAGAZINES & NEWSPAPERS \nClue: The USA\u2019s 2 top-selling magazines are Reader\u2019s Digest & TV Guide; this \u201cBetter\u201d magazine comes in third",
             "output": [
                 "better homes and gardens"
             ]
@@ -19043,7 +19043,7 @@
             "id": "task306-e7751bdad6374ea3a5df0d6dab294fa4",
             "input": "Category: TINKER \nClue: \"Tinker, Tailor, Soldier, Spy\" is a novel by this Brit",
             "output": [
-                "le carré"
+                "le carr\u00e9"
             ]
         },
         {
@@ -19195,7 +19195,7 @@
         },
         {
             "id": "task306-8142fc2d65fc49189cbc1a91de37c98f",
-            "input": "Category: ART \nClue: Corpulent sea nymphs circle Marie de Medicis’ ship in this Flemish artist’s painting of her arrival in France",
+            "input": "Category: ART \nClue: Corpulent sea nymphs circle Marie de Medicis\u2019 ship in this Flemish artist\u2019s painting of her arrival in France",
             "output": [
                 "rubens"
             ]
@@ -20875,7 +20875,7 @@
         },
         {
             "id": "task306-4518bc3fd97e4d75880e34d34e6119ca",
-            "input": "Category: 1791 \nClue: He published the first part of “The Rights of Man” in England & was later charged with treason",
+            "input": "Category: 1791 \nClue: He published the first part of \u201cThe Rights of Man\u201d in England & was later charged with treason",
             "output": [
                 "thomas paine"
             ]
@@ -21995,7 +21995,7 @@
         },
         {
             "id": "task306-43735bd45660419090629db48777ca5c",
-            "input": "Category: MOVIE GUYS & GALS \nClue: 1990: “___ Versus the Volcano”",
+            "input": "Category: MOVIE GUYS & GALS \nClue: 1990: \u201c___ Versus the Volcano\u201d",
             "output": [
                 "joe"
             ]
@@ -25250,7 +25250,7 @@
         },
         {
             "id": "task306-577abe56d16447cc97403d15586c1fa6",
-            "input": "Category: RESUMÉS OF WORLD LEADERS \nClue: Business degree, Universidad Iberoamericana; route supervisor for Coca-Cola; President, 2000",
+            "input": "Category: RESUM\u00c9S OF WORLD LEADERS \nClue: Business degree, Universidad Iberoamericana; route supervisor for Coca-Cola; President, 2000",
             "output": [
                 "fox"
             ]
@@ -26286,7 +26286,7 @@
         },
         {
             "id": "task306-b6eb6dfcf07f4b8fbd1d9ed18dd0e4ea",
-            "input": "Category: WORLD GEOGRAPHY \nClue: There’s a museum dedicated to this author of “The Red and the Black” in Grenoble, his birthplace",
+            "input": "Category: WORLD GEOGRAPHY \nClue: There\u2019s a museum dedicated to this author of \u201cThe Red and the Black\u201d in Grenoble, his birthplace",
             "output": [
                 "stendhal"
             ]
@@ -26953,7 +26953,7 @@
             "id": "task306-b05571e89d7645adadcfc6b63d5f676d",
             "input": "Category: NOTABLE NAMES \nClue: During a trip to Europe in 1804, this South American liberator vowed to fight for independence from Spain",
             "output": [
-                "bolívar"
+                "bol\u00edvar"
             ]
         },
         {
@@ -28232,7 +28232,7 @@
         },
         {
             "id": "task306-537fdf308ae8455dbe02353c52f2f80f",
-            "input": "Category: LITERARY TRIVIA \nClue: It's said he turned down Pulitzer for “Arrowsmith” because he felt he was due one sooner",
+            "input": "Category: LITERARY TRIVIA \nClue: It's said he turned down Pulitzer for \u201cArrowsmith\u201d because he felt he was due one sooner",
             "output": [
                 "sinclair lewis"
             ]
@@ -28337,7 +28337,7 @@
         },
         {
             "id": "task306-ed8d472afcd244c68396d2f52d43ad23",
-            "input": "Category: AUTHOR'S DEDICATIONS \nClue: Joseph Wambaugh said that this book was “for Dee and of course for all the centurions”",
+            "input": "Category: AUTHOR'S DEDICATIONS \nClue: Joseph Wambaugh said that this book was \u201cfor Dee and of course for all the centurions\u201d",
             "output": [
                 "the new centurions"
             ]
@@ -28869,7 +28869,7 @@
         },
         {
             "id": "task306-30d9d8745fcf4661a032f4806de80dca",
-            "input": "Category: 1980s MUSIC \nClue: The first album by this band, including “Blister In The Sun”, went platinum without making the top 40",
+            "input": "Category: 1980s MUSIC \nClue: The first album by this band, including \u201cBlister In The Sun\u201d, went platinum without making the top 40",
             "output": [
                 "violent femmes"
             ]
@@ -30278,7 +30278,7 @@
             "id": "task306-0c5196f63ec04374a49cd0479bfd75c1",
             "input": "Category: AMERICAN REVOLUTION \nClue: Like Nathan Hale, this British major was caught in civillian clothes and hanged as a spy",
             "output": [
-                "john andré"
+                "john andr\u00e9"
             ]
         },
         {
@@ -30313,7 +30313,7 @@
             "id": "task306-a3abd0b8c9d94f8990c923dce8813fab",
             "input": "Category: WORLD FACTS \nClue: San Cristobal is the capital of these islands, a province of Ecuador",
             "output": [
-                "the galápagos"
+                "the gal\u00e1pagos"
             ]
         },
         {
@@ -30472,7 +30472,7 @@
         },
         {
             "id": "task306-0568357ce1234246ba4445f5e9f788c5",
-            "input": "Category: SINGERS \nClue: Ms. Lopez sang, \"Don't be fooled by the rocks that I got…I'm still\" her",
+            "input": "Category: SINGERS \nClue: Ms. Lopez sang, \"Don't be fooled by the rocks that I got\u2026I'm still\" her",
             "output": [
                 "jenny from the block"
             ]
@@ -33099,7 +33099,7 @@
             "id": "task306-8a17eb98a7ad44f9ba982fd87d47cc30",
             "input": "Category: I'M GIVIN' YA PEARLS! \nClue: This South American soccer great was known as Perola Negra, \"The Black Pearl\"",
             "output": [
-                "pelé"
+                "pel\u00e9"
             ]
         },
         {
@@ -33594,7 +33594,7 @@
         },
         {
             "id": "task306-fb9847b1e29c49ba95c122e85a9d1107",
-            "input": "Category: AMERICAN LITERATURE \nClue: In 1976 this Canadian-born author of “Herzog” won the Nobel literature prize",
+            "input": "Category: AMERICAN LITERATURE \nClue: In 1976 this Canadian-born author of \u201cHerzog\u201d won the Nobel literature prize",
             "output": [
                 "saul bellow"
             ]
@@ -34777,7 +34777,7 @@
         },
         {
             "id": "task306-c595da2a6283437bbbc656fbee05d749",
-            "input": "Category: POTENT QUOTABLES \nClue: In 1825, Anthelme Brillat-Savarin said, “a meal without wine is like a day without” this",
+            "input": "Category: POTENT QUOTABLES \nClue: In 1825, Anthelme Brillat-Savarin said, \u201ca meal without wine is like a day without\u201d this",
             "output": [
                 "sunshine"
             ]
@@ -35087,7 +35087,7 @@
             "id": "task306-df64adca813e40c38c12c94d32da8967",
             "input": "Category: SINGERS ALSO KNOWN AS \nClue: This ex-Sugarcube once sported the surname Gudmundsdottir",
             "output": [
-                "björk"
+                "bj\u00f6rk"
             ]
         },
         {
@@ -36823,7 +36823,7 @@
             "id": "task306-bb69d5dc5e164ca0973d1680f64853ef",
             "input": "Category: FOOD-O \nClue: This hot pepper is named after the capital of the state of Veracruz",
             "output": [
-                "jalapeño"
+                "jalape\u00f1o"
             ]
         },
         {
@@ -37339,7 +37339,7 @@
         },
         {
             "id": "task306-f202aa4037f74791b59ea589b6dc2e7f",
-            "input": "Category: ARTISTIC WOMEN SPEAK \nClue: In 1991 Nadine Gordimer said this man’s \"situation is the terrible concern of every fellow writer\"",
+            "input": "Category: ARTISTIC WOMEN SPEAK \nClue: In 1991 Nadine Gordimer said this man\u2019s \"situation is the terrible concern of every fellow writer\"",
             "output": [
                 "salman rushdie"
             ]
@@ -40055,7 +40055,7 @@
         },
         {
             "id": "task306-e3fb8550626e4101a3b69ee6b7280d8f",
-            "input": "Category: HUSBAND & WIFE SINGERS \nClue: “You Can't Lose Me” is something she might sing to fellow country star Tim McGraw; they married in 1996",
+            "input": "Category: HUSBAND & WIFE SINGERS \nClue: \u201cYou Can't Lose Me\u201d is something she might sing to fellow country star Tim McGraw; they married in 1996",
             "output": [
                 "faith hill"
             ]
@@ -40113,7 +40113,7 @@
             "id": "task306-6e7053eaaad44406b2a07984c8e7caf6",
             "input": "Category: THE STING \nClue: Most bar recipes for the stinger call for the white version of this potent potable, not the green",
             "output": [
-                "crème de menthe"
+                "cr\u00e8me de menthe"
             ]
         },
         {
@@ -41847,7 +41847,7 @@
         },
         {
             "id": "task306-0a76128776a14ab798b75793dcc80bba",
-            "input": "Category: IT TAKES A THIEF \nClue: What a thief called a “dip” dips into",
+            "input": "Category: IT TAKES A THIEF \nClue: What a thief called a \u201cdip\u201d dips into",
             "output": [
                 "pocket"
             ]
@@ -42337,7 +42337,7 @@
         },
         {
             "id": "task306-5f0d43e8c2b24c75856bdb3891efdfdc",
-            "input": "Category: POTENT QUOTABLES \nClue: G.W. Young was the one who insisted that these “must never touch mine”",
+            "input": "Category: POTENT QUOTABLES \nClue: G.W. Young was the one who insisted that these \u201cmust never touch mine\u201d",
             "output": [
                 "lips that touch liquor"
             ]
@@ -42556,7 +42556,7 @@
             "id": "task306-321cc1daf88849959c8bf0fefc2f790c",
             "input": "Category: OPERA \nClue: Act I of this opera ends with a love duet between Roddolfo & Mimi",
             "output": [
-                "la bohème"
+                "la boh\u00e8me"
             ]
         },
         {
@@ -42899,7 +42899,7 @@
             "id": "task306-4effc0d9a3bd4423ab8eda43ad486c47",
             "input": "Category: AUTHORS \nClue: In 2004 the wreck of this author's plane was located off Marseille, near where his \"Saint-Ex\" bracelet had been found",
             "output": [
-                "saint-exupéry"
+                "saint-exup\u00e9ry"
             ]
         },
         {
@@ -43499,7 +43499,7 @@
         },
         {
             "id": "task306-44f0264745fe4c9cbf1a4767ebd6895f",
-            "input": "Category: SCIENCE \nClue: These warm, dry winds can raise the temperature at the base of the Rockies as much as 40º F. in 1 hour",
+            "input": "Category: SCIENCE \nClue: These warm, dry winds can raise the temperature at the base of the Rockies as much as 40\u00ba F. in 1 hour",
             "output": [
                 "the chinooks"
             ]

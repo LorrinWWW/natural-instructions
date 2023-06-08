@@ -73,7 +73,7 @@
             "id": "task307-ecbea1c6b5e748348bf6574f4de4d621",
             "input": "Category: WESTERN HEMISPHERE GEOGRAPHY \nClue: The 2 outlets of the Gulf of Mexico, a strait & a channel, bear the names of these 2 land areas",
             "output": [
-                "florida & the yucatán peninsula"
+                "florida & the yucat\u00e1n peninsula"
             ]
         },
         {
@@ -883,7 +883,7 @@
         },
         {
             "id": "task307-0df1d995a03a46baab094c6e080232f5",
-            "input": "Category: FLAGS OF THE WORLD \nClue: \"L'Unifolié\" is one of the names popularly given to the new flag unveiled in 1965 by this country",
+            "input": "Category: FLAGS OF THE WORLD \nClue: \"L'Unifoli\u00e9\" is one of the names popularly given to the new flag unveiled in 1965 by this country",
             "output": [
                 "canada"
             ]
@@ -918,7 +918,7 @@
         },
         {
             "id": "task307-ae88d1dcbc584dc3a22d2e8ea12e2a20",
-            "input": "Category: AFRICAN-AMERICAN AUTHORS \nClue: A conversation he had with Miles Davis became the first of the “Playboy Interviews” in 1962",
+            "input": "Category: AFRICAN-AMERICAN AUTHORS \nClue: A conversation he had with Miles Davis became the first of the \u201cPlayboy Interviews\u201d in 1962",
             "output": [
                 "alex haley"
             ]
@@ -1067,7 +1067,7 @@
             "id": "task307-88e7a462f240477bb7a34b727c688db9",
             "input": "Category: THE REVOLUTIONARY WAR \nClue: He was executed in 1780 & buried in Tappan, New York; his remains were moved to Westminster Abbey in 1821",
             "output": [
-                "major john andré"
+                "major john andr\u00e9"
             ]
         },
         {
@@ -1284,7 +1284,7 @@
             "id": "task307-0aaf92ad07324170aa0855cd6c9c8dba",
             "input": "Category: WORLD AUTHORS \nClue: In 1898 he wrote, \"As for the persons I have accused... they are... embodiments of social malfeasance\"",
             "output": [
-                "émile zola"
+                "\u00e9mile zola"
             ]
         },
         {
@@ -3979,7 +3979,7 @@
             "id": "task307-c437c6e38c34433b8c0ea4ba08cf4703",
             "input": "Category: HISTORIC BRITS \nClue: During the American Revolution, in his last moments he said, \"It will be but a momentary pang\"",
             "output": [
-                "major john andré"
+                "major john andr\u00e9"
             ]
         },
         {
@@ -4600,7 +4600,7 @@
         },
         {
             "id": "task307-8afe59642e0f459e880781e9b73c6fbf",
-            "input": "Category: BUSINESS \nClue: In 1952 Glen Bell was selling burgers; he then added these to the drive-in menu for 19¢, & the rest is history",
+            "input": "Category: BUSINESS \nClue: In 1952 Glen Bell was selling burgers; he then added these to the drive-in menu for 19\u00a2, & the rest is history",
             "output": [
                 "tacos"
             ]
@@ -4854,7 +4854,7 @@
             "id": "task307-2ecf77c037d84027a28e43b7049a2ae1",
             "input": "Category: INTERNATIONAL SPORTS STARS \nClue: In 2002 his No. 10 jersey from the 1970 World Cup finals sold at auction for a record $220,850",
             "output": [
-                "pelé"
+                "pel\u00e9"
             ]
         },
         {
@@ -5223,7 +5223,7 @@
         },
         {
             "id": "task307-0a96eb733cf643ffafca459170fdce67",
-            "input": "Category: THE CABINET \nClue: In the 1970s he held more cabinet posts than anyone in U.S. history—4, including Attorney General",
+            "input": "Category: THE CABINET \nClue: In the 1970s he held more cabinet posts than anyone in U.S. history\u20144, including Attorney General",
             "output": [
                 "elliot richardson"
             ]
@@ -6287,7 +6287,7 @@
         },
         {
             "id": "task307-45d3d1c2dbe4409287449e1b559fd6b9",
-            "input": "Category: OSCAR-WINNING FILMS \nClue: This “Best Picture” of 1970 was based in part on the memoirs of General Omar Bradley",
+            "input": "Category: OSCAR-WINNING FILMS \nClue: This \u201cBest Picture\u201d of 1970 was based in part on the memoirs of General Omar Bradley",
             "output": [
                 "patton"
             ]
@@ -7456,7 +7456,7 @@
         },
         {
             "id": "task307-1da9142c705b4678b32b594f8cff4523",
-            "input": "Category: IN THE NEWS 2006 \nClue: Justice Peter Smith embedded a secret code into a 2006 ruling that said this author hadn’t violated a copyright",
+            "input": "Category: IN THE NEWS 2006 \nClue: Justice Peter Smith embedded a secret code into a 2006 ruling that said this author hadn\u2019t violated a copyright",
             "output": [
                 "dan brown"
             ]
@@ -7470,7 +7470,7 @@
         },
         {
             "id": "task307-e42fea17c5bf48248229320d890d4cd9",
-            "input": "Category: AMERICAN AUTHORS \nClue: Ford Madox Ford, in the ‘20s, hadn’t “read more than six words” by this man before vowing to “publish everything he sent me”",
+            "input": "Category: AMERICAN AUTHORS \nClue: Ford Madox Ford, in the \u201820s, hadn\u2019t \u201cread more than six words\u201d by this man before vowing to \u201cpublish everything he sent me\u201d",
             "output": [
                 "ernest hemingway"
             ]
@@ -7561,7 +7561,7 @@
         },
         {
             "id": "task307-c7b3ace6e4d74fc28725c8968548007f",
-            "input": "Category: CLASSIC LITERATURE \nClue: Chapter 1 of this book describes \"a cyclone cellar, where the family could go in case one of those… whirlwinds arose\"",
+            "input": "Category: CLASSIC LITERATURE \nClue: Chapter 1 of this book describes \"a cyclone cellar, where the family could go in case one of those\u2026 whirlwinds arose\"",
             "output": [
                 "the wizard of oz"
             ]
@@ -10199,13 +10199,6 @@
             ]
         },
         {
-            "id": "task307-8b6b3f83ca1b4572b64b18a012911ce7",
-            "input": "Category: 20th CENTURY LEADERS \nClue: He said, \"An appeaser is one who feeds a crocodile, hoping it will eat him last\"",
-            "output": [
-                "winston churchill"
-            ]
-        },
-        {
             "id": "task307-98cbc50eda564034b173557146250c46",
             "input": "Category: FLAGS \nClue: This saint's cross appears on the provincial flag of Nova Scotia",
             "output": [
@@ -10503,7 +10496,7 @@
             "id": "task307-793b7a50ea3d429ba3976cee5401d11e",
             "input": "Category: THE ACADEMY AWARDS \nClue: As of 2006, 1 of only 3 women to be nominated for best director, for 1976, 1993 & 2003",
             "output": [
-                "lina wertmüller, jane campion and sofia coppola"
+                "lina wertm\u00fcller, jane campion and sofia coppola"
             ]
         },
         {
@@ -10811,7 +10804,7 @@
             "id": "task307-f5c7aed4425f4f03b912d61d32451d1b",
             "input": "Category: HISTORIC NAMES \nClue: In 1529 this Spaniard was made Marques del Valle de Oaxaca",
             "output": [
-                "hernán cortés"
+                "hern\u00e1n cort\u00e9s"
             ]
         },
         {
@@ -11378,7 +11371,7 @@
             "id": "task307-333f6407d0db4f4e9bf801c1835ce484",
             "input": "Category: ENTERPRISING WOMEN \nClue: She began her company in 1946 with a skin cream her chemist uncle developed & pioneered the concept of \"gift with purchase\"",
             "output": [
-                "estée lauder"
+                "est\u00e9e lauder"
             ]
         },
         {
@@ -11483,7 +11476,7 @@
             "id": "task307-f2a1f573ad444c4ca613f5685ae5ec1f",
             "input": "Category: FRENCH CLASSICAL MUSIC \nClue: This 1928 work repeats a theme, almost entirely in C major, in an unvarying rhythm & has a crescendo lasting 17 minutes",
             "output": [
-                "boléro"
+                "bol\u00e9ro"
             ]
         },
         {
@@ -13749,7 +13742,7 @@
         },
         {
             "id": "task307-faf5a286d8f042a091bbccdd04111fe9",
-            "input": "Category: THE OSCARS \nClue: Only Pulitzer Prize-winning novels to become Oscar-winning “Best Pictures” are “All The King's Men” & this one",
+            "input": "Category: THE OSCARS \nClue: Only Pulitzer Prize-winning novels to become Oscar-winning \u201cBest Pictures\u201d are \u201cAll The King's Men\u201d & this one",
             "output": [
                 "gone with the wind"
             ]
@@ -14421,7 +14414,7 @@
         },
         {
             "id": "task307-4433a538f30f466ba948183a0777f28a",
-            "input": "Category: U.S. GOVERNMENT \nClue: Connecticut was the last of the original 13 states to ratify this & didn’t do it until 1939",
+            "input": "Category: U.S. GOVERNMENT \nClue: Connecticut was the last of the original 13 states to ratify this & didn\u2019t do it until 1939",
             "output": [
                 "the bill of rights"
             ]
@@ -15655,7 +15648,7 @@
             "id": "task307-30415bad3e684c7babeaec34d786c275",
             "input": "Category: THE MOVIES \nClue: The title of this award-winning 1963 film refers to the number of films its director felt he had made to that point",
             "output": [
-                "8½"
+                "8\u00bd"
             ]
         },
         {
@@ -15835,7 +15828,7 @@
         },
         {
             "id": "task307-28867da14e864344863da6462915fe36",
-            "input": "Category: HISTORIC AMERICAN QUOTATIONS \nClue: On April 29, 1861 he said, \"We seek no conquest…all we ask is to be let alone\"",
+            "input": "Category: HISTORIC AMERICAN QUOTATIONS \nClue: On April 29, 1861 he said, \"We seek no conquest\u2026all we ask is to be let alone\"",
             "output": [
                 "jefferson davis"
             ]
@@ -17102,7 +17095,7 @@
         },
         {
             "id": "task307-a7210331733e4cb99925e0ab904aca5c",
-            "input": "Category: RENAISSANCE AUTHORS \nClue: In the 16th century he wrote, \"Whoever wishes to found a state…must start with assuming that all men are bad…\"",
+            "input": "Category: RENAISSANCE AUTHORS \nClue: In the 16th century he wrote, \"Whoever wishes to found a state\u2026must start with assuming that all men are bad\u2026\"",
             "output": [
                 "machiavelli"
             ]
@@ -17188,7 +17181,7 @@
             "id": "task307-e6143222f53a42d5bfb25b7d268f54fb",
             "input": "Category: WORLD CAPITALS \nClue: This capital city of 113,000 is the closest national capital to the Arctic Circle",
             "output": [
-                "reykjavík"
+                "reykjav\u00edk"
             ]
         },
         {
@@ -17424,7 +17417,7 @@
         },
         {
             "id": "task307-b17a3da2ac7b418bb6817f57b4b73290",
-            "input": "Category: CHILDREN'S AUTHORS \nClue: After WWI he wrote, \"To develop a horse-surgery… would necessitate a knowledge of horse language\"",
+            "input": "Category: CHILDREN'S AUTHORS \nClue: After WWI he wrote, \"To develop a horse-surgery\u2026 would necessitate a knowledge of horse language\"",
             "output": [
                 "hugh lofting"
             ]
@@ -17550,7 +17543,7 @@
         },
         {
             "id": "task307-7c8b176bc2fb4097a91dab4f06dd0590",
-            "input": "Category: FAMOUS PAINTERS \nClue: He said, “You could find me anytime at Fournaise’s”, a restaurant right on the Seine",
+            "input": "Category: FAMOUS PAINTERS \nClue: He said, \u201cYou could find me anytime at Fournaise\u2019s\u201d, a restaurant right on the Seine",
             "output": [
                 "pierre-auguste renoir"
             ]
@@ -19572,13 +19565,6 @@
             ]
         },
         {
-            "id": "task307-38935610da064204ae843628faddbb2a",
-            "input": "Category: POETS \nClue: She wrote, \"From her beacon-hand glows world-wide welcome; her mild eyes command the air-bridged harbor\"",
-            "output": [
-                "emma lazarus"
-            ]
-        },
-        {
             "id": "task307-70528ccbd970440fb3491453bf6d8dd3",
             "input": "Category: NEW YORK CITY \nClue: Opened in 1937, it got its name in response to the George Washington Bridge, north of it",
             "output": [
@@ -20063,7 +20049,7 @@
         },
         {
             "id": "task307-f9e9fa66e2164ef691affde8d4e6885a",
-            "input": "Category: ORGANIZATIONS \nClue: The USA’s oldest nationwide voluntary health agency, it was founded in 1904 to combat tuberculosis",
+            "input": "Category: ORGANIZATIONS \nClue: The USA\u2019s oldest nationwide voluntary health agency, it was founded in 1904 to combat tuberculosis",
             "output": [
                 "american lung association"
             ]
@@ -24011,7 +23997,7 @@
         },
         {
             "id": "task307-c443bec09ecf4a0a99bd6623026a8b62",
-            "input": "Category: PRO FOOTBALL GEOGRAPHY \nClue: Of all the U.S. states with 2 current NFL teams, it’s the only state the Mississippi River touches",
+            "input": "Category: PRO FOOTBALL GEOGRAPHY \nClue: Of all the U.S. states with 2 current NFL teams, it\u2019s the only state the Mississippi River touches",
             "output": [
                 "missouri"
             ]
@@ -24069,7 +24055,7 @@
             "id": "task307-ea2fc7e2a37a41c1a9c70d8a77b142f3",
             "input": "Category: HISTORIC OBJECTS \nClue: Standart, Azov & Clock are among the names of these items, given as royal Easter gifts starting in the mid-1880s",
             "output": [
-                "fabergé eggs"
+                "faberg\u00e9 eggs"
             ]
         },
         {
@@ -24188,7 +24174,7 @@
             "id": "task307-1b972762d6dc4e60a9a91dbd8c63c421",
             "input": "Category: WORLD CITIES \nClue: According to U.N. data, it's the world's most populous city named for a person",
             "output": [
-                "são paulo, brazil"
+                "s\u00e3o paulo, brazil"
             ]
         },
         {
@@ -24991,7 +24977,7 @@
         },
         {
             "id": "task307-bea9f6e928234152a9c003a050dfe495",
-            "input": "Category: NEXT IN LINE \nClue: Jacqueline, Claudia, Thelma, …",
+            "input": "Category: NEXT IN LINE \nClue: Jacqueline, Claudia, Thelma, \u2026",
             "output": [
                 "elizabeth \\\"betty\\\""
             ]

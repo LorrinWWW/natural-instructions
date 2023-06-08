@@ -69,14 +69,14 @@
         },
         {
             "id": "task1453-112eac078b264626b6bc99a0de49484b",
-            "input": " In today 's Irish News : Sunday ’ s crowd at Clones will get value for their money from Antrim says Saffrons manager Liam Bradley #EveryBall",
+            "input": " In today 's Irish News : Sunday \u2019 s crowd at Clones will get value for their money from Antrim says Saffrons manager Liam Bradley #EveryBall",
             "output": [
                 "Liam Bradley"
             ]
         },
         {
             "id": "task1453-a178bdbc77c54fea81123e5fc4d7c758",
-            "input": " Bishop John McAreavey : “ Political representatives must answer for their own position on abortion … ” http://t.co/j3LXdNxFsV",
+            "input": " Bishop John McAreavey : \u201c Political representatives must answer for their own position on abortion \u2026 \u201d http://t.co/j3LXdNxFsV",
             "output": [
                 "Bishop John McAreavey"
             ]
@@ -97,7 +97,7 @@
         },
         {
             "id": "task1453-f8d749c7d87b4b25af686acca7bb6308",
-            "input": " James Risen says , “ I will continue to fight ” after Supreme Court disappointment http://t.co/6mmUyAVPHp \" deeply troubling ” says Baquet",
+            "input": " James Risen says , \u201c I will continue to fight \u201d after Supreme Court disappointment http://t.co/6mmUyAVPHp \" deeply troubling \u201d says Baquet",
             "output": [
                 "James Risen"
             ]
@@ -216,14 +216,14 @@
         },
         {
             "id": "task1453-5d36a02d94164d7f9d5b077a4a6d135a",
-            "input": " Aftermath of the #MH17 crash in Ukraine ( Dominique Faget— AFP / @ GettyImages ) http://t.co/7vg3ALyFn7 http://t.co/BS0g5x0byC",
+            "input": " Aftermath of the #MH17 crash in Ukraine ( Dominique Faget\u2014 AFP / @ GettyImages ) http://t.co/7vg3ALyFn7 http://t.co/BS0g5x0byC",
             "output": [
-                "Dominique Faget—"
+                "Dominique Faget\u2014"
             ]
         },
         {
             "id": "task1453-8b990bc2ddec4d7088ff3555db2d8425",
-            "input": " DISGRACE : An Atalanta fan not only threw a banana at AC Milan 's Kevin Constant … but also a knife ! ! http://t.co/KXogzwQNu1",
+            "input": " DISGRACE : An Atalanta fan not only threw a banana at AC Milan 's Kevin Constant \u2026 but also a knife ! ! http://t.co/KXogzwQNu1",
             "output": [
                 "Kevin Constant"
             ]
@@ -244,7 +244,7 @@
         },
         {
             "id": "task1453-f98241c34409414f82958820da11deba",
-            "input": " 🐰  the Easter bunny came 🐰  aka @ waynecoyne @ katy_weaver http://t.co/eyp2m09unr",
+            "input": " \ud83d\udc30  the Easter bunny came \ud83d\udc30  aka @ waynecoyne @ katy_weaver http://t.co/eyp2m09unr",
             "output": [
                 "waynecoyne @ katy_weaver"
             ]
@@ -307,7 +307,7 @@
         },
         {
             "id": "task1453-c69b721a8bec4b93b166e0965a7f3ea1",
-            "input": " . @ DanCohen17 Andre Russell pretended to pull out of his run up , and then bowled it … I kinda like it . It ’ s very naughty though !",
+            "input": " . @ DanCohen17 Andre Russell pretended to pull out of his run up , and then bowled it \u2026 I kinda like it . It \u2019 s very naughty though !",
             "output": [
                 "Andre Russell"
             ]
@@ -356,7 +356,7 @@
         },
         {
             "id": "task1453-cf58a6448d4e4d209bfae670a8b3d6d0",
-            "input": " Blog Spotlight # ffc Senderos targets Cup success : Philippe Senderos has turned his attention to Friday night ’ s F . . . http://t.co/lkE1sKQ2",
+            "input": " Blog Spotlight # ffc Senderos targets Cup success : Philippe Senderos has turned his attention to Friday night \u2019 s F . . . http://t.co/lkE1sKQ2",
             "output": [
                 "Philippe Senderos"
             ]
@@ -412,7 +412,7 @@
         },
         {
             "id": "task1453-d855fe0c186a44788f5000258812cc92",
-            "input": " mto legal receber o carinho de um amigo e grande jogador como Leo Messi na sua biografia oficial lançada recentemente http://t.co/HFwFwE02EV",
+            "input": " mto legal receber o carinho de um amigo e grande jogador como Leo Messi na sua biografia oficial lan\u00e7ada recentemente http://t.co/HFwFwE02EV",
             "output": [
                 "Leo Messi"
             ]
@@ -517,7 +517,7 @@
         },
         {
             "id": "task1453-043da149144348169cabdec1f14a699e",
-            "input": " Endo Fashion Breakfast . . . . sponsored by #Vogels . . . #nzfw #colinmathurajeffree angeliquefristaylor … http://t.co/WePF6HwF54",
+            "input": " Endo Fashion Breakfast . . . . sponsored by #Vogels . . . #nzfw #colinmathurajeffree angeliquefristaylor \u2026 http://t.co/WePF6HwF54",
             "output": [
                 "#colinmathurajeffree angeliquefristaylor"
             ]
@@ -552,7 +552,7 @@
         },
         {
             "id": "task1453-fe6638d243b348a48980f5ec8cb622fa",
-            "input": " #GoodTimes at @ amnesia_ibiza . Marco Carola is such a #Legend 🙌  #BOSS 🎶  😝  🎶  @ Amnesia - Ibiza http://t.co/XUyny42C9O",
+            "input": " #GoodTimes at @ amnesia_ibiza . Marco Carola is such a #Legend \ud83d\ude4c  #BOSS \ud83c\udfb6  \ud83d\ude1d  \ud83c\udfb6  @ Amnesia - Ibiza http://t.co/XUyny42C9O",
             "output": [
                 "Marco Carola"
             ]
@@ -699,9 +699,9 @@
         },
         {
             "id": "task1453-307cf565ecbb4b34ac728a1987116e0a",
-            "input": " Latest : Daithí McKay : Sinn Féin will not be deflected by ' old guard ' within the police http://t.co/qZmErJoyOS",
+            "input": " Latest : Daith\u00ed McKay : Sinn F\u00e9in will not be deflected by ' old guard ' within the police http://t.co/qZmErJoyOS",
             "output": [
-                "Daithí McKay"
+                "Daith\u00ed McKay"
             ]
         },
         {
@@ -741,14 +741,14 @@
         },
         {
             "id": "task1453-b69a33e65f5940e0a3affb3fde66a25d",
-            "input": " @BusinessNadine nice one this morning Fred Hollows Foundation , awesome work @Br eakfastonOne 👏  👏  👏 ",
+            "input": " @BusinessNadine nice one this morning Fred Hollows Foundation , awesome work @Br eakfastonOne \ud83d\udc4f  \ud83d\udc4f  \ud83d\udc4f ",
             "output": [
                 "Fred Hollows"
             ]
         },
         {
             "id": "task1453-6b6b77ec24ce43baa172b7ebff3add4a",
-            "input": " Did you see this ? \" Getting my hair trimmed by the one and only Anh Co Tran ready for my appearance tonight on Amanda … http://t.co/XjUfldijDA",
+            "input": " Did you see this ? \" Getting my hair trimmed by the one and only Anh Co Tran ready for my appearance tonight on Amanda \u2026 http://t.co/XjUfldijDA",
             "output": [
                 "Anh Co Tran"
             ]
@@ -776,7 +776,7 @@
         },
         {
             "id": "task1453-f57de6df66c54a7a9da9aaaf9a592dbe",
-            "input": " Parabéns pelo evento da Zero Discriminação que aconteceu hoje no Cristo Redentor no Rio de Janeiro ! ! Importante causa e iniciativa ! !",
+            "input": " Parab\u00e9ns pelo evento da Zero Discrimina\u00e7\u00e3o que aconteceu hoje no Cristo Redentor no Rio de Janeiro ! ! Importante causa e iniciativa ! !",
             "output": [
                 "Cristo Redentor"
             ]
@@ -790,7 +790,7 @@
         },
         {
             "id": "task1453-65105d1d964540dd8cf12a95230179d6",
-            "input": " One of my favorite artists Lana Del Rey ’ s new album . http://t.co/14BIkuVvW2 http://t.co/TDk8OmPMUF",
+            "input": " One of my favorite artists Lana Del Rey \u2019 s new album . http://t.co/14BIkuVvW2 http://t.co/TDk8OmPMUF",
             "output": [
                 "Lana Del Rey"
             ]
@@ -867,7 +867,7 @@
         },
         {
             "id": "task1453-93b0d9d15f8c4d68a519101c59347256",
-            "input": " \" We shouldn ’ t have to wait for the judgment of history \" ( Senator Neville Bonner ) #auspol #recognise",
+            "input": " \" We shouldn \u2019 t have to wait for the judgment of history \" ( Senator Neville Bonner ) #auspol #recognise",
             "output": [
                 "Senator Neville Bonner"
             ]
@@ -937,7 +937,7 @@
         },
         {
             "id": "task1453-8716cf71667e4cadb2336dde663bd244",
-            "input": " If you have to say it … RT smalltownmoon : ' I am leading this party ' - Ed Miliband # lol",
+            "input": " If you have to say it \u2026 RT smalltownmoon : ' I am leading this party ' - Ed Miliband # lol",
             "output": [
                 "Ed Miliband"
             ]
@@ -1070,7 +1070,7 @@
         },
         {
             "id": "task1453-5ace468cd0d54c03b3c088976e037a52",
-            "input": " Great to see Rob “ @ DanMISSIONBEAT : Just finished Missionbeat patrol with new Min for Homelessness Rob McClelland http://t.co/6bUAqiMM ”",
+            "input": " Great to see Rob \u201c @ DanMISSIONBEAT : Just finished Missionbeat patrol with new Min for Homelessness Rob McClelland http://t.co/6bUAqiMM \u201d",
             "output": [
                 "Rob McClelland"
             ]
@@ -1126,7 +1126,7 @@
         },
         {
             "id": "task1453-8aa3b89e1f304ebd9ba5a6b2f7cc013e",
-            "input": " Love this awesome song , bro ! – Bad Day by Darwin Deez , from # SoundHound http://t.co/JZgNP2VQ",
+            "input": " Love this awesome song , bro ! \u2013 Bad Day by Darwin Deez , from # SoundHound http://t.co/JZgNP2VQ",
             "output": [
                 "Darwin Deez"
             ]
@@ -1140,7 +1140,7 @@
         },
         {
             "id": "task1453-b5e31fb01351450a96996135dcba16b5",
-            "input": " “ @ gypsyheart24 : @ ashleytisdale #YoungAndHungryChat What was it like working with Jessica Lowndes ? ” She was so sweet and cool !",
+            "input": " \u201c @ gypsyheart24 : @ ashleytisdale #YoungAndHungryChat What was it like working with Jessica Lowndes ? \u201d She was so sweet and cool !",
             "output": [
                 "Jessica Lowndes"
             ]
@@ -1175,9 +1175,9 @@
         },
         {
             "id": "task1453-77d817c0644941da969e1a3136ba52cc",
-            "input": " ¡ ¡ Golazo de luis Suárez ! ! Shak",
+            "input": " \u00a1 \u00a1 Golazo de luis Su\u00e1rez ! ! Shak",
             "output": [
-                "luis Suárez"
+                "luis Su\u00e1rez"
             ]
         },
         {
@@ -1203,7 +1203,7 @@
         },
         {
             "id": "task1453-f59c7a7019414c52b7b94b73432304b8",
-            "input": " 😉  @ NickPrinceNz : @ CoryJane1080 @ 4LittleJanes Way to win bonus points with the Mrs ! just got told I never tweet anything like that",
+            "input": " \ud83d\ude09  @ NickPrinceNz : @ CoryJane1080 @ 4LittleJanes Way to win bonus points with the Mrs ! just got told I never tweet anything like that",
             "output": [
                 "CoryJane1080 @ 4LittleJanes"
             ]
@@ -1238,14 +1238,14 @@
         },
         {
             "id": "task1453-5aa0e0bc43814f869bdc4abb59c2998b",
-            "input": " very excited - waiting to hear ‘ The Irishwoman who shot Mussolini ’ by the wonderful Siobhan Lynam on now @ RTERadio1 @ RTEdoconone",
+            "input": " very excited - waiting to hear \u2018 The Irishwoman who shot Mussolini \u2019 by the wonderful Siobhan Lynam on now @ RTERadio1 @ RTEdoconone",
             "output": [
                 "Siobhan Lynam"
             ]
         },
         {
             "id": "task1453-75e192464d9c4734bc1d9cbc88b2d018",
-            "input": " Una Flor . . . versión casera #LocoDeAmor http://t.co/kUSL4Y1nT5",
+            "input": " Una Flor . . . versi\u00f3n casera #LocoDeAmor http://t.co/kUSL4Y1nT5",
             "output": [
                 "Una Flor"
             ]
@@ -1259,7 +1259,7 @@
         },
         {
             "id": "task1453-12e99470fb7946baa756a22f2f2e5f3c",
-            "input": " Sen . John Cornyn raised $ 150 K / week for 15 months ahead of primary — \" We didn ’ t want to have a fair fight , ” he said http://t.co/FG93seNnt4",
+            "input": " Sen . John Cornyn raised $ 150 K / week for 15 months ahead of primary \u2014 \" We didn \u2019 t want to have a fair fight , \u201d he said http://t.co/FG93seNnt4",
             "output": [
                 "John Cornyn"
             ]
@@ -1280,7 +1280,7 @@
         },
         {
             "id": "task1453-e2b1f84e48474a789d23d66fb8b31d7b",
-            "input": " listening to '\"' Time is not Enough - BRENDA LEE '\"' ♫ http://t.co/nQYdQoO8",
+            "input": " listening to '\"' Time is not Enough - BRENDA LEE '\"' \u266b http://t.co/nQYdQoO8",
             "output": [
                 "BRENDA LEE"
             ]
@@ -1427,7 +1427,7 @@
         },
         {
             "id": "task1453-d2852c7bafb143f4a2a03b64df77763f",
-            "input": " ❝ Thomas Zipp Schwartze Ballons at The Saatchi Gallery http://t.co/W4nXB691 ❞",
+            "input": " \u275d Thomas Zipp Schwartze Ballons at The Saatchi Gallery http://t.co/W4nXB691 \u275e",
             "output": [
                 "Thomas Zipp"
             ]
@@ -1469,7 +1469,7 @@
         },
         {
             "id": "task1453-c2ace8a6537d4214babb2a147b395b22",
-            "input": " I ❤ ️ Foam ! @ Paris Hilton 's Foam & Diamond Party at Amnesia Ibiza 💎  http://t.co/xu7vkdYsAk",
+            "input": " I \u2764 \ufe0f Foam ! @ Paris Hilton 's Foam & Diamond Party at Amnesia Ibiza \ud83d\udc8e  http://t.co/xu7vkdYsAk",
             "output": [
                 "Paris Hilton"
             ]
@@ -1650,13 +1650,6 @@
             ]
         },
         {
-            "id": "task1453-5423288fb1534d5196f7d84e25f620e9",
-            "input": " '\"' The only thing necessary for the triumph of evil is for good men to do nothing . '\"' - Edmund Burke # nwo # quotes # evil # standup # edmundburke # v",
-            "output": [
-                "Edmund Burke"
-            ]
-        },
-        {
             "id": "task1453-c7ba6c8f701847cd80ab43541841160c",
             "input": " Buxton FC chairman says Scott Maxfield 's original appointment as Buxton boss had been an '\"' open-ended arrangement , to see how things went . '\"'",
             "output": [
@@ -1665,7 +1658,7 @@
         },
         {
             "id": "task1453-c9d4ecaf36ea422d8186a432f741eb86",
-            "input": " “ @ Feeney4Batman : How Christopher Pyne can face Parliament after such barefaced lies is a mystery ! #qt #auspol http://t.co/KXbNM77yxI ”",
+            "input": " \u201c @ Feeney4Batman : How Christopher Pyne can face Parliament after such barefaced lies is a mystery ! #qt #auspol http://t.co/KXbNM77yxI \u201d",
             "output": [
                 "Christopher Pyne"
             ]
@@ -1707,7 +1700,7 @@
         },
         {
             "id": "task1453-8f462556467a4f75aa6b5a094e555da9",
-            "input": " Tonight on Anger Management Toronto Blue Jay 's pitcher Conner Greene . . ! Tune in to #FX at 9 . . ! … http://t.co/N3Jxw9gOwM",
+            "input": " Tonight on Anger Management Toronto Blue Jay 's pitcher Conner Greene . . ! Tune in to #FX at 9 . . ! \u2026 http://t.co/N3Jxw9gOwM",
             "output": [
                 "Conner Greene"
             ]
@@ -1728,14 +1721,14 @@
         },
         {
             "id": "task1453-f98b7082821449a1bea3d257abb10d68",
-            "input": " Business of the House : Backbench Business — Rwandan Genocide ( 8 May 2014 ) : Jeremy Lefroy : I did not realise th . . . http://t.co/uBhAjSroJE",
+            "input": " Business of the House : Backbench Business \u2014 Rwandan Genocide ( 8 May 2014 ) : Jeremy Lefroy : I did not realise th . . . http://t.co/uBhAjSroJE",
             "output": [
                 "Jeremy Lefroy"
             ]
         },
         {
             "id": "task1453-f6578d95ca604ca6a0485ce73adfebe1",
-            "input": " Business of the House : Backbench Business — Rwandan Genocide ( 8 May 2014 ) : Jeremy Lefroy : I am afraid that I d . . . http://t.co/iUIdsLyVQH",
+            "input": " Business of the House : Backbench Business \u2014 Rwandan Genocide ( 8 May 2014 ) : Jeremy Lefroy : I am afraid that I d . . . http://t.co/iUIdsLyVQH",
             "output": [
                 "Jeremy Lefroy"
             ]
@@ -1847,35 +1840,35 @@
         },
         {
             "id": "task1453-493e586e69534d10991534b80d806998",
-            "input": " \" Our businesses have now added nearly 10 million new jobs over the past 52 months . \" — President Obama",
+            "input": " \" Our businesses have now added nearly 10 million new jobs over the past 52 months . \" \u2014 President Obama",
             "output": [
                 "President Obama"
             ]
         },
         {
             "id": "task1453-06c8189cbd6f47ee8ecb95a4dc627ef7",
-            "input": " \" And it 's your voice that 's going to change this country . \" — President Obama #OpportunityForAll",
+            "input": " \" And it 's your voice that 's going to change this country . \" \u2014 President Obama #OpportunityForAll",
             "output": [
                 "President Obama"
             ]
         },
         {
             "id": "task1453-b6eefe16181c417a85e0dbbdd283a96a",
-            "input": " \" Manufacturing is adding jobs for the first time since the '90s . \" — President Obama #OpportunityForAll",
+            "input": " \" Manufacturing is adding jobs for the first time since the '90s . \" \u2014 President Obama #OpportunityForAll",
             "output": [
                 "President Obama"
             ]
         },
         {
             "id": "task1453-0c6be5e867594587beb08d0f1946a6cc",
-            "input": " \" Climate change poses a direct threat to the infrastructure of America . \" — President Obama http://t.co/9mSDnbYtf3 #ActOnClimate",
+            "input": " \" Climate change poses a direct threat to the infrastructure of America . \" \u2014 President Obama http://t.co/9mSDnbYtf3 #ActOnClimate",
             "output": [
                 "President Obama"
             ]
         },
         {
             "id": "task1453-ac09a1da2a0c4946bb19e7226cf7ed48",
-            "input": " \" By almost every measure , we are better off now than when I took office . \" — President Obama #OpportunityForAll",
+            "input": " \" By almost every measure , we are better off now than when I took office . \" \u2014 President Obama #OpportunityForAll",
             "output": [
                 "President Obama"
             ]

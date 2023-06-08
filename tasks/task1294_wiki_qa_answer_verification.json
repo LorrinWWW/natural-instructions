@@ -29,7 +29,7 @@
     ],
     "Positive Examples": [
         {
-            "input": "what latitude is tropic of cancer, Answer: It currently (Year 2013) lies at 23° 26′ 15.143′′ north of the Equator.",
+            "input": "what latitude is tropic of cancer, Answer: It currently (Year 2013) lies at 23\u00b0 26\u2032 15.143\u2032\u2032 north of the Equator.",
             "output": "Yes",
             "explanation": "This is a good example, and the given answer correctly answers the question."
         },
@@ -115,7 +115,7 @@
         },
         {
             "id": "task1294-4056b7d2d5cc4bdab2c78123b23e4b9e",
-            "input": "what is definition of psychotic, Answer: Psychosis (from the Greek ψυχή \"psyche\", for mind/soul, and -ωσις \"-osis\", for abnormal condition or derangement) refers to an abnormal condition of the mind, and is a generic psychiatric term for a mental state often described as involving a \"loss of contact with reality \".",
+            "input": "what is definition of psychotic, Answer: Psychosis (from the Greek \u03c8\u03c5\u03c7\u03ae \"psyche\", for mind/soul, and -\u03c9\u03c3\u03b9\u03c2 \"-osis\", for abnormal condition or derangement) refers to an abnormal condition of the mind, and is a generic psychiatric term for a mental state often described as involving a \"loss of contact with reality \".",
             "output": [
                 "Yes"
             ]
@@ -136,7 +136,7 @@
         },
         {
             "id": "task1294-6766e42b4a104c4b9fb01abd33745e98",
-            "input": "how tall are the members of tlc, Answer: CrazySexyCool went on to be certified diamond by the RIAA — a first for a female group, and eventually sold 23 million copies worldwide.",
+            "input": "how tall are the members of tlc, Answer: CrazySexyCool went on to be certified diamond by the RIAA \u2014 a first for a female group, and eventually sold 23 million copies worldwide.",
             "output": [
                 "No"
             ]
@@ -178,7 +178,7 @@
         },
         {
             "id": "task1294-e0cb9872e99f4b42a71e9925c8ccead1",
-            "input": "when president nixon resigns, Answer: Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th President of the United States , serving from 1969 to 1974, when he became the only president to resign the office.",
+            "input": "when president nixon resigns, Answer: Richard Milhous Nixon (January 9, 1913 \u2013 April 22, 1994) was the 37th President of the United States , serving from 1969 to 1974, when he became the only president to resign the office.",
             "output": [
                 "Yes"
             ]
@@ -199,7 +199,7 @@
         },
         {
             "id": "task1294-79365b7f431649248730e56af60ff601",
-            "input": "how long was richard nixon a president, Answer: Richard Milhous Nixon (January 9, 1913 – April 22, 1994) was the 37th President of the United States , serving from 1969 to 1974, when he became the only president to resign the office.",
+            "input": "how long was richard nixon a president, Answer: Richard Milhous Nixon (January 9, 1913 \u2013 April 22, 1994) was the 37th President of the United States , serving from 1969 to 1974, when he became the only president to resign the office.",
             "output": [
                 "Yes"
             ]
@@ -227,7 +227,7 @@
         },
         {
             "id": "task1294-3c7e901751524cd7a124e442daf89c98",
-            "input": "who shot franz ferdinand, Answer: On 28 June 1914, Archduke Franz Ferdinand of Austria , heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg , were shot dead in Sarajevo , by Gavrilo Princip , one of a group of six Bosnian Serb assassins coordinated by Danilo Ilić .",
+            "input": "who shot franz ferdinand, Answer: On 28 June 1914, Archduke Franz Ferdinand of Austria , heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg , were shot dead in Sarajevo , by Gavrilo Princip , one of a group of six Bosnian Serb assassins coordinated by Danilo Ili\u0107 .",
             "output": [
                 "Yes"
             ]
@@ -256,13 +256,6 @@
         {
             "id": "task1294-ce0d421e27cb40de8da5007c9a8a98fd",
             "input": "how big is the purdue greek system, Answer: The first classes were held on September 16, 1874, with six instructors and 39 students.",
-            "output": [
-                "No"
-            ]
-        },
-        {
-            "id": "task1294-8c41bad3a8dc41eeb343d63232c31e50",
-            "input": "how much does cloud 10 cost wikipedia, Answer: Two processes, possibly acting together, can lead to air becoming saturated; cooling the air or adding water vapor to the air.",
             "output": [
                 "No"
             ]
@@ -360,7 +353,7 @@
         },
         {
             "id": "task1294-40ef45f9de7843c9bf5bb3a73a626255",
-            "input": "how many presidential terms did fdr serve, Answer: Most of the regulations on business were ended about 1975–85, except for the regulation of Wall Street by the Securities and Exchange Commission , which still exists.",
+            "input": "how many presidential terms did fdr serve, Answer: Most of the regulations on business were ended about 1975\u201385, except for the regulation of Wall Street by the Securities and Exchange Commission , which still exists.",
             "output": [
                 "No"
             ]
@@ -423,7 +416,7 @@
         },
         {
             "id": "task1294-993fd427a00244dd8c0815f6c40bca22",
-            "input": "what was the post modernist era in literature?, Answer: Postmodern literature is literature characterized by heavy reliance on techniques like fragmentation, paradox, and questionable narrators, and is often (though not exclusively) defined as a style or trend which emerged in the post–World War II era.",
+            "input": "what was the post modernist era in literature?, Answer: Postmodern literature is literature characterized by heavy reliance on techniques like fragmentation, paradox, and questionable narrators, and is often (though not exclusively) defined as a style or trend which emerged in the post\u2013World War II era.",
             "output": [
                 "Yes"
             ]
@@ -451,7 +444,7 @@
         },
         {
             "id": "task1294-2f9febd71f8b429bb0dd673b71079733",
-            "input": "how did the new york red bulls started in the mls, Answer: The team has also had well-known coaches, including Carlos Queiroz , Carlos Alberto Parreira , Bora Milutinović , Bob Bradley , Mo Johnston , Bruce Arena and Hans Backe .",
+            "input": "how did the new york red bulls started in the mls, Answer: The team has also had well-known coaches, including Carlos Queiroz , Carlos Alberto Parreira , Bora Milutinovi\u0107 , Bob Bradley , Mo Johnston , Bruce Arena and Hans Backe .",
             "output": [
                 "No"
             ]
@@ -556,7 +549,7 @@
         },
         {
             "id": "task1294-736ed5185bc440d8bae0da303e076895",
-            "input": "how old is zsa zsa gabor's daughter, Answer: But I like a mannish man, a man who knows how to talk to and treat a woman – not just a man with muscles.\"",
+            "input": "how old is zsa zsa gabor's daughter, Answer: But I like a mannish man, a man who knows how to talk to and treat a woman \u2013 not just a man with muscles.\"",
             "output": [
                 "No"
             ]
@@ -640,7 +633,7 @@
         },
         {
             "id": "task1294-9971cfcf32114df5afbfa18c31922a65",
-            "input": "how big are baby zebras when born, Answer: Grévy's zebra and the mountain zebra are endangered.",
+            "input": "how big are baby zebras when born, Answer: Gr\u00e9vy's zebra and the mountain zebra are endangered.",
             "output": [
                 "No"
             ]
@@ -654,7 +647,7 @@
         },
         {
             "id": "task1294-65e871ed592a45338d7212313269ec4f",
-            "input": "who wrote stand by me, Answer: \"Stand by Me\" is a song originally performed by Ben E. King and written by King, Jerry Leiber , and Mike Stoller , inspired by the spiritual \"Lord Stand by Me,\" plus two lines rooted in Psalms 46:2–3.",
+            "input": "who wrote stand by me, Answer: \"Stand by Me\" is a song originally performed by Ben E. King and written by King, Jerry Leiber , and Mike Stoller , inspired by the spiritual \"Lord Stand by Me,\" plus two lines rooted in Psalms 46:2\u20133.",
             "output": [
                 "Yes"
             ]
@@ -955,7 +948,7 @@
         },
         {
             "id": "task1294-6c68f9cd4ab14fd4ba1fb9db9faa33fc",
-            "input": "what is the mortality rate of sepsis, Answer: The mortality rate from septic shock is approximately 25–50%.",
+            "input": "what is the mortality rate of sepsis, Answer: The mortality rate from septic shock is approximately 25\u201350%.",
             "output": [
                 "Yes"
             ]
@@ -1018,7 +1011,7 @@
         },
         {
             "id": "task1294-d5101287ffa4467191555c14a281d0b6",
-            "input": "how many people live in atlanta georgia, Answer: Although Atlanta’s economy is considered diverse, dominant sectors include logistics, professional and business services, media operations, government administration, and higher education.",
+            "input": "how many people live in atlanta georgia, Answer: Although Atlanta\u2019s economy is considered diverse, dominant sectors include logistics, professional and business services, media operations, government administration, and higher education.",
             "output": [
                 "No"
             ]
@@ -1129,13 +1122,6 @@
             ]
         },
         {
-            "id": "task1294-671659f6b1394fbba65ae3afda364643",
-            "input": "how deep is the atlantic ocean, Answer: As one component of the interconnected global ocean , it is connected in the north to the Arctic Ocean (which is sometimes considered a sea of the Atlantic), to the Pacific Ocean in the southwest, the Indian Ocean in the southeast, and the Southern Ocean in the south.",
-            "output": [
-                "No"
-            ]
-        },
-        {
             "id": "task1294-98e39a1d7cc94c84aaf7aaa77e454a34",
             "input": "what do you call to the grade six pupils?, Answer: Pupils in rural Sudan , 2002",
             "output": [
@@ -1145,13 +1131,6 @@
         {
             "id": "task1294-e72d899f63ac4ab8840173c6be214485",
             "input": "how bruce lee died, Answer: He is often credited with helping to change the way Asians were presented in American films.",
-            "output": [
-                "No"
-            ]
-        },
-        {
-            "id": "task1294-b1ce001d04914ccd8f1f093cb2583fe0",
-            "input": "how much is jk rowling worth, Answer: Born in Yate , Gloucestershire , Rowling was working as a researcher and bilingual secretary for Amnesty International when she conceived the idea for the Harry Potter series on a delayed train from Manchester to London in 1990.",
             "output": [
                 "No"
             ]
@@ -1214,7 +1193,7 @@
         },
         {
             "id": "task1294-1b9e50ee352f44db80e2fc1b2d70722e",
-            "input": "What is the name of the late Major League  old professor, Answer: Charles Dillon \"Casey\" Stengel (; July 30, 1890 – September 29, 1975), nicknamed \"The Old Perfessor\", was an American Major League Baseball outfielder and manager .",
+            "input": "What is the name of the late Major League  old professor, Answer: Charles Dillon \"Casey\" Stengel (; July 30, 1890 \u2013 September 29, 1975), nicknamed \"The Old Perfessor\", was an American Major League Baseball outfielder and manager .",
             "output": [
                 "Yes"
             ]
@@ -1340,7 +1319,7 @@
         },
         {
             "id": "task1294-24dfe44066204564a2ad79746099fb85",
-            "input": "what are the 7 continents, Answer: They are generally identified by convention rather than any strict criteria, with up to seven regions commonly regarded as continents—they are (from largest in size to smallest): Asia , Africa , North America , South America , Antarctica , Europe , and Australia .",
+            "input": "what are the 7 continents, Answer: They are generally identified by convention rather than any strict criteria, with up to seven regions commonly regarded as continents\u2014they are (from largest in size to smallest): Asia , Africa , North America , South America , Antarctica , Europe , and Australia .",
             "output": [
                 "Yes"
             ]
@@ -1466,7 +1445,7 @@
         },
         {
             "id": "task1294-4f355b13157a44e0b2260b529a81195b",
-            "input": "what is busiest airport in US, Answer: Hartsfield–Jackson Atlanta International Airport is the busiest single airport in the United States.",
+            "input": "what is busiest airport in US, Answer: Hartsfield\u2013Jackson Atlanta International Airport is the busiest single airport in the United States.",
             "output": [
                 "Yes"
             ]
@@ -1515,14 +1494,14 @@
         },
         {
             "id": "task1294-afcc996c56734795ac0fb76fe23f7cb9",
-            "input": "how are cholera and typhus transmitted and prevented, Answer: Worldwide, it affects 3–5 million people and causes 100,000–130,000 deaths a year .",
+            "input": "how are cholera and typhus transmitted and prevented, Answer: Worldwide, it affects 3\u20135 million people and causes 100,000\u2013130,000 deaths a year .",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-5ba367ca1bb4480783211afcdd8b984f",
-            "input": "how did the new york red bulls started in the mls, Answer: Some well-known players that have played for the team include Giovanni Savarese , Tim Howard , Tony Meola , Tab Ramos , Alexi Lalas , Clint Mathis , Jozy Altidore , Michael Bradley , Claudio Reyna , Eddie Pope , Roberto Donadoni , Lothar Matthäus , Adolfo Valencia , Youri Djorkaeff , Amado Guevara , Juan Pablo Ángel , Thierry Henry , Juninho Pernambucano , Jan Gunnar Solli , Rafael Márquez , and Tim Cahill .",
+            "input": "how did the new york red bulls started in the mls, Answer: Some well-known players that have played for the team include Giovanni Savarese , Tim Howard , Tony Meola , Tab Ramos , Alexi Lalas , Clint Mathis , Jozy Altidore , Michael Bradley , Claudio Reyna , Eddie Pope , Roberto Donadoni , Lothar Matth\u00e4us , Adolfo Valencia , Youri Djorkaeff , Amado Guevara , Juan Pablo \u00c1ngel , Thierry Henry , Juninho Pernambucano , Jan Gunnar Solli , Rafael M\u00e1rquez , and Tim Cahill .",
             "output": [
                 "No"
             ]
@@ -1767,7 +1746,7 @@
         },
         {
             "id": "task1294-a584d584bdbe4812af1871a48fb4365f",
-            "input": "how are ribosomes made, Answer: Ribosomes consist of two major subunits—the small ribosomal subunit reads the mRNA, while the large subunit joins amino acids to form a polypeptide chain.",
+            "input": "how are ribosomes made, Answer: Ribosomes consist of two major subunits\u2014the small ribosomal subunit reads the mRNA, while the large subunit joins amino acids to form a polypeptide chain.",
             "output": [
                 "No"
             ]
@@ -1872,7 +1851,7 @@
         },
         {
             "id": "task1294-1db515b74db344d4b579c5b82be065ce",
-            "input": "where scottsdale?, Answer: Scottsdale ( O'odham Vaṣai S-vaṣonĭ; Yaqui Eskatel) is a city in the eastern part of Maricopa County, Arizona , United States , adjacent to Phoenix .",
+            "input": "where scottsdale?, Answer: Scottsdale ( O'odham Va\u1e63ai S-va\u1e63on\u012d; Yaqui Eskatel) is a city in the eastern part of Maricopa County, Arizona , United States , adjacent to Phoenix .",
             "output": [
                 "Yes"
             ]
@@ -1942,7 +1921,7 @@
         },
         {
             "id": "task1294-11e1cc4292c94fadb2d3f814287b65a9",
-            "input": "how long was frank sinatra famous, Answer: Sinatra is also one of world’s best-selling artists of all time , having sold more than 150 million copies worldwide.",
+            "input": "how long was frank sinatra famous, Answer: Sinatra is also one of world\u2019s best-selling artists of all time , having sold more than 150 million copies worldwide.",
             "output": [
                 "No"
             ]
@@ -1977,7 +1956,7 @@
         },
         {
             "id": "task1294-346500db22b5402ea9ae48885e3f5d92",
-            "input": "how many presidents of the us, Answer: History records four presidents – John Q Adams, Rutherford B. Hayes, Benjamin Harrison and George W. Bush – who lost the popular vote but assumed office.",
+            "input": "how many presidents of the us, Answer: History records four presidents \u2013 John Q Adams, Rutherford B. Hayes, Benjamin Harrison and George W. Bush \u2013 who lost the popular vote but assumed office.",
             "output": [
                 "No"
             ]
@@ -2215,14 +2194,14 @@
         },
         {
             "id": "task1294-400eb6c9d8fa4b3a87b740822e292783",
-            "input": "how many presidential terms did fdr serve, Answer: In his first hundred days in office, which began March 4, 1933, Roosevelt spearheaded major legislation and issued a profusion of executive orders that instituted the New Deal —a variety of programs designed to produce relief (government jobs for the unemployed), recovery (economic growth), and reform (through regulation of Wall Street, banks and transportation).",
+            "input": "how many presidential terms did fdr serve, Answer: In his first hundred days in office, which began March 4, 1933, Roosevelt spearheaded major legislation and issued a profusion of executive orders that instituted the New Deal \u2014a variety of programs designed to produce relief (government jobs for the unemployed), recovery (economic growth), and reform (through regulation of Wall Street, banks and transportation).",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-f201e780df454dd7b93a2b1121fb79d9",
-            "input": "how long was frank sinatra famous, Answer: Francis Albert \"Frank\" Sinatra, , (December 12, 1915 – May 14, 1998) was an American singer and film actor.",
+            "input": "how long was frank sinatra famous, Answer: Francis Albert \"Frank\" Sinatra, , (December 12, 1915 \u2013 May 14, 1998) was an American singer and film actor.",
             "output": [
                 "No"
             ]
@@ -2250,7 +2229,7 @@
         },
         {
             "id": "task1294-82baf627a7d04bb4a152eb8b34852063",
-            "input": "How Do You Find the mean of the squares of the first 10 counting numbers, Answer: For example, = ±3, so 9 is a square number.",
+            "input": "How Do You Find the mean of the squares of the first 10 counting numbers, Answer: For example, = \u00b13, so 9 is a square number.",
             "output": [
                 "No"
             ]
@@ -2271,7 +2250,7 @@
         },
         {
             "id": "task1294-2fbcf4e9d17346218f75286a44c5a8da",
-            "input": "how long was angelina on the jersey shore?, Answer: The only other official remake of the show is Gandía Shore , set in Gandía , Spain .",
+            "input": "how long was angelina on the jersey shore?, Answer: The only other official remake of the show is Gand\u00eda Shore , set in Gand\u00eda , Spain .",
             "output": [
                 "No"
             ]
@@ -2341,7 +2320,7 @@
         },
         {
             "id": "task1294-cb6add6b370c4249baaf8cca31c5ff95",
-            "input": "how many days it take for neptune to orbit once, Answer: The NEPTUNE Canada project is the world’s first regional-scale underwater ocean observatory that plugs directly into the Internet .",
+            "input": "how many days it take for neptune to orbit once, Answer: The NEPTUNE Canada project is the world\u2019s first regional-scale underwater ocean observatory that plugs directly into the Internet .",
             "output": [
                 "No"
             ]
@@ -2362,7 +2341,7 @@
         },
         {
             "id": "task1294-fa41af41c10b475199382456a5648bae",
-            "input": "who rules communism government, Answer: It has a form of government characterized by single-party rule or dominant-party rule of a communist party (referred as Dictatorship of the Proletariat by its proponents) and a professed allegiance to a Leninist or Marxist–Leninist ideology as the guiding principle of the state.",
+            "input": "who rules communism government, Answer: It has a form of government characterized by single-party rule or dominant-party rule of a communist party (referred as Dictatorship of the Proletariat by its proponents) and a professed allegiance to a Leninist or Marxist\u2013Leninist ideology as the guiding principle of the state.",
             "output": [
                 "Yes"
             ]
@@ -2383,7 +2362,7 @@
         },
         {
             "id": "task1294-cdd9b61382e04989bd7a3fd4d8eba274",
-            "input": "what does add my two cents mean, Answer: \"My two cents\" (2¢) and its longer version \"put my two cents in\" is an United States (US) idiomatic expression, taken from the original English idiom expression: to put in \"my two pennies worth\" or \"my tuppence worth.\"",
+            "input": "what does add my two cents mean, Answer: \"My two cents\" (2\u00a2) and its longer version \"put my two cents in\" is an United States (US) idiomatic expression, taken from the original English idiom expression: to put in \"my two pennies worth\" or \"my tuppence worth.\"",
             "output": [
                 "Yes"
             ]
@@ -2747,7 +2726,7 @@
         },
         {
             "id": "task1294-577e5150864e45f68ee036a8e3c03ca3",
-            "input": "when did hitler kill himself, Answer: Adolf Hitler committed suicide by gunshot on 30 April 1945 in his Führerbunker in Berlin.",
+            "input": "when did hitler kill himself, Answer: Adolf Hitler committed suicide by gunshot on 30 April 1945 in his F\u00fchrerbunker in Berlin.",
             "output": [
                 "Yes"
             ]
@@ -2778,13 +2757,6 @@
             "input": "how long was frank sinatra famous, Answer: Being the idol of the \" bobby soxers \", he released his first album, The Voice of Frank Sinatra in 1946.",
             "output": [
                 "No"
-            ]
-        },
-        {
-            "id": "task1294-47b848a189f0420d892d8e3514c451d4",
-            "input": "when did lucy stone died, Answer: Lucy Stone (August 13, 1818 – October 19, 1893) was a prominent American abolitionist and suffragist , and a vocal advocate and organizer promoting rights for women .",
-            "output": [
-                "Yes"
             ]
         },
         {
@@ -2831,7 +2803,7 @@
         },
         {
             "id": "task1294-cb76b29da4d647d4ab7e4eee7f590be5",
-            "input": "who sings stand by me, Answer: \"Stand by Me\" is a song originally performed by Ben E. King and written by King, Jerry Leiber , and Mike Stoller , inspired by the spiritual \"Lord Stand by Me,\" plus two lines rooted in Psalms 46:2–3.",
+            "input": "who sings stand by me, Answer: \"Stand by Me\" is a song originally performed by Ben E. King and written by King, Jerry Leiber , and Mike Stoller , inspired by the spiritual \"Lord Stand by Me,\" plus two lines rooted in Psalms 46:2\u20133.",
             "output": [
                 "Yes"
             ]
@@ -2859,7 +2831,7 @@
         },
         {
             "id": "task1294-12262307318c48f2adcd85ae351b047c",
-            "input": "how did armando christian perez become famous, Answer: Armando Pérez (born January 15, 1981), better known by his stage name Pitbull, is an American rapper, songwriter, and record producer.",
+            "input": "how did armando christian perez become famous, Answer: Armando P\u00e9rez (born January 15, 1981), better known by his stage name Pitbull, is an American rapper, songwriter, and record producer.",
             "output": [
                 "Yes"
             ]
@@ -2873,14 +2845,14 @@
         },
         {
             "id": "task1294-9703ad26fc31484191d25f4a0d0e527f",
-            "input": "what countries are in cono sur, Answer: Although geographically this includes Southern and part of Southeast ( São Paulo ) of Brazil , in terms of political geography the Southern cone has traditionally comprised Argentina , Chile , Paraguay , and Uruguay .",
+            "input": "what countries are in cono sur, Answer: Although geographically this includes Southern and part of Southeast ( S\u00e3o Paulo ) of Brazil , in terms of political geography the Southern cone has traditionally comprised Argentina , Chile , Paraguay , and Uruguay .",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-98d9e6c230984e08bc522b72482c38b9",
-            "input": "how fast is one g, Answer: In a banked turn of 60°, lift equals double the weight (L=2W).",
+            "input": "how fast is one g, Answer: In a banked turn of 60\u00b0, lift equals double the weight (L=2W).",
             "output": [
                 "No"
             ]
@@ -2957,7 +2929,7 @@
         },
         {
             "id": "task1294-9c9a913793b646e4ac4ff95c6d38a052",
-            "input": "when did andrea doria sink, Answer: Pronounced was an ocean liner for the Italian Line (Società di navigazione Italia) home ported in Genoa , Italy, most famous for its sinking in 1956, when 52 people died (51 from immediate impact).",
+            "input": "when did andrea doria sink, Answer: Pronounced was an ocean liner for the Italian Line (Societ\u00e0 di navigazione Italia) home ported in Genoa , Italy, most famous for its sinking in 1956, when 52 people died (51 from immediate impact).",
             "output": [
                 "Yes"
             ]
@@ -3132,7 +3104,7 @@
         },
         {
             "id": "task1294-199016f98524425e9c46baf235bdce52",
-            "input": "what is blood urea, Answer: Normal human adult blood should contain between 7 to 21 mg of urea nitrogen per 100 ml (7–21 mg/ dL ) of blood.",
+            "input": "what is blood urea, Answer: Normal human adult blood should contain between 7 to 21 mg of urea nitrogen per 100 ml (7\u201321 mg/ dL ) of blood.",
             "output": [
                 "Yes"
             ]
@@ -3160,7 +3132,7 @@
         },
         {
             "id": "task1294-a4bdb122a06f448fba24c4e5b854cf60",
-            "input": "how much was game boy color when it came out, Answer: It is the first handheld console in the Game Boy line , and was created by Gunpei Yokoi and Nintendo Research & Development 1 —the same staff who had designed the Game & Watch series as well as several popular games for the Nintendo Entertainment System .",
+            "input": "how much was game boy color when it came out, Answer: It is the first handheld console in the Game Boy line , and was created by Gunpei Yokoi and Nintendo Research & Development 1 \u2014the same staff who had designed the Game & Watch series as well as several popular games for the Nintendo Entertainment System .",
             "output": [
                 "No"
             ]
@@ -3300,7 +3272,7 @@
         },
         {
             "id": "task1294-1b05e230dde94809b9b14702eb4185e0",
-            "input": "how does a cat purr, Answer: However, using a strict definition of purring that continuous sound production must alternate between pulmonic egressive and ingressive airstream (and usually go on for minutes), Peters (2002), in an exhaustive review of the scientific literature, reached the conclusion that until then only ‘purring cats’ (Felidae) and two species of genets , Genetta tigrina, and most likely also Genetta genetta, had been documented to purr.",
+            "input": "how does a cat purr, Answer: However, using a strict definition of purring that continuous sound production must alternate between pulmonic egressive and ingressive airstream (and usually go on for minutes), Peters (2002), in an exhaustive review of the scientific literature, reached the conclusion that until then only \u2018purring cats\u2019 (Felidae) and two species of genets , Genetta tigrina, and most likely also Genetta genetta, had been documented to purr.",
             "output": [
                 "Yes"
             ]
@@ -3335,7 +3307,7 @@
         },
         {
             "id": "task1294-81dd783d61104c10bdd725d9968ddce8",
-            "input": "how does a dredge work?, Answer: A dredger (or “dredge” as is the general usage in the Americas) is any device, machine, or vessel that is used to excavate and remove material from the bottom of a body of water.",
+            "input": "how does a dredge work?, Answer: A dredger (or \u201cdredge\u201d as is the general usage in the Americas) is any device, machine, or vessel that is used to excavate and remove material from the bottom of a body of water.",
             "output": [
                 "Yes"
             ]
@@ -3412,7 +3384,7 @@
         },
         {
             "id": "task1294-2d99e23e715f418bbbf43f4c44ca1723",
-            "input": "who is shem in the bible, Answer: Shem ( ; Sēm; Arabic : Sām; Ge'ez : ሴም, Sēm; \"renown; prosperity; name\") was one of the sons of Noah in the Hebrew Bible as well as in Islamic literature .",
+            "input": "who is shem in the bible, Answer: Shem ( ; S\u0113m; Arabic : S\u0101m; Ge'ez : \u1234\u121d, S\u0113m; \"renown; prosperity; name\") was one of the sons of Noah in the Hebrew Bible as well as in Islamic literature .",
             "output": [
                 "Yes"
             ]
@@ -3524,7 +3496,7 @@
         },
         {
             "id": "task1294-e1415c216aa44267be54014b23edcaf8",
-            "input": "how big are baby zebras when born, Answer: There are three species of zebras: the plains zebra , the Grévy's zebra and the mountain zebra .",
+            "input": "how big are baby zebras when born, Answer: There are three species of zebras: the plains zebra , the Gr\u00e9vy's zebra and the mountain zebra .",
             "output": [
                 "No"
             ]
@@ -3629,7 +3601,7 @@
         },
         {
             "id": "task1294-e5cb5c7d92c1412fa26afb32589c2780",
-            "input": "how is the weather in tampa, Answer: Though known for hot summers, Tampa's official high has never reached 100 °F (38 °C) – the city's all-time record temperature is 99 °F (37 °C).",
+            "input": "how is the weather in tampa, Answer: Though known for hot summers, Tampa's official high has never reached 100 \u00b0F (38 \u00b0C) \u2013 the city's all-time record temperature is 99 \u00b0F (37 \u00b0C).",
             "output": [
                 "No"
             ]
@@ -3853,7 +3825,7 @@
         },
         {
             "id": "task1294-b2b6aac5d17e40c4b0cdc85b69659145",
-            "input": "how bruce lee died, Answer: Bruce Lee (traditional :李小龍; born Lee Jun-fan; 27 November 1940 – 20 July 1973) was a Chinese American martial artist , actor, martial arts instructor, philosopher, and filmmaker.",
+            "input": "how bruce lee died, Answer: Bruce Lee (traditional :\u674e\u5c0f\u9f8d; born Lee Jun-fan; 27 November 1940 \u2013 20 July 1973) was a Chinese American martial artist , actor, martial arts instructor, philosopher, and filmmaker.",
             "output": [
                 "No"
             ]
@@ -3874,7 +3846,7 @@
         },
         {
             "id": "task1294-bc46dd15b39e4d3f91a327b4986c297b",
-            "input": "how deep can be drill for deep underwater, Answer: Most of the time, the oil company will replace the MODU with a more permanent oil production rig to capture oil.” ...The MODU's job is to drill down into the ocean's floor to find oil deposits.",
+            "input": "how deep can be drill for deep underwater, Answer: Most of the time, the oil company will replace the MODU with a more permanent oil production rig to capture oil.\u201d ...The MODU's job is to drill down into the ocean's floor to find oil deposits.",
             "output": [
                 "No"
             ]
@@ -4070,14 +4042,14 @@
         },
         {
             "id": "task1294-1e8f6ea69ba94bda87975ef0cdd300a0",
-            "input": "how deep can be drill for deep underwater, Answer: You can find some oil deposits buried deep under the ocean floor.” ...Using sonic equipment, oil companies determine the drilling sites most likely to produce oil.",
+            "input": "how deep can be drill for deep underwater, Answer: You can find some oil deposits buried deep under the ocean floor.\u201d ...Using sonic equipment, oil companies determine the drilling sites most likely to produce oil.",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-b543a027f64642619206ed2d40e04cc1",
-            "input": "what county is Augusta,GA located in?, Answer: Augusta is the principal city of the Augusta – Richmond County Metropolitan Statistical Area , which as of 2010 had an estimated population of 556,877, making it both the second-largest city and the second-largest metro area in the state after Atlanta .",
+            "input": "what county is Augusta,GA located in?, Answer: Augusta is the principal city of the Augusta \u2013 Richmond County Metropolitan Statistical Area , which as of 2010 had an estimated population of 556,877, making it both the second-largest city and the second-largest metro area in the state after Atlanta .",
             "output": [
                 "Yes"
             ]
@@ -4371,7 +4343,7 @@
         },
         {
             "id": "task1294-d1c0ff05676043b78f78685a9edf2b9c",
-            "input": "how many percent is a basis point, Answer: 1 bp = 1 = 0.01% = 0.1‰ = 10−4 = = 0.0001",
+            "input": "how many percent is a basis point, Answer: 1 bp = 1 = 0.01% = 0.1\u2030 = 10\u22124 = = 0.0001",
             "output": [
                 "Yes"
             ]
@@ -4448,7 +4420,7 @@
         },
         {
             "id": "task1294-74b0b10844bb4f079d916962b4177f7c",
-            "input": "what ended the era of good feelings, Answer: The period is so closely associated with Monroe's presidency (1817–1825) and his administrative goals that his name and the era are virtually synonymous.",
+            "input": "what ended the era of good feelings, Answer: The period is so closely associated with Monroe's presidency (1817\u20131825) and his administrative goals that his name and the era are virtually synonymous.",
             "output": [
                 "No"
             ]
@@ -4504,7 +4476,7 @@
         },
         {
             "id": "task1294-5cac4f5fd28d4259970bbf997f3571e4",
-            "input": "what is the lowest temperature ever recorded in antarctica, Answer: Antarctica has the lowest naturally occurring temperature ever recorded on the ground on Earth: −89.2 °C (−128.6 °F) at Vostok Station .",
+            "input": "what is the lowest temperature ever recorded in antarctica, Answer: Antarctica has the lowest naturally occurring temperature ever recorded on the ground on Earth: \u221289.2 \u00b0C (\u2212128.6 \u00b0F) at Vostok Station .",
             "output": [
                 "Yes"
             ]
@@ -4588,7 +4560,7 @@
         },
         {
             "id": "task1294-11ce3880ac71465baae766a70c3753bf",
-            "input": "what composer used sound mass, Answer: Developed from the modernist tone clusters and spread to orchestral writing by the late 1950s and 1960s, sound-mass \"obscures the boundary between sound and noise \" (Edwards 2001, pp. 326–27).",
+            "input": "what composer used sound mass, Answer: Developed from the modernist tone clusters and spread to orchestral writing by the late 1950s and 1960s, sound-mass \"obscures the boundary between sound and noise \" (Edwards 2001, pp. 326\u201327).",
             "output": [
                 "No"
             ]
@@ -4777,7 +4749,7 @@
         },
         {
             "id": "task1294-5a396d71480946e8a529348743b5e28b",
-            "input": "how did bleeding sumner lead to the civil war, Answer: Sen. Sumner had been leaked information from Assistant Secretary of State, Bancroft Davis , that U.S. Naval ships were being used to protect President Báez.",
+            "input": "how did bleeding sumner lead to the civil war, Answer: Sen. Sumner had been leaked information from Assistant Secretary of State, Bancroft Davis , that U.S. Naval ships were being used to protect President B\u00e1ez.",
             "output": [
                 "No"
             ]
@@ -4840,7 +4812,7 @@
         },
         {
             "id": "task1294-04a5e38def1047c092287ffa463b21b7",
-            "input": "how big or small a visible light can get, Answer: Birds, too, can see into the ultraviolet (300–400 nm), and some have sex-dependent markings on their plumage that are visible only in the ultraviolet range.",
+            "input": "how big or small a visible light can get, Answer: Birds, too, can see into the ultraviolet (300\u2013400 nm), and some have sex-dependent markings on their plumage that are visible only in the ultraviolet range.",
             "output": [
                 "No"
             ]
@@ -4931,7 +4903,7 @@
         },
         {
             "id": "task1294-9dd044f1b42042eb9e0ea38a78d21c05",
-            "input": "What is sign of cancer, Answer: Cancer (♋) is an astrological sign , which is associated with the constellation Cancer .",
+            "input": "What is sign of cancer, Answer: Cancer (\u264b) is an astrological sign , which is associated with the constellation Cancer .",
             "output": [
                 "Yes"
             ]
@@ -4959,7 +4931,7 @@
         },
         {
             "id": "task1294-99088bd55f154997ac6fb9b0fd426988",
-            "input": "what country are bongo drums from?, Answer: Bongos (Spanish: bongó) are an Afro-Cuban percussion instrument .",
+            "input": "what country are bongo drums from?, Answer: Bongos (Spanish: bong\u00f3) are an Afro-Cuban percussion instrument .",
             "output": [
                 "Yes"
             ]
@@ -5106,7 +5078,7 @@
         },
         {
             "id": "task1294-31b1aca3c75b44eabd74425ad2535016",
-            "input": "how did angelina jolie get her name?, Answer: She continued her action star career with Mr. & Mrs. Smith (2005) and Wanted (2008)—her biggest non-animated commercial successes to date—and received further critical acclaim for her performances in the dramas A Mighty Heart (2007) and Changeling (2008), which earned her a nomination for an Academy Award for Best Actress .",
+            "input": "how did angelina jolie get her name?, Answer: She continued her action star career with Mr. & Mrs. Smith (2005) and Wanted (2008)\u2014her biggest non-animated commercial successes to date\u2014and received further critical acclaim for her performances in the dramas A Mighty Heart (2007) and Changeling (2008), which earned her a nomination for an Academy Award for Best Actress .",
             "output": [
                 "No"
             ]
@@ -5120,14 +5092,14 @@
         },
         {
             "id": "task1294-f6b9cccd94624bd697ff2c03e6b81ecd",
-            "input": "What did the augurs use to interpret the will of the gods?, Answer: The ceremony and function of the augur was central to any major undertaking in Roman society—public or private—including matters of war, commerce, and religion .",
+            "input": "What did the augurs use to interpret the will of the gods?, Answer: The ceremony and function of the augur was central to any major undertaking in Roman society\u2014public or private\u2014including matters of war, commerce, and religion .",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-f7b773877bb24677a1bc0c7218df1b7a",
-            "input": "how much caffeine is in a shot of espresso, Answer: Espresso has more caffeine per unit volume than most beverages, but the usual serving size is smaller—a typical 60 mL (2 US fluid ounce ) of espresso has 80 to 150 mg of caffeine, little less than the 95 to 200 mg of a standard 240 mL (8 US fluid ounces ) cup of drip-brewed coffee.",
+            "input": "how much caffeine is in a shot of espresso, Answer: Espresso has more caffeine per unit volume than most beverages, but the usual serving size is smaller\u2014a typical 60 mL (2 US fluid ounce ) of espresso has 80 to 150 mg of caffeine, little less than the 95 to 200 mg of a standard 240 mL (8 US fluid ounces ) cup of drip-brewed coffee.",
             "output": [
                 "Yes"
             ]
@@ -5372,7 +5344,7 @@
         },
         {
             "id": "task1294-d9caa7a1d29944d1a95e22c70d2bc692",
-            "input": "how do pineapples grow, Answer: Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 20–24 months and fruiting in the following six months.",
+            "input": "how do pineapples grow, Answer: Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 20\u201324 months and fruiting in the following six months.",
             "output": [
                 "Yes"
             ]
@@ -5456,7 +5428,7 @@
         },
         {
             "id": "task1294-59ba28f771304f068d594fcb235f1571",
-            "input": "what is amoxicillin for?, Answer: Amoxicillin ( INN ), formerly amoxycillin ( BAN ), and abbreviated amox, is a moderate-spectrum, bacteriolytic, β-lactam antibiotic used to treat bacterial infections caused by susceptible microorganisms .",
+            "input": "what is amoxicillin for?, Answer: Amoxicillin ( INN ), formerly amoxycillin ( BAN ), and abbreviated amox, is a moderate-spectrum, bacteriolytic, \u03b2-lactam antibiotic used to treat bacterial infections caused by susceptible microorganisms .",
             "output": [
                 "Yes"
             ]
@@ -5659,7 +5631,7 @@
         },
         {
             "id": "task1294-d47a7a2794c84d40b1e76e6774f91f18",
-            "input": "what temperature is a salt ice bath, Answer: A cooling bath, in laboratory chemistry (often but not always organic chemistry ) practice, is a liquid mixture which is used to maintain low temperatures, typically between 13 °C and −196 °C.",
+            "input": "what temperature is a salt ice bath, Answer: A cooling bath, in laboratory chemistry (often but not always organic chemistry ) practice, is a liquid mixture which is used to maintain low temperatures, typically between 13 \u00b0C and \u2212196 \u00b0C.",
             "output": [
                 "Yes"
             ]
@@ -5820,7 +5792,7 @@
         },
         {
             "id": "task1294-7c1bdaeff77c4d21adbe87e4f820fce4",
-            "input": "who kill franz ferdinand ww1, Answer: On 28 June 1914, Archduke Franz Ferdinand of Austria , heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg , were shot dead in Sarajevo , by Gavrilo Princip , one of a group of six Bosnian Serb assassins coordinated by Danilo Ilić .",
+            "input": "who kill franz ferdinand ww1, Answer: On 28 June 1914, Archduke Franz Ferdinand of Austria , heir presumptive to the Austro-Hungarian throne, and his wife, Sophie, Duchess of Hohenberg , were shot dead in Sarajevo , by Gavrilo Princip , one of a group of six Bosnian Serb assassins coordinated by Danilo Ili\u0107 .",
             "output": [
                 "Yes"
             ]
@@ -5876,14 +5848,14 @@
         },
         {
             "id": "task1294-591519da10d845cdb8d37a78ec4caabf",
-            "input": "What did Lawrence Joshua Chamberlain do?, Answer: Joshua Lawrence Chamberlain (September 8, 1828 – February 24, 1914), born as Lawrence Joshua Chamberlain, was an American college professor from the State of Maine , who volunteered during the American Civil War to join the Union Army .",
+            "input": "What did Lawrence Joshua Chamberlain do?, Answer: Joshua Lawrence Chamberlain (September 8, 1828 \u2013 February 24, 1914), born as Lawrence Joshua Chamberlain, was an American college professor from the State of Maine , who volunteered during the American Civil War to join the Union Army .",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-d642b6c9a6a54eb0a1a708ccbba161c7",
-            "input": "how many days does the chinese new year last, Answer: 9 – 12 February (Vietnam)",
+            "input": "how many days does the chinese new year last, Answer: 9 \u2013 12 February (Vietnam)",
             "output": [
                 "Yes"
             ]
@@ -5918,7 +5890,7 @@
         },
         {
             "id": "task1294-3f9a486b9d7f4c9aa61e0c002fcab110",
-            "input": "how did wild bill's father die, Answer: James Butler Hickok (May 27, 1837 – August 2, 1876), better known as Wild Bill Hickok, was a folk hero of the American Old West .",
+            "input": "how did wild bill's father die, Answer: James Butler Hickok (May 27, 1837 \u2013 August 2, 1876), better known as Wild Bill Hickok, was a folk hero of the American Old West .",
             "output": [
                 "No"
             ]
@@ -5946,7 +5918,7 @@
         },
         {
             "id": "task1294-2bb4479448cb4f23978a458367421325",
-            "input": "Who is the husband of Betty Ford, Answer: Elizabeth Ann Bloomer Warren \"Betty\" Ford (April 8, 1918 – July 8, 2011), was First Lady of the United States from 1974 to 1977 during the presidency of her husband Gerald Ford .",
+            "input": "Who is the husband of Betty Ford, Answer: Elizabeth Ann Bloomer Warren \"Betty\" Ford (April 8, 1918 \u2013 July 8, 2011), was First Lady of the United States from 1974 to 1977 during the presidency of her husband Gerald Ford .",
             "output": [
                 "Yes"
             ]
@@ -5988,7 +5960,7 @@
         },
         {
             "id": "task1294-1b05c79cc6ac4fe1a293b377785801f1",
-            "input": "what is the sign for degrees, Answer: The degree symbol (°) is a typographical symbol that is used, among other things, to represent degrees of arc (e.g. in geographic coordinate systems ), hours (in the medical field), or degrees of temperature .",
+            "input": "what is the sign for degrees, Answer: The degree symbol (\u00b0) is a typographical symbol that is used, among other things, to represent degrees of arc (e.g. in geographic coordinate systems ), hours (in the medical field), or degrees of temperature .",
             "output": [
                 "Yes"
             ]
@@ -6002,7 +5974,7 @@
         },
         {
             "id": "task1294-34af3dd047524089bfcdf73a9dee16b3",
-            "input": "what year did martin luther king die, Answer: Martin Luther King, Jr. (January 15, 1929 – April 4, 1968) was an American clergyman, activist, and leader in the African-American Civil Rights Movement .",
+            "input": "what year did martin luther king die, Answer: Martin Luther King, Jr. (January 15, 1929 \u2013 April 4, 1968) was an American clergyman, activist, and leader in the African-American Civil Rights Movement .",
             "output": [
                 "Yes"
             ]
@@ -6205,7 +6177,7 @@
         },
         {
             "id": "task1294-a06a89c26022445790e214852c012d1a",
-            "input": "what president was theodore roosevelt, Answer: Roosevelt, Jr. ( ; October 27, 1858—January 6, 1919) was the 26th President of the United States (1901–1909).",
+            "input": "what president was theodore roosevelt, Answer: Roosevelt, Jr. ( ; October 27, 1858\u2014January 6, 1919) was the 26th President of the United States (1901\u20131909).",
             "output": [
                 "Yes"
             ]
@@ -6226,7 +6198,7 @@
         },
         {
             "id": "task1294-66c985acf5d348ea8ec21d02cfa87848",
-            "input": "how a vul works, Answer: The 'variable' component in the name refers to this ability to invest in separate accounts whose values vary—they vary because they are invested in stock and/or bond markets.",
+            "input": "how a vul works, Answer: The 'variable' component in the name refers to this ability to invest in separate accounts whose values vary\u2014they vary because they are invested in stock and/or bond markets.",
             "output": [
                 "No"
             ]
@@ -6247,7 +6219,7 @@
         },
         {
             "id": "task1294-afd805fd9456487d8b9f6649168ffcc4",
-            "input": "what composer used sound mass, Answer: Other composers with works using this technique include Henryk Górecki , Karel Husa , Witold Lutosławski , Kazimierz Serocki , and Steven Stucky .",
+            "input": "what composer used sound mass, Answer: Other composers with works using this technique include Henryk G\u00f3recki , Karel Husa , Witold Lutos\u0142awski , Kazimierz Serocki , and Steven Stucky .",
             "output": [
                 "Yes"
             ]
@@ -6261,7 +6233,7 @@
         },
         {
             "id": "task1294-a89d34e43b5344e0a115b6d03d5eab6c",
-            "input": "when did thomas jefferson become president, Answer: Elected president in what Jefferson called the Revolution of 1800 , he oversaw the purchase of the vast Louisiana Territory from France (1803), and sent the Lewis and Clark Expedition (1804–1806) to explore the new west.",
+            "input": "when did thomas jefferson become president, Answer: Elected president in what Jefferson called the Revolution of 1800 , he oversaw the purchase of the vast Louisiana Territory from France (1803), and sent the Lewis and Clark Expedition (1804\u20131806) to explore the new west.",
             "output": [
                 "Yes"
             ]
@@ -6317,7 +6289,7 @@
         },
         {
             "id": "task1294-62f2810792b24b1283b079b61f689f34",
-            "input": "who wrote rhythm of the ancient mariner, Answer: The Rime of the Ancient Mariner (originally The Rime of the Ancyent Marinere) is the longest major poem by the English poet Samuel Taylor Coleridge , written in 1797–98 and published in 1798 in the first edition of Lyrical Ballads .",
+            "input": "who wrote rhythm of the ancient mariner, Answer: The Rime of the Ancient Mariner (originally The Rime of the Ancyent Marinere) is the longest major poem by the English poet Samuel Taylor Coleridge , written in 1797\u201398 and published in 1798 in the first edition of Lyrical Ballads .",
             "output": [
                 "Yes"
             ]
@@ -6450,7 +6422,7 @@
         },
         {
             "id": "task1294-8c61a24b829e4e2da90b89ae6f940839",
-            "input": "what is the kanji for language, Answer: Kanji (; ) are the adopted logographic Chinese characters ( hanzi ) that are used in the modern Japanese writing system along with hiragana (ひらがな, ), katakana (カタカナ, ), Hindu-Arabic numerals , and the occasional use of the Latin alphabet .",
+            "input": "what is the kanji for language, Answer: Kanji (; ) are the adopted logographic Chinese characters ( hanzi ) that are used in the modern Japanese writing system along with hiragana (\u3072\u3089\u304c\u306a, ), katakana (\u30ab\u30bf\u30ab\u30ca, ), Hindu-Arabic numerals , and the occasional use of the Latin alphabet .",
             "output": [
                 "Yes"
             ]
@@ -6569,7 +6541,7 @@
         },
         {
             "id": "task1294-564776380c5e477d8c4b3259acebfb98",
-            "input": "what ended the era of good feelings, Answer: The designation of the period by historians as one of “good feelings” is often conveyed with irony or skepticism, as the history of the era was one in which the political atmosphere was strained and divisive, especially among factions within the Monroe administration and the Republican Party.",
+            "input": "what ended the era of good feelings, Answer: The designation of the period by historians as one of \u201cgood feelings\u201d is often conveyed with irony or skepticism, as the history of the era was one in which the political atmosphere was strained and divisive, especially among factions within the Monroe administration and the Republican Party.",
             "output": [
                 "No"
             ]
@@ -6611,7 +6583,7 @@
         },
         {
             "id": "task1294-be5cd8df20bd4bb2bca4f9da61125b0a",
-            "input": "how did the new york red bulls started in the mls, Answer: In the US Open Cup , the MetroStars reached three semifinals (1997, 1998, 2000), before reaching their first final in 2003, losing 1–0 to the Chicago Fire .",
+            "input": "how did the new york red bulls started in the mls, Answer: In the US Open Cup , the MetroStars reached three semifinals (1997, 1998, 2000), before reaching their first final in 2003, losing 1\u20130 to the Chicago Fire .",
             "output": [
                 "No"
             ]
@@ -6793,7 +6765,7 @@
         },
         {
             "id": "task1294-03e1e944c561454081c41bdd771ce8ae",
-            "input": "how much is jk rowling worth, Answer: She is the United Kingdom's best-selling author since records began, with sales in excess of £238m.",
+            "input": "how much is jk rowling worth, Answer: She is the United Kingdom's best-selling author since records began, with sales in excess of \u00a3238m.",
             "output": [
                 "No"
             ]
@@ -6975,7 +6947,7 @@
         },
         {
             "id": "task1294-ac33ae156e7c4d8cb4b5adea8db19443",
-            "input": "how old was anna nicole smith when she meet her old husband, Answer: Vickie Lynn Marshall (née Hogan; November 28, 1967 – February 8, 2007), known by her moniker Anna Nicole Smith, was an American model, actress, and television personality.",
+            "input": "how old was anna nicole smith when she meet her old husband, Answer: Vickie Lynn Marshall (n\u00e9e Hogan; November 28, 1967 \u2013 February 8, 2007), known by her moniker Anna Nicole Smith, was an American model, actress, and television personality.",
             "output": [
                 "No"
             ]
@@ -7010,7 +6982,7 @@
         },
         {
             "id": "task1294-da35b457bb3b4349baaa58ce2a827e53",
-            "input": "who was charged with murder after the massacre at My lai, Answer: While 26 U.S. soldiers were initially charged with criminal offenses for their actions at Mỹ Lai, only Second Lieutenant William Calley , a platoon leader in Charlie Company, was convicted.",
+            "input": "who was charged with murder after the massacre at My lai, Answer: While 26 U.S. soldiers were initially charged with criminal offenses for their actions at M\u1ef9 Lai, only Second Lieutenant William Calley , a platoon leader in Charlie Company, was convicted.",
             "output": [
                 "Yes"
             ]
@@ -7171,7 +7143,7 @@
         },
         {
             "id": "task1294-1c6daaf97d4c448782d28a7091a53099",
-            "input": "how much is jk rowling worth, Answer: Rowling subsequently published 6 sequels—the last, Harry Potter and the Deathly Hallows (2007)—as well as 3 supplements to the series.",
+            "input": "how much is jk rowling worth, Answer: Rowling subsequently published 6 sequels\u2014the last, Harry Potter and the Deathly Hallows (2007)\u2014as well as 3 supplements to the series.",
             "output": [
                 "No"
             ]
@@ -7248,7 +7220,7 @@
         },
         {
             "id": "task1294-ce62463899a8435fb8af528d9dc8568d",
-            "input": "what motor does a 2001 monte carlo, Answer: The Monte Carlo SS was revived from 2000 to 2007 and initially powered by 3.8-liter V6 (supercharged in 2004–2005), later to be replaced by a 5.3-liter V8 for 2006–2007.",
+            "input": "what motor does a 2001 monte carlo, Answer: The Monte Carlo SS was revived from 2000 to 2007 and initially powered by 3.8-liter V6 (supercharged in 2004\u20132005), later to be replaced by a 5.3-liter V8 for 2006\u20132007.",
             "output": [
                 "Yes"
             ]
@@ -7346,7 +7318,7 @@
         },
         {
             "id": "task1294-3525da784550475983bb4a63bd358701",
-            "input": "how deep can be drill for deep underwater, Answer: ”Cameras on rovers at the bottom of the wells record footage and take photos of rare fish that are in there natural habitat, giving scientist a look at animals they rarely seen”(Chevron Corporation).\"",
+            "input": "how deep can be drill for deep underwater, Answer: \u201dCameras on rovers at the bottom of the wells record footage and take photos of rare fish that are in there natural habitat, giving scientist a look at animals they rarely seen\u201d(Chevron Corporation).\"",
             "output": [
                 "No"
             ]
@@ -7591,7 +7563,7 @@
         },
         {
             "id": "task1294-7d2b5120e6234c0399de4dfc935db00e",
-            "input": "when did secretariat win, Answer: Secretariat (March 30, 1970 – October 4, 1989) was an American Thoroughbred racehorse that in 1973 became the first U.S. Triple Crown champion in 25 years.",
+            "input": "when did secretariat win, Answer: Secretariat (March 30, 1970 \u2013 October 4, 1989) was an American Thoroughbred racehorse that in 1973 became the first U.S. Triple Crown champion in 25 years.",
             "output": [
                 "Yes"
             ]
@@ -7633,7 +7605,7 @@
         },
         {
             "id": "task1294-23f441be096e42de90296bfb66b7ee3e",
-            "input": "what teams won super bowl, Answer: The Pittsburgh Steelers have won the most Super Bowls with six championships (record 6–2), while both the Dallas Cowboys and San Francisco 49ers have five wins each (Cowboys 5–3; 49ers 5–1).",
+            "input": "what teams won super bowl, Answer: The Pittsburgh Steelers have won the most Super Bowls with six championships (record 6\u20132), while both the Dallas Cowboys and San Francisco 49ers have five wins each (Cowboys 5\u20133; 49ers 5\u20131).",
             "output": [
                 "Yes"
             ]
@@ -7689,7 +7661,7 @@
         },
         {
             "id": "task1294-f835295b7eac4364b908d09a67d0f2be",
-            "input": "what are the names of the ll divos, Answer: Il Divo is a group of four male singers: French pop singer Sébastien Izambard , Spanish baritone Carlos Marín , American tenor David Miller , and Swiss tenor Urs Bühler .",
+            "input": "what are the names of the ll divos, Answer: Il Divo is a group of four male singers: French pop singer S\u00e9bastien Izambard , Spanish baritone Carlos Mar\u00edn , American tenor David Miller , and Swiss tenor Urs B\u00fchler .",
             "output": [
                 "Yes"
             ]
@@ -7892,7 +7864,7 @@
         },
         {
             "id": "task1294-068b9324f70846baa57ac17233b0d93b",
-            "input": "when was srv born, Answer: Stephen \"Stevie\" Ray Vaughan (October 3, 1954 – August 27, 1990) was an American guitarist, singer-songwriter, and record producer.",
+            "input": "when was srv born, Answer: Stephen \"Stevie\" Ray Vaughan (October 3, 1954 \u2013 August 27, 1990) was an American guitarist, singer-songwriter, and record producer.",
             "output": [
                 "Yes"
             ]
@@ -8010,13 +7982,6 @@
             ]
         },
         {
-            "id": "task1294-298d631b83864e38a685385bc747db8b",
-            "input": "what part of the government governs the US post office?, Answer: The United States Postal Service (USPS), also known as the Post Office and U.S. Mail, is an independent agency of the United States federal government responsible for providing postal service in the United States.",
-            "output": [
-                "Yes"
-            ]
-        },
-        {
             "id": "task1294-6ab819dbc6ce42bcbfd8cb6d129aec39",
             "input": "what state was the civil war in, Answer: The American Civil War (ACW), also known as the War between the States or simply the Civil War (see naming ), was a civil war fought from 1861 to 1865 between the United States (the \"Union\" or the \"North\") and several Southern slave states that declared their secession and formed the Confederate States of America (the \"Confederacy\" or the \"South\").",
             "output": [
@@ -8102,14 +8067,14 @@
         },
         {
             "id": "task1294-cb24207013ee4d0c8043cccd256feb3b",
-            "input": "what composer used sound mass, Answer: The use of \"chords approaching timbres\" begins with Debussy and Edgard Varèse often carefully scored individual instrumental parts so that they would fuse into one ensemble timbre or sound mass (Erickson 1975, pp. 18 and 21).",
+            "input": "what composer used sound mass, Answer: The use of \"chords approaching timbres\" begins with Debussy and Edgard Var\u00e8se often carefully scored individual instrumental parts so that they would fuse into one ensemble timbre or sound mass (Erickson 1975, pp. 18 and 21).",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-6b68a722583144d494c262dd5acff5e4",
-            "input": "What region of France is Montargis in?, Answer: The town is located about south of Paris and east of Orléans in the Gâtinais .",
+            "input": "What region of France is Montargis in?, Answer: The town is located about south of Paris and east of Orl\u00e9ans in the G\u00e2tinais .",
             "output": [
                 "Yes"
             ]
@@ -8123,7 +8088,7 @@
         },
         {
             "id": "task1294-efc6301727d74148b3e7be2648870305",
-            "input": "how much is jk rowling worth, Answer: The 2008 Sunday Times Rich List estimated Rowling's fortune at £560 million ($798 million), ranking her as the twelfth richest woman in the United Kingdom.",
+            "input": "how much is jk rowling worth, Answer: The 2008 Sunday Times Rich List estimated Rowling's fortune at \u00a3560 million ($798 million), ranking her as the twelfth richest woman in the United Kingdom.",
             "output": [
                 "Yes"
             ]
@@ -8144,7 +8109,7 @@
         },
         {
             "id": "task1294-0be621be6b7c4b87b5451f10cb26663e",
-            "input": "What is Ischemia or infarction?, Answer: In medicine , ischemia, also spelled as ischaemia or ischæmia, (; from Greek language ισχαιμία, ischaimía; isch- root denoting a restriction or thinning or to make or grow thin/lean, haema blood ) is a restriction in blood supply to tissues , causing a shortage of oxygen and glucose needed for cellular metabolism (to keep tissue alive).",
+            "input": "What is Ischemia or infarction?, Answer: In medicine , ischemia, also spelled as ischaemia or isch\u00e6mia, (; from Greek language \u03b9\u03c3\u03c7\u03b1\u03b9\u03bc\u03af\u03b1, ischaim\u00eda; isch- root denoting a restriction or thinning or to make or grow thin/lean, haema blood ) is a restriction in blood supply to tissues , causing a shortage of oxygen and glucose needed for cellular metabolism (to keep tissue alive).",
             "output": [
                 "Yes"
             ]
@@ -8249,7 +8214,7 @@
         },
         {
             "id": "task1294-7c07be908ee844b58afea559af49ad20",
-            "input": "who wrote serenity prayer, Answer: The Serenity Prayer is the common name for an originally untitled prayer by the American theologian Reinhold Niebuhr (1892–1971).",
+            "input": "who wrote serenity prayer, Answer: The Serenity Prayer is the common name for an originally untitled prayer by the American theologian Reinhold Niebuhr (1892\u20131971).",
             "output": [
                 "Yes"
             ]
@@ -8305,7 +8270,7 @@
         },
         {
             "id": "task1294-8f93249fa3d346e8a314bdd0a5e7030c",
-            "input": "what was nixon accused of, Answer: The scandal eventually led to the resignation of Richard Nixon , the President of the United States, on August 9, 1974 — the only resignation of a U.S. President.",
+            "input": "what was nixon accused of, Answer: The scandal eventually led to the resignation of Richard Nixon , the President of the United States, on August 9, 1974 \u2014 the only resignation of a U.S. President.",
             "output": [
                 "Yes"
             ]
@@ -8403,7 +8368,7 @@
         },
         {
             "id": "task1294-eb05f72142ea46f0ab772364506d2e93",
-            "input": "what is the origin of fiona, Answer: The name Fiona was invented, and first used, by the Scottish poet James Macpherson (1736–96), author of the Ossian poems, which he claimed were translations from ancient Gaelic sources (sources, when challenged, he never produced).",
+            "input": "what is the origin of fiona, Answer: The name Fiona was invented, and first used, by the Scottish poet James Macpherson (1736\u201396), author of the Ossian poems, which he claimed were translations from ancient Gaelic sources (sources, when challenged, he never produced).",
             "output": [
                 "Yes"
             ]
@@ -8655,7 +8620,7 @@
         },
         {
             "id": "task1294-677fe76f48f048fb98296c0b29b1b4de",
-            "input": "what the names of destiny's child, Answer: Destiny's Child was an American R&B girl group whose final, and perhaps most recognizable, line-up comprised Beyoncé Knowles , Kelly Rowland and Michelle Williams .",
+            "input": "what the names of destiny's child, Answer: Destiny's Child was an American R&B girl group whose final, and perhaps most recognizable, line-up comprised Beyonc\u00e9 Knowles , Kelly Rowland and Michelle Williams .",
             "output": [
                 "Yes"
             ]
@@ -8690,7 +8655,7 @@
         },
         {
             "id": "task1294-51b9d012302c4821b95e608fe3cf7c71",
-            "input": "what movement was elizabeth cady stanton a part of, Answer: Elizabeth Cady Stanton (November 12, 1815 – October 26, 1902) was an American social activist , abolitionist, and leading figure of the early women's rights movement .",
+            "input": "what movement was elizabeth cady stanton a part of, Answer: Elizabeth Cady Stanton (November 12, 1815 \u2013 October 26, 1902) was an American social activist , abolitionist, and leading figure of the early women's rights movement .",
             "output": [
                 "Yes"
             ]
@@ -8851,7 +8816,7 @@
         },
         {
             "id": "task1294-1b57d9f7baec41a38bb749a618fb6bd2",
-            "input": "where is keith whitley from, Answer: Jackie Keith Whitley (July 1, 1954Stambler, Irwin, and Grelun Landon (2000). - Country Music: The Encyclopedia. - New York: St. Martin's Press. - p.533. - ISBN 978-0-312-26487-1.—Carlin, Richard (2003). - Country Music: A Biographical Dictionary. - New York: Routledge - p.427. - ISBN 978-0-415-93802-0.—Larkin, Colin (1995). - The Guinness Encyclopedia of Popular Music. - New York: Stockton Press - P.4462. - ISBN 978-0-85112-662-3.—Stanton, Scott (2003). - The Tombstone Tourist: Musicians. - New York: Pocket Books. - p.395. - ISBN 978-0-7434-6330-0.—Hicks, Jack. - \"Singer Keith Whitley's Memory Alive Through Songs, Love in Home Town\". - The Kentucky Post . - September 25, 1991.—\"Country Music Star Keith Whitley Dead at 33\". - Lexington Herald-Leader . - May 10, 1989.——Hurst, Jack. - \"Whitley's Last Days\". - Chicago Tribune . - May 14, 1989.—\"Alcohol Kills Country Singer Keith Whitley\". - United Press International . - (c/o The San Francisco Chronicle ). - May 10, 1989. — May 9, 1989), known professionally as Keith Whitley, was an American country music singer.",
+            "input": "where is keith whitley from, Answer: Jackie Keith Whitley (July 1, 1954Stambler, Irwin, and Grelun Landon (2000). - Country Music: The Encyclopedia. - New York: St. Martin's Press. - p.533. - ISBN 978-0-312-26487-1.\u2014Carlin, Richard (2003). - Country Music: A Biographical Dictionary. - New York: Routledge - p.427. - ISBN 978-0-415-93802-0.\u2014Larkin, Colin (1995). - The Guinness Encyclopedia of Popular Music. - New York: Stockton Press - P.4462. - ISBN 978-0-85112-662-3.\u2014Stanton, Scott (2003). - The Tombstone Tourist: Musicians. - New York: Pocket Books. - p.395. - ISBN 978-0-7434-6330-0.\u2014Hicks, Jack. - \"Singer Keith Whitley's Memory Alive Through Songs, Love in Home Town\". - The Kentucky Post . - September 25, 1991.\u2014\"Country Music Star Keith Whitley Dead at 33\". - Lexington Herald-Leader . - May 10, 1989.\u2014\u2014Hurst, Jack. - \"Whitley's Last Days\". - Chicago Tribune . - May 14, 1989.\u2014\"Alcohol Kills Country Singer Keith Whitley\". - United Press International . - (c/o The San Francisco Chronicle ). - May 10, 1989. \u2014 May 9, 1989), known professionally as Keith Whitley, was an American country music singer.",
             "output": [
                 "Yes"
             ]
@@ -8865,7 +8830,7 @@
         },
         {
             "id": "task1294-15be80259d71408dad242788bb4ef976",
-            "input": "who is on the $10. bill, Answer: The first U.S. Secretary of the Treasury (1789–95), Alexander Hamilton , is currently featured on the obverse of the bill, while the U.S. Treasury Building is featured on the reverse .",
+            "input": "who is on the $10. bill, Answer: The first U.S. Secretary of the Treasury (1789\u201395), Alexander Hamilton , is currently featured on the obverse of the bill, while the U.S. Treasury Building is featured on the reverse .",
             "output": [
                 "Yes"
             ]
@@ -8921,7 +8886,7 @@
         },
         {
             "id": "task1294-71f97fb1290a482a87bf7dbe919ffe60",
-            "input": "where is bloemfontein in africa, Answer: Bloemfontein (, ; Dutch for \"fountain of flowers\") is the capital city of the Free State Province of South Africa ; and, as the judicial capital of the nation, one of South Africa's three national capitals – the other two being Cape Town , the legislative capital, and Pretoria , the administrative capital.",
+            "input": "where is bloemfontein in africa, Answer: Bloemfontein (, ; Dutch for \"fountain of flowers\") is the capital city of the Free State Province of South Africa ; and, as the judicial capital of the nation, one of South Africa's three national capitals \u2013 the other two being Cape Town , the legislative capital, and Pretoria , the administrative capital.",
             "output": [
                 "Yes"
             ]
@@ -9040,7 +9005,7 @@
         },
         {
             "id": "task1294-600babda84964a71a4d7b3e47413cce7",
-            "input": "who was ho chi minh in vietnam war, Answer: He was a key figure in the foundation of the Democratic Republic of Vietnam in 1945, as well as the People’s Army of Vietnam (PAVN) and the Việt Cộng (NLF or VC) during the Vietnam War .",
+            "input": "who was ho chi minh in vietnam war, Answer: He was a key figure in the foundation of the Democratic Republic of Vietnam in 1945, as well as the People\u2019s Army of Vietnam (PAVN) and the Vi\u1ec7t C\u1ed9ng (NLF or VC) during the Vietnam War .",
             "output": [
                 "Yes"
             ]
@@ -9096,7 +9061,7 @@
         },
         {
             "id": "task1294-1b600ea93c18412ea073199cb68b56a5",
-            "input": "how did bleeding sumner lead to the civil war, Answer: When the 42nd U.S. Congress convened on March 4, 1871, Senators affiliated with President Grant, known as ‘’New Radicals’’ voted to oust Sen. Sumner from the Senate Foreign Relations Committee chairmanship.",
+            "input": "how did bleeding sumner lead to the civil war, Answer: When the 42nd U.S. Congress convened on March 4, 1871, Senators affiliated with President Grant, known as \u2018\u2019New Radicals\u2019\u2019 voted to oust Sen. Sumner from the Senate Foreign Relations Committee chairmanship.",
             "output": [
                 "No"
             ]
@@ -9159,7 +9124,7 @@
         },
         {
             "id": "task1294-44bf82f62ef44fef81d6443fab1df996",
-            "input": "what year was elvis born, Answer: Elvis Aaron Presley (January 8, 1935 – August 16, 1977) was an American singer and actor.",
+            "input": "what year was elvis born, Answer: Elvis Aaron Presley (January 8, 1935 \u2013 August 16, 1977) was an American singer and actor.",
             "output": [
                 "Yes"
             ]
@@ -9348,7 +9313,7 @@
         },
         {
             "id": "task1294-8444cd94e3b74c24b0b8056ed3e4253f",
-            "input": "what did elijah mccoy invent, Answer: Elijah J. McCoy (May 2, 1844 – October 10, 1929) was a black Canadian-American inventor and engineer, who was notable for his 57 U.S. patents , most to do with lubrication of steam engines.",
+            "input": "what did elijah mccoy invent, Answer: Elijah J. McCoy (May 2, 1844 \u2013 October 10, 1929) was a black Canadian-American inventor and engineer, who was notable for his 57 U.S. patents , most to do with lubrication of steam engines.",
             "output": [
                 "Yes"
             ]
@@ -9397,7 +9362,7 @@
         },
         {
             "id": "task1294-03eb6c3e31234179a3594cd6b2c7f7aa",
-            "input": "who won the 2009 super bowl, Answer: The Steelers defeated the Cardinals by the score of 27–23.",
+            "input": "who won the 2009 super bowl, Answer: The Steelers defeated the Cardinals by the score of 27\u201323.",
             "output": [
                 "Yes"
             ]
@@ -9495,7 +9460,7 @@
         },
         {
             "id": "task1294-76c3ac0dcf214145ae559a1f08c80f18",
-            "input": "what does estee lauder do, Answer: Estée Lauder Companies, Inc. is a manufacturer and marketer of prestige skincare, makeup, fragrance and hair care products.",
+            "input": "what does estee lauder do, Answer: Est\u00e9e Lauder Companies, Inc. is a manufacturer and marketer of prestige skincare, makeup, fragrance and hair care products.",
             "output": [
                 "Yes"
             ]
@@ -10020,7 +9985,7 @@
         },
         {
             "id": "task1294-11b0c82264e44badb76c545abffd75e0",
-            "input": "what composer used sound mass, Answer: Composers and works include Barbara Kolb , Pauline Oliveros ' Sound Patterns for chorus (1961), Norma Beecroft 's From Dreams of Brass for chorus (1963–1964), and Nancy Van de Vate .",
+            "input": "what composer used sound mass, Answer: Composers and works include Barbara Kolb , Pauline Oliveros ' Sound Patterns for chorus (1961), Norma Beecroft 's From Dreams of Brass for chorus (1963\u20131964), and Nancy Van de Vate .",
             "output": [
                 "Yes"
             ]
@@ -10041,7 +10006,7 @@
         },
         {
             "id": "task1294-36f1129b491145aabf84f8622feeac9f",
-            "input": "what is dmitri mendeleev 4, Answer: Dmitri Ivanovich Mendeleev (; 8 February 1834 – 2 February 1907 O.S. 27 January 1834 – 20 January 1907) was a Russian chemist and inventor.",
+            "input": "what is dmitri mendeleev 4, Answer: Dmitri Ivanovich Mendeleev (; 8 February 1834 \u2013 2 February 1907 O.S. 27 January 1834 \u2013 20 January 1907) was a Russian chemist and inventor.",
             "output": [
                 "Yes"
             ]
@@ -10139,7 +10104,7 @@
         },
         {
             "id": "task1294-4a5c95114a26491d8cf0627c6ccd5528",
-            "input": "what is the female symbol called, Answer: The two standard gender symbols denoting male ♂ and female ♀ are derived from astrological symbols , denoting the classical planets Mars and Venus , respectively.",
+            "input": "what is the female symbol called, Answer: The two standard gender symbols denoting male \u2642 and female \u2640 are derived from astrological symbols , denoting the classical planets Mars and Venus , respectively.",
             "output": [
                 "Yes"
             ]
@@ -10160,7 +10125,7 @@
         },
         {
             "id": "task1294-54bb101c01794cc99495452da54edfed",
-            "input": "how many baseball teams usa, Answer: It is composed of 30 teams — 29 in the United States and one in Canada.",
+            "input": "how many baseball teams usa, Answer: It is composed of 30 teams \u2014 29 in the United States and one in Canada.",
             "output": [
                 "Yes"
             ]
@@ -10195,7 +10160,7 @@
         },
         {
             "id": "task1294-2e2817f3fd6d45aabf0a9f5331e1ef03",
-            "input": "what ended the era of good feelings, Answer: While the term “Era of Good Feelings” is usually viewed with irony because of the political turmoil, economic factors caused animosity between the North and South.",
+            "input": "what ended the era of good feelings, Answer: While the term \u201cEra of Good Feelings\u201d is usually viewed with irony because of the political turmoil, economic factors caused animosity between the North and South.",
             "output": [
                 "No"
             ]
@@ -10237,7 +10202,7 @@
         },
         {
             "id": "task1294-1bb3a2742bfc4cbabb8fb157ac965ff0",
-            "input": "how old were golden girls at time of show, Answer: It also won three Golden Globe Awards for Best Television Series – Musical or Comedy .",
+            "input": "how old were golden girls at time of show, Answer: It also won three Golden Globe Awards for Best Television Series \u2013 Musical or Comedy .",
             "output": [
                 "No"
             ]
@@ -10321,7 +10286,7 @@
         },
         {
             "id": "task1294-9434b87b10824d93956e7b524d6b9b2b",
-            "input": "how big are baby zebras when born, Answer: While plains zebras are much more plentiful, one subspecies, the quagga , became extinct in the late 19th century – though there is currently a plan, called the Quagga Project , that aims to breed zebras that are phenotypically similar to the quagga in a process called breeding back .",
+            "input": "how big are baby zebras when born, Answer: While plains zebras are much more plentiful, one subspecies, the quagga , became extinct in the late 19th century \u2013 though there is currently a plan, called the Quagga Project , that aims to breed zebras that are phenotypically similar to the quagga in a process called breeding back .",
             "output": [
                 "No"
             ]
@@ -10377,7 +10342,7 @@
         },
         {
             "id": "task1294-cfffc2a76bb04cb0a96e4d017790e45c",
-            "input": "how long was richard nixon a president, Answer: Nixon's visit to the People's Republic of China in 1972 opened diplomatic relations between the two nations, and he initiated détente and the Anti-Ballistic Missile Treaty with the Soviet Union the same year.",
+            "input": "how long was richard nixon a president, Answer: Nixon's visit to the People's Republic of China in 1972 opened diplomatic relations between the two nations, and he initiated d\u00e9tente and the Anti-Ballistic Missile Treaty with the Soviet Union the same year.",
             "output": [
                 "No"
             ]
@@ -10566,14 +10531,14 @@
         },
         {
             "id": "task1294-e97166f5406f402290125e2690433953",
-            "input": "how did bleeding sumner lead to the civil war, Answer: As the rift between Grant and Sumner increased, Sumner’s health began to decline.",
+            "input": "how did bleeding sumner lead to the civil war, Answer: As the rift between Grant and Sumner increased, Sumner\u2019s health began to decline.",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-42d3b1a2ec2b474ea668671311cefe4a",
-            "input": "how deep can be drill for deep underwater, Answer: “Not all oil is accessible on land or in shallow water.",
+            "input": "how deep can be drill for deep underwater, Answer: \u201cNot all oil is accessible on land or in shallow water.",
             "output": [
                 "No"
             ]
@@ -10713,7 +10678,7 @@
         },
         {
             "id": "task1294-bbcc94f64d704eb8a025f5d3c61b94ad",
-            "input": "how did apollo creed die, Answer: Balboa's signature colors were black and gold—colors he used in the latest movie .",
+            "input": "how did apollo creed die, Answer: Balboa's signature colors were black and gold\u2014colors he used in the latest movie .",
             "output": [
                 "No"
             ]
@@ -10770,13 +10735,6 @@
         {
             "id": "task1294-b8688219a3ee4c659cfa785290b187ae",
             "input": "what does life insurance cover?, Answer: Life insurance is a contract between an insured (insurance policy holder) and an insurer , where the insurer promises to pay a designated beneficiary a sum of money (the \"benefits\") upon the death of the insured person.",
-            "output": [
-                "Yes"
-            ]
-        },
-        {
-            "id": "task1294-3ba423125d5141728f3a411ee1b680d4",
-            "input": "What is and where is hydraulic fluid found and used for, Answer: Common hydraulic fluids are based on mineral oil or water.",
             "output": [
                 "Yes"
             ]
@@ -10860,7 +10818,7 @@
         },
         {
             "id": "task1294-d9dd4da54fa5453d89914671fd5a2b7a",
-            "input": "how big or small a visible light can get, Answer: In terms of frequency, this corresponds to a band in the vicinity of 430–790 THz .",
+            "input": "how big or small a visible light can get, Answer: In terms of frequency, this corresponds to a band in the vicinity of 430\u2013790 THz .",
             "output": [
                 "No"
             ]
@@ -10972,7 +10930,7 @@
         },
         {
             "id": "task1294-4ff47a5e630c48e4a5c16c964fa61e30",
-            "input": "how old is kurt cobain's daughter, Answer: Kurt Donald Cobain (February 20, 1967 – April 5, 1994) was an American musician and artist , best known as the lead singer , guitarist and primary songwriter of the grunge band Nirvana .",
+            "input": "how old is kurt cobain's daughter, Answer: Kurt Donald Cobain (February 20, 1967 \u2013 April 5, 1994) was an American musician and artist , best known as the lead singer , guitarist and primary songwriter of the grunge band Nirvana .",
             "output": [
                 "No"
             ]
@@ -11035,7 +10993,7 @@
         },
         {
             "id": "task1294-f09290bd7a2446b696d0805411def487",
-            "input": "what does life insurance cover?, Answer: Protection policies – designed to provide a benefit in the event of specified event, typically a lump sum payment.",
+            "input": "what does life insurance cover?, Answer: Protection policies \u2013 designed to provide a benefit in the event of specified event, typically a lump sum payment.",
             "output": [
                 "Yes"
             ]
@@ -11077,7 +11035,7 @@
         },
         {
             "id": "task1294-e7eee00fb2e143ba8848e74977bf0fb6",
-            "input": "What group took home the award for best rock album at the Australian Recording Industry Association (ARIA) Music Awards?, Answer: Winning, or even being nominated for, an ARIA award results in a lot of media attention on an artist, and usually increases recording sales several-fold – in 2005 , for example, after Ben Lee won three awards, his album Awake Is the New Sleep jumped from No. 31 to No. 5 in the ARIA Charts , its highest position.",
+            "input": "What group took home the award for best rock album at the Australian Recording Industry Association (ARIA) Music Awards?, Answer: Winning, or even being nominated for, an ARIA award results in a lot of media attention on an artist, and usually increases recording sales several-fold \u2013 in 2005 , for example, after Ben Lee won three awards, his album Awake Is the New Sleep jumped from No. 31 to No. 5 in the ARIA Charts , its highest position.",
             "output": [
                 "Yes"
             ]
@@ -11147,7 +11105,7 @@
         },
         {
             "id": "task1294-6e87dad6c88e4a5cb08121aea17d6377",
-            "input": "what continent is australia, Answer: The continent of Australia lies on a continental shelf overlain by shallow seas which divide it into several landmasses — the Arafura Sea and Torres Strait between mainland Australia and New Guinea, and Bass Strait between mainland Australia and Tasmania.",
+            "input": "what continent is australia, Answer: The continent of Australia lies on a continental shelf overlain by shallow seas which divide it into several landmasses \u2014 the Arafura Sea and Torres Strait between mainland Australia and New Guinea, and Bass Strait between mainland Australia and Tasmania.",
             "output": [
                 "No"
             ]
@@ -11203,7 +11161,7 @@
         },
         {
             "id": "task1294-bffc02370f1b448c9e500e4e032f2ad5",
-            "input": "how big is auburndale florida, Answer: It is part of the Lakeland – Winter Haven Metropolitan Statistical Area .",
+            "input": "how big is auburndale florida, Answer: It is part of the Lakeland \u2013 Winter Haven Metropolitan Statistical Area .",
             "output": [
                 "No"
             ]
@@ -11231,7 +11189,7 @@
         },
         {
             "id": "task1294-5d1c9bfa68074881b68fbb58762dc9ba",
-            "input": "how deep can be drill for deep underwater, Answer: “The reason for the resumption of such drilling, analyst say, is continuing high demand for energy worldwide.”",
+            "input": "how deep can be drill for deep underwater, Answer: \u201cThe reason for the resumption of such drilling, analyst say, is continuing high demand for energy worldwide.\u201d",
             "output": [
                 "No"
             ]
@@ -11413,7 +11371,7 @@
         },
         {
             "id": "task1294-02d8322cb9a54c9cb133f7ebe18356ec",
-            "input": "what ended the era of good feelings, Answer: The phrase “Era of Good Feelings” was coined by Benjamin Russell, in the Boston Federalist newspaper, Columbian Centinel , on July 12, 1817, following Monroe's visit to Boston, Massachusetts as part of his good will tour of America.",
+            "input": "what ended the era of good feelings, Answer: The phrase \u201cEra of Good Feelings\u201d was coined by Benjamin Russell, in the Boston Federalist newspaper, Columbian Centinel , on July 12, 1817, following Monroe's visit to Boston, Massachusetts as part of his good will tour of America.",
             "output": [
                 "No"
             ]
@@ -11567,7 +11525,7 @@
         },
         {
             "id": "task1294-879cfd3a1fdd4c918007a4de5d713025",
-            "input": "what do you call to the grade six pupils?, Answer: In some nations, the English term (or its cognate in another language) is reserved for those who attend university , while a schoolchild under the age of eighteen is called a pupil in English (or an equivalent in other languages), although in the United States a person enrolled in grades K–12 is often called a student.",
+            "input": "what do you call to the grade six pupils?, Answer: In some nations, the English term (or its cognate in another language) is reserved for those who attend university , while a schoolchild under the age of eighteen is called a pupil in English (or an equivalent in other languages), although in the United States a person enrolled in grades K\u201312 is often called a student.",
             "output": [
                 "No"
             ]
@@ -11735,7 +11693,7 @@
         },
         {
             "id": "task1294-01a0bcf5573f4452b7ac0aba8fa8b47a",
-            "input": "what did mia hamm do his work, Answer: Hamm was named the women's FIFA World Player of the Year the first two times that award was given (in 2001 and 2002), and is listed as one of FIFA 's 125 best living players (as chosen by Pelé ).",
+            "input": "what did mia hamm do his work, Answer: Hamm was named the women's FIFA World Player of the Year the first two times that award was given (in 2001 and 2002), and is listed as one of FIFA 's 125 best living players (as chosen by Pel\u00e9 ).",
             "output": [
                 "No"
             ]
@@ -11854,7 +11812,7 @@
         },
         {
             "id": "task1294-f0157417eda748038a04c73bad765d50",
-            "input": "what was Coco Chanel's real first name?, Answer: Gabrielle \"Coco\" Bonheur Chanel (August 19, 1883 – January 10, 1971) was a French fashion designer and founder of the Chanel brand.",
+            "input": "what was Coco Chanel's real first name?, Answer: Gabrielle \"Coco\" Bonheur Chanel (August 19, 1883 \u2013 January 10, 1971) was a French fashion designer and founder of the Chanel brand.",
             "output": [
                 "Yes"
             ]
@@ -11896,7 +11854,7 @@
         },
         {
             "id": "task1294-23b9975a11bc4ebd95bb4a205576acd4",
-            "input": "when was washington elected president, Answer: George Washington ( – , 1799) was the first President of the United States (1789–1797), the commander-in-chief of the Continental Army during the American Revolutionary War , and one of the Founding Fathers of the United States .",
+            "input": "when was washington elected president, Answer: George Washington ( \u2013 , 1799) was the first President of the United States (1789\u20131797), the commander-in-chief of the Continental Army during the American Revolutionary War , and one of the Founding Fathers of the United States .",
             "output": [
                 "Yes"
             ]
@@ -11945,7 +11903,7 @@
         },
         {
             "id": "task1294-a80f22d154284bee867aa82b47c81343",
-            "input": "who won the 2010 world cup, Answer: In the final, Spain , the European champions , defeated third-time finalists the Netherlands 1–0 after extra time , with Andrés Iniesta 's goal in the 116th minute giving Spain their first world title, becoming the eighth nation to win the tournament, and the first European nation to win the tournament outside its home continent.",
+            "input": "who won the 2010 world cup, Answer: In the final, Spain , the European champions , defeated third-time finalists the Netherlands 1\u20130 after extra time , with Andr\u00e9s Iniesta 's goal in the 116th minute giving Spain their first world title, becoming the eighth nation to win the tournament, and the first European nation to win the tournament outside its home continent.",
             "output": [
                 "Yes"
             ]
@@ -11966,7 +11924,7 @@
         },
         {
             "id": "task1294-f15e62c67b3748539ece510cccba27de",
-            "input": "what is el mate, Answer: Mate (, ; sometimes also spelled maté), also known as chimarrão () or cimarrón (), is a traditional South American infused drink , particularly in Argentina, Uruguay, Paraguay and the southern states of Brazil and to a lesser degree in south of Chile, the Bolivian Chaco , Syria and Lebanon.",
+            "input": "what is el mate, Answer: Mate (, ; sometimes also spelled mat\u00e9), also known as chimarr\u00e3o () or cimarr\u00f3n (), is a traditional South American infused drink , particularly in Argentina, Uruguay, Paraguay and the southern states of Brazil and to a lesser degree in south of Chile, the Bolivian Chaco , Syria and Lebanon.",
             "output": [
                 "Yes"
             ]
@@ -12057,14 +12015,14 @@
         },
         {
             "id": "task1294-76af65012cf242188ff8491f102a3196",
-            "input": "what composer used sound mass, Answer: A very early example is the opening of Jean-Féry Rebel 's ballet Les Elémens (1737–38), where chaos is represented by a gradually cumulating orchestral cluster of all seven notes of the D minor scale (Henck 2004, pp. 52–54).",
+            "input": "what composer used sound mass, Answer: A very early example is the opening of Jean-F\u00e9ry Rebel 's ballet Les El\u00e9mens (1737\u201338), where chaos is represented by a gradually cumulating orchestral cluster of all seven notes of the D minor scale (Henck 2004, pp. 52\u201354).",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-6da570257d1745098d275975a5885995",
-            "input": "how is the weather in tampa, Answer: The Tampa Bay area has a humid subtropical climate (Koppen Cfa), with warm and humid summers with frequent thunderstorms and drier winters with freezing temperatures occurring every 2–3 years.",
+            "input": "how is the weather in tampa, Answer: The Tampa Bay area has a humid subtropical climate (Koppen Cfa), with warm and humid summers with frequent thunderstorms and drier winters with freezing temperatures occurring every 2\u20133 years.",
             "output": [
                 "No"
             ]
@@ -12134,14 +12092,14 @@
         },
         {
             "id": "task1294-8cbb42d36f1d4255ab901baa8be95a76",
-            "input": "when did thomas jefferson become president, Answer: Thomas Jefferson (April 13, 1743 (April 2, 1743 O.S. ) – July 4, 1826) was an American Founding Father , the principal author of the Declaration of Independence (1776) and the third President of the United States (1801–1809).",
+            "input": "when did thomas jefferson become president, Answer: Thomas Jefferson (April 13, 1743 (April 2, 1743 O.S. ) \u2013 July 4, 1826) was an American Founding Father , the principal author of the Declaration of Independence (1776) and the third President of the United States (1801\u20131809).",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-79b8fef259314fbf8fe6317bf0a74f0e",
-            "input": "what kind of earthquake was haiti, Answer: The 2010 Haiti earthquake was a catastrophic magnitude 7.0 Mw earthquake , with an epicenter near the town of Léogâne ( Ouest Department ), approximately west of Port-au-Prince , Haiti's capital.",
+            "input": "what kind of earthquake was haiti, Answer: The 2010 Haiti earthquake was a catastrophic magnitude 7.0 Mw earthquake , with an epicenter near the town of L\u00e9og\u00e2ne ( Ouest Department ), approximately west of Port-au-Prince , Haiti's capital.",
             "output": [
                 "Yes"
             ]
@@ -12211,7 +12169,7 @@
         },
         {
             "id": "task1294-bb4d634172614cb78a52eccd1f42006b",
-            "input": "how old is zsa zsa gabor's daughter, Answer: Sári Gábor (born 6 February 1917), known as Zsa Zsa Gabor (), is a Hungarian -born American actress who acted in supporting roles in movies, on Broadway , and occasionally on television .",
+            "input": "how old is zsa zsa gabor's daughter, Answer: S\u00e1ri G\u00e1bor (born 6 February 1917), known as Zsa Zsa Gabor (), is a Hungarian -born American actress who acted in supporting roles in movies, on Broadway , and occasionally on television .",
             "output": [
                 "No"
             ]
@@ -12246,7 +12204,7 @@
         },
         {
             "id": "task1294-8f7bc48e2ca94de89ad5f8c8a0babe4f",
-            "input": "what year was gulf war, Answer: The Gulf War (2 August 1990 – 28 February 1991), codenamed Operation Desert Storm (17 January 1991 – 28 February 1991) was a war waged by a U.N.-authorized Coalition force from 34 nations led by the United States , against Iraq in response to Iraq's invasion and annexation of Kuwait .",
+            "input": "what year was gulf war, Answer: The Gulf War (2 August 1990 \u2013 28 February 1991), codenamed Operation Desert Storm (17 January 1991 \u2013 28 February 1991) was a war waged by a U.N.-authorized Coalition force from 34 nations led by the United States , against Iraq in response to Iraq's invasion and annexation of Kuwait .",
             "output": [
                 "Yes"
             ]
@@ -12274,7 +12232,7 @@
         },
         {
             "id": "task1294-35287d4e0b304e159a411946e1ff1932",
-            "input": "how many schools are in the big ten, Answer: Despite the conference's name, the Big Ten actually consists of 12 schools, following the addition of The Pennsylvania State University in 1993 and the University of Nebraska–Lincoln in 2011.",
+            "input": "how many schools are in the big ten, Answer: Despite the conference's name, the Big Ten actually consists of 12 schools, following the addition of The Pennsylvania State University in 1993 and the University of Nebraska\u2013Lincoln in 2011.",
             "output": [
                 "No"
             ]
@@ -12302,7 +12260,7 @@
         },
         {
             "id": "task1294-db4849a424794309ab1c3dff7d49b99b",
-            "input": "how old is beatrice author, Answer: Beatrice \"Bea\" Arthur (May 13, 1922 – April 25, 2009) was an American actress, comedienne, and singer whose career spanned seven decades.",
+            "input": "how old is beatrice author, Answer: Beatrice \"Bea\" Arthur (May 13, 1922 \u2013 April 25, 2009) was an American actress, comedienne, and singer whose career spanned seven decades.",
             "output": [
                 "Yes"
             ]
@@ -12344,7 +12302,7 @@
         },
         {
             "id": "task1294-238e4d14f5254a0fbeb2b9b8a5b4fb33",
-            "input": "when did freddie mercury die, Answer: Freddie Mercury (born Farrokh Bulsara; Gujarati : ફરોખ બલ્સારા‌, Pharōkh Balsārā‌); 5 September 1946 – 24 November 1991) was a British musician, singer and songwriter, best known as the lead vocalist and lyricist of the rock band Queen .",
+            "input": "when did freddie mercury die, Answer: Freddie Mercury (born Farrokh Bulsara; Gujarati : \u0aab\u0ab0\u0acb\u0a96 \u0aac\u0ab2\u0acd\u0ab8\u0abe\u0ab0\u0abe\u200c, Phar\u014dkh Bals\u0101r\u0101\u200c); 5 September 1946 \u2013 24 November 1991) was a British musician, singer and songwriter, best known as the lead vocalist and lyricist of the rock band Queen .",
             "output": [
                 "Yes"
             ]
@@ -12428,7 +12386,7 @@
         },
         {
             "id": "task1294-dcfe4f3953804f2f96be6af45cc177b3",
-            "input": "how are tropical storms and hurricanes named, Answer: The background environment is modulated by climatological cycles and patterns such as the Madden-Julian oscillation , El Niño-Southern Oscillation , and the Atlantic multidecadal oscillation .",
+            "input": "how are tropical storms and hurricanes named, Answer: The background environment is modulated by climatological cycles and patterns such as the Madden-Julian oscillation , El Ni\u00f1o-Southern Oscillation , and the Atlantic multidecadal oscillation .",
             "output": [
                 "No"
             ]
@@ -12561,7 +12519,7 @@
         },
         {
             "id": "task1294-3e04f05baf9248429e2abf81f58ad8c9",
-            "input": "how many presidential terms did fdr serve, Answer: Franklin Delano Roosevelt ( or ; January 30, 1882 – April 12, 1945), also known by his initials, FDR, was the 32nd President of the United States (1933–1945) and a central figure in world events during the mid-20th century, leading the United States during a time of worldwide economic depression and total war.",
+            "input": "how many presidential terms did fdr serve, Answer: Franklin Delano Roosevelt ( or ; January 30, 1882 \u2013 April 12, 1945), also known by his initials, FDR, was the 32nd President of the United States (1933\u20131945) and a central figure in world events during the mid-20th century, leading the United States during a time of worldwide economic depression and total war.",
             "output": [
                 "No"
             ]
@@ -12589,7 +12547,7 @@
         },
         {
             "id": "task1294-9c2d767ca8f64c49a82841355dc9e093",
-            "input": "how deep can be drill for deep underwater, Answer: “...Despite the risks, the deepwater drilling trend is spreading in the Mediterranean and off the coast of East Africa after a string of huge discoveries of natural gas.”",
+            "input": "how deep can be drill for deep underwater, Answer: \u201c...Despite the risks, the deepwater drilling trend is spreading in the Mediterranean and off the coast of East Africa after a string of huge discoveries of natural gas.\u201d",
             "output": [
                 "No"
             ]
@@ -12603,14 +12561,14 @@
         },
         {
             "id": "task1294-e26860a8ca2a45f9a5ae74983022adc4",
-            "input": "what composer used sound mass, Answer: Other examples include European \"textural\" compositions of the fifties and sixties such as Krzysztof Penderecki 's Threnody to the Victims of Hiroshima (1959) and György Ligeti 's works featuring micropolyphony in works like Atmosphères (1961) and his Requiem (1963-65).",
+            "input": "what composer used sound mass, Answer: Other examples include European \"textural\" compositions of the fifties and sixties such as Krzysztof Penderecki 's Threnody to the Victims of Hiroshima (1959) and Gy\u00f6rgy Ligeti 's works featuring micropolyphony in works like Atmosph\u00e8res (1961) and his Requiem (1963-65).",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-bcdcd3d194d84a79b3a118da121ef5eb",
-            "input": "when was fdr elected as president, Answer: Franklin Delano Roosevelt ( or ; January 30, 1882 – April 12, 1945), also known by his initials, FDR, was the 32nd President of the United States (1933–1945) and a central figure in world events during the mid-20th century, leading the United States during a time of worldwide economic depression and total war.",
+            "input": "when was fdr elected as president, Answer: Franklin Delano Roosevelt ( or ; January 30, 1882 \u2013 April 12, 1945), also known by his initials, FDR, was the 32nd President of the United States (1933\u20131945) and a central figure in world events during the mid-20th century, leading the United States during a time of worldwide economic depression and total war.",
             "output": [
                 "Yes"
             ]
@@ -12687,7 +12645,7 @@
         },
         {
             "id": "task1294-19cb10a0b8804140811230bade69a18d",
-            "input": "how big are baby zebras when born, Answer: The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Grévy's zebra is the sole species of subgenus Dolichohippus.",
+            "input": "how big are baby zebras when born, Answer: The plains zebra and the mountain zebra belong to the subgenus Hippotigris, but Gr\u00e9vy's zebra is the sole species of subgenus Dolichohippus.",
             "output": [
                 "No"
             ]
@@ -12764,7 +12722,7 @@
         },
         {
             "id": "task1294-9daaeacbac2744e693f21148f5f5d52d",
-            "input": "how many people die from myasthenia gravis per year, Answer: The disease incidence is 3–30 cases per million per year and rising as a result of increased awareness.",
+            "input": "how many people die from myasthenia gravis per year, Answer: The disease incidence is 3\u201330 cases per million per year and rising as a result of increased awareness.",
             "output": [
                 "Yes"
             ]
@@ -12869,7 +12827,7 @@
         },
         {
             "id": "task1294-b97f26f7ad9842a9a8d91eff97efd9a9",
-            "input": "who did richard nixon refer to as the  silent majority, Answer: The term was popularized (though not first used) by U.S. President Richard Nixon in a November 3, 1969, speech in which he said, \"And so tonight—to you, the great silent majority of my fellow Americans—I ask for your support.\"",
+            "input": "who did richard nixon refer to as the  silent majority, Answer: The term was popularized (though not first used) by U.S. President Richard Nixon in a November 3, 1969, speech in which he said, \"And so tonight\u2014to you, the great silent majority of my fellow Americans\u2014I ask for your support.\"",
             "output": [
                 "Yes"
             ]
@@ -12900,13 +12858,6 @@
             "input": "where are the kidneys in your body, Answer: Located at the rear of the abdominal cavity in the retroperitoneum , the kidneys receive blood from the paired renal arteries , and drain into the paired renal veins .",
             "output": [
                 "Yes"
-            ]
-        },
-        {
-            "id": "task1294-327fe324a1874d6db2a245e379470fe3",
-            "input": "how did angelina jolie get her name?, Answer: Jolie made her screen debut as a child alongside her father Jon Voight in Lookin' to Get Out (1982), but her film career began in earnest a decade later with the low-budget production Cyborg 2 (1993).",
-            "output": [
-                "No"
             ]
         },
         {
@@ -12974,7 +12925,7 @@
         },
         {
             "id": "task1294-74b315ff8d454f3c855d857e5f0f33b1",
-            "input": "what is the @ sign called?, Answer: The at sign @ is also commonly called the at symbol, ampersat, apetail or commercial at in English—and less commonly a wide range of other terms.",
+            "input": "what is the @ sign called?, Answer: The at sign @ is also commonly called the at symbol, ampersat, apetail or commercial at in English\u2014and less commonly a wide range of other terms.",
             "output": [
                 "Yes"
             ]
@@ -13065,14 +13016,14 @@
         },
         {
             "id": "task1294-0f659177a57d4b938d8d17ec8b9df989",
-            "input": "how is the weather in tampa, Answer: St. Petersburg's all-time record high is exactly 100 °F (38 °C).",
+            "input": "how is the weather in tampa, Answer: St. Petersburg's all-time record high is exactly 100 \u00b0F (38 \u00b0C).",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-8125bbfb8cc249a684b64ffd476a53a3",
-            "input": "who won fifa world cup 2010, Answer: In the final, Spain , the European champions , defeated third-time finalists the Netherlands 1–0 after extra time , with Andrés Iniesta 's goal in the 116th minute giving Spain their first world title, becoming the eighth nation to win the tournament, and the first European nation to win the tournament outside its home continent.",
+            "input": "who won fifa world cup 2010, Answer: In the final, Spain , the European champions , defeated third-time finalists the Netherlands 1\u20130 after extra time , with Andr\u00e9s Iniesta 's goal in the 116th minute giving Spain their first world title, becoming the eighth nation to win the tournament, and the first European nation to win the tournament outside its home continent.",
             "output": [
                 "Yes"
             ]
@@ -13142,7 +13093,7 @@
         },
         {
             "id": "task1294-3c49db01a1f342c698677a829085a600",
-            "input": "how is the weather in tampa, Answer: Highs usually range between 65 and 95 °F (18 and 35 °C ) year round.",
+            "input": "how is the weather in tampa, Answer: Highs usually range between 65 and 95 \u00b0F (18 and 35 \u00b0C ) year round.",
             "output": [
                 "No"
             ]
@@ -13152,13 +13103,6 @@
             "input": "what school did oprah winfrey help, Answer: The Oprah Winfrey Leadership Academy for Girls - South Africa is a female boarding school founded in January 2007 and located in Henley on Klip near Meyerton , south of Johannesburg , South Africa .",
             "output": [
                 "Yes"
-            ]
-        },
-        {
-            "id": "task1294-fc305d7af73f4d6b8d39b39ad9fa0269",
-            "input": "how did angelina jolie get her name?, Answer: She has received an Academy Award , two Screen Actors Guild Awards , and three Golden Globe Awards , and was named Hollywood's highest-paid actress by Forbes in 2009 and 2011.",
-            "output": [
-                "No"
             ]
         },
         {
@@ -13177,14 +13121,14 @@
         },
         {
             "id": "task1294-b659982f14f14fc09b9c14186d115319",
-            "input": "how many nature oceans are on earth, Answer: In the context of Earth , it refers to one or all of the major divisions of the planet's World Ocean – they are, in descending order of area, the Pacific , Atlantic , Indian , Southern (Antarctic) , and Arctic Oceans.",
+            "input": "how many nature oceans are on earth, Answer: In the context of Earth , it refers to one or all of the major divisions of the planet's World Ocean \u2013 they are, in descending order of area, the Pacific , Atlantic , Indian , Southern (Antarctic) , and Arctic Oceans.",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-76c407277da740f5a2819b9d31545138",
-            "input": "what do UA's detect, Answer: A drug test is a technical analysis of a biological specimen – for example urine, hair, blood, sweat, or oral fluid / saliva – to determine the presence or absence of specified parent drugs or their metabolites .",
+            "input": "what do UA's detect, Answer: A drug test is a technical analysis of a biological specimen \u2013 for example urine, hair, blood, sweat, or oral fluid / saliva \u2013 to determine the presence or absence of specified parent drugs or their metabolites .",
             "output": [
                 "Yes"
             ]
@@ -13296,7 +13240,7 @@
         },
         {
             "id": "task1294-023fde9325074d00ab04e88af7b5bed4",
-            "input": "when did gary moore die, Answer: Robert William Gary Moore (4 April 1952 – 6 February 2011), was a Northern Irish musician, most widely recognised as a singer and guitarist.",
+            "input": "when did gary moore die, Answer: Robert William Gary Moore (4 April 1952 \u2013 6 February 2011), was a Northern Irish musician, most widely recognised as a singer and guitarist.",
             "output": [
                 "Yes"
             ]
@@ -13359,7 +13303,7 @@
         },
         {
             "id": "task1294-6333b503207940808f5bd377e1b72c69",
-            "input": "when was jacques cousteau born, Answer: Jacques-Yves Cousteau (; commonly known in English as Jacques Cousteau; 11 June 1910 – 25 June 1997) was a French naval officer, explorer , conservationist , filmmaker, innovator, scientist, photographer, author and researcher who studied the sea and all forms of life in water.",
+            "input": "when was jacques cousteau born, Answer: Jacques-Yves Cousteau (; commonly known in English as Jacques Cousteau; 11 June 1910 \u2013 25 June 1997) was a French naval officer, explorer , conservationist , filmmaker, innovator, scientist, photographer, author and researcher who studied the sea and all forms of life in water.",
             "output": [
                 "Yes"
             ]
@@ -13450,7 +13394,7 @@
         },
         {
             "id": "task1294-db50f124be754a99b240daf965a68495",
-            "input": "what cheese is made from goat's milk, Answer: Goat cheese, or chèvre (from the French word for goat), is cheese made out of the milk of goats .",
+            "input": "what cheese is made from goat's milk, Answer: Goat cheese, or ch\u00e8vre (from the French word for goat), is cheese made out of the milk of goats .",
             "output": [
                 "Yes"
             ]
@@ -13471,7 +13415,7 @@
         },
         {
             "id": "task1294-35c905c7af644bfba91b41c73d2d8cf1",
-            "input": "who was on the 10 dollar bill, Answer: The first U.S. Secretary of the Treasury (1789–95), Alexander Hamilton , is currently featured on the obverse of the bill, while the U.S. Treasury Building is featured on the reverse .",
+            "input": "who was on the 10 dollar bill, Answer: The first U.S. Secretary of the Treasury (1789\u201395), Alexander Hamilton , is currently featured on the obverse of the bill, while the U.S. Treasury Building is featured on the reverse .",
             "output": [
                 "Yes"
             ]
@@ -13639,7 +13583,7 @@
         },
         {
             "id": "task1294-ce5d1f1f57454417a330bd0d3137efe6",
-            "input": "HOW MANY BROTHELS WERE THERE IN THE UNITED STATES IN 1840'S, Answer: All forms of prostitution are illegal in Clark County (which contains the Las Vegas–Paradise metropolitan area ), Washoe County (which contains Reno ), Carson City , Douglas County , and Lincoln County .",
+            "input": "HOW MANY BROTHELS WERE THERE IN THE UNITED STATES IN 1840'S, Answer: All forms of prostitution are illegal in Clark County (which contains the Las Vegas\u2013Paradise metropolitan area ), Washoe County (which contains Reno ), Carson City , Douglas County , and Lincoln County .",
             "output": [
                 "No"
             ]
@@ -13667,7 +13611,7 @@
         },
         {
             "id": "task1294-e4446ba765de43e580efb7beeb9825e7",
-            "input": "when was raphael born, Answer: Raffaello Sanzio da Urbino (April 6 or March 28, 1483 – April 6, 1520), better known simply as Raphael, was an Italian painter and architect of the High Renaissance .",
+            "input": "when was raphael born, Answer: Raffaello Sanzio da Urbino (April 6 or March 28, 1483 \u2013 April 6, 1520), better known simply as Raphael, was an Italian painter and architect of the High Renaissance .",
             "output": [
                 "Yes"
             ]
@@ -13758,7 +13702,7 @@
         },
         {
             "id": "task1294-19430bfbf30e465599de70ade1d65d7d",
-            "input": "how many people live in atlanta georgia, Answer: Atlanta is the primary transportation hub of the Southeastern United States , via highway, railroad, and air , with Hartsfield–Jackson Atlanta International Airport being the world's busiest airport since 1998.",
+            "input": "how many people live in atlanta georgia, Answer: Atlanta is the primary transportation hub of the Southeastern United States , via highway, railroad, and air , with Hartsfield\u2013Jackson Atlanta International Airport being the world's busiest airport since 1998.",
             "output": [
                 "No"
             ]
@@ -13828,7 +13772,7 @@
         },
         {
             "id": "task1294-91d9b0f4b52d4da8a3636f2f412ad2a1",
-            "input": "what the atmosphere on mercury, Answer: Mercury has a very tenuous and highly variable atmosphere (surface-bound exosphere ) containing hydrogen , helium , oxygen , sodium , calcium , potassium and water vapor , with a combined pressure level of about 10−14 bar (1 nPa ).",
+            "input": "what the atmosphere on mercury, Answer: Mercury has a very tenuous and highly variable atmosphere (surface-bound exosphere ) containing hydrogen , helium , oxygen , sodium , calcium , potassium and water vapor , with a combined pressure level of about 10\u221214 bar (1 nPa ).",
             "output": [
                 "Yes"
             ]
@@ -13842,7 +13786,7 @@
         },
         {
             "id": "task1294-8ad867835f1b42f59577e48d089de267",
-            "input": "who won the super in xl1, Answer: The Colts defeated the Bears by the score of 29–17.",
+            "input": "who won the super in xl1, Answer: The Colts defeated the Bears by the score of 29\u201317.",
             "output": [
                 "Yes"
             ]
@@ -13912,7 +13856,7 @@
         },
         {
             "id": "task1294-5e9c6ee13e324b11a032d642e07edd67",
-            "input": "who discovered neptune the planet, Answer: With a prediction by Urbain Le Verrier , telescopic observations confirming the existence of a major planet were made on the night of September 23–24, 1846, at the Berlin Observatory , by astronomer Johann Gottfried Galle (assisted by Heinrich Louis d'Arrest ), working from Le Verrier's calculations.",
+            "input": "who discovered neptune the planet, Answer: With a prediction by Urbain Le Verrier , telescopic observations confirming the existence of a major planet were made on the night of September 23\u201324, 1846, at the Berlin Observatory , by astronomer Johann Gottfried Galle (assisted by Heinrich Louis d'Arrest ), working from Le Verrier's calculations.",
             "output": [
                 "Yes"
             ]
@@ -13947,7 +13891,7 @@
         },
         {
             "id": "task1294-c5f2ea5e40504e0baef7184400d4516e",
-            "input": "how many people live in atlanta georgia, Answer: Atlanta is considered an \" alpha(-) world city ,\" and, with a gross domestic product of US$270 billion, Atlanta’s economy ranks 15th among world cities and sixth in the nation.",
+            "input": "how many people live in atlanta georgia, Answer: Atlanta is considered an \" alpha(-) world city ,\" and, with a gross domestic product of US$270 billion, Atlanta\u2019s economy ranks 15th among world cities and sixth in the nation.",
             "output": [
                 "No"
             ]
@@ -13996,7 +13940,7 @@
         },
         {
             "id": "task1294-5457a37c49e7412b8fd06be509d71642",
-            "input": "how did bleeding sumner lead to the civil war, Answer: Sen. Sumner's committee voted against annexation and at Sen. Sumner’s suggestion and quite possibly to save the party from an ugly fight or the president from embarrassment, the Senate held its debate of the treaty behind closed doors in executive session.",
+            "input": "how did bleeding sumner lead to the civil war, Answer: Sen. Sumner's committee voted against annexation and at Sen. Sumner\u2019s suggestion and quite possibly to save the party from an ugly fight or the president from embarrassment, the Senate held its debate of the treaty behind closed doors in executive session.",
             "output": [
                 "No"
             ]
@@ -14094,14 +14038,14 @@
         },
         {
             "id": "task1294-84942c6deda54ee4880d1d3926274d84",
-            "input": "how many died in hiroshima and nagasaki, Answer: Within the first two to four months of the bombings, the acute effects killed 90,000–166,000 people in Hiroshima and 60,000–80,000 in Nagasaki, with roughly half of the deaths in each city occurring on the first day.",
+            "input": "how many died in hiroshima and nagasaki, Answer: Within the first two to four months of the bombings, the acute effects killed 90,000\u2013166,000 people in Hiroshima and 60,000\u201380,000 in Nagasaki, with roughly half of the deaths in each city occurring on the first day.",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-ad5d8ee191af4db69f8d291fcaa3c957",
-            "input": "when was andy griffith born, Answer: Andy Samuel Griffith (June 1, 1926 – July 3, 2012) was an American actor, television producer, Grammy Award -winning Southern-gospel singer, and writer.",
+            "input": "when was andy griffith born, Answer: Andy Samuel Griffith (June 1, 1926 \u2013 July 3, 2012) was an American actor, television producer, Grammy Award -winning Southern-gospel singer, and writer.",
             "output": [
                 "Yes"
             ]
@@ -14143,7 +14087,7 @@
         },
         {
             "id": "task1294-4829cbf4fe8443b2a9ae773e43b90064",
-            "input": "how did bleeding sumner lead to the civil war, Answer: The following day, President Grant, feeling betrayed by Sen. Sumner, retaliated by ordering the dismissal of Sumner’s close friend J. Lothrop Motley , Ambassador to Britain.",
+            "input": "how did bleeding sumner lead to the civil war, Answer: The following day, President Grant, feeling betrayed by Sen. Sumner, retaliated by ordering the dismissal of Sumner\u2019s close friend J. Lothrop Motley , Ambassador to Britain.",
             "output": [
                 "No"
             ]
@@ -14185,7 +14129,7 @@
         },
         {
             "id": "task1294-f85e7fb41b144d6ea09abb63dbeea7ba",
-            "input": "how deep can be drill for deep underwater, Answer: “The Energy Department recently projected that gulf oil production would expand from its 2011 level of 1.3 million barrels a day, still nearly a quarter of total domestic production, to 2 million barrels a day by 2020.”",
+            "input": "how deep can be drill for deep underwater, Answer: \u201cThe Energy Department recently projected that gulf oil production would expand from its 2011 level of 1.3 million barrels a day, still nearly a quarter of total domestic production, to 2 million barrels a day by 2020.\u201d",
             "output": [
                 "No"
             ]
@@ -14318,7 +14262,7 @@
         },
         {
             "id": "task1294-f2dac685c0f94bdeb4c372eba8f3ece4",
-            "input": "what is bourbon made of, Answer: Bourbon whiskey is a type of American whiskey – a barrel-aged distilled spirit made primarily from corn .",
+            "input": "what is bourbon made of, Answer: Bourbon whiskey is a type of American whiskey \u2013 a barrel-aged distilled spirit made primarily from corn .",
             "output": [
                 "Yes"
             ]
@@ -14465,7 +14409,7 @@
         },
         {
             "id": "task1294-a1814f30b29a4c7d9fc7655ee03cc997",
-            "input": "how deep can be drill for deep underwater, Answer: “The expansion of deepwater drilling is happening despite accidents in offshore fields...”",
+            "input": "how deep can be drill for deep underwater, Answer: \u201cThe expansion of deepwater drilling is happening despite accidents in offshore fields...\u201d",
             "output": [
                 "No"
             ]
@@ -14598,7 +14542,7 @@
         },
         {
             "id": "task1294-eb2e1256562c4e7cb0e3be2125a80082",
-            "input": "what is a .PAC file, Answer: A PAC file contains a JavaScript function “FindProxyForURL(url, host)”.",
+            "input": "what is a .PAC file, Answer: A PAC file contains a JavaScript function \u201cFindProxyForURL(url, host)\u201d.",
             "output": [
                 "Yes"
             ]
@@ -14647,7 +14591,7 @@
         },
         {
             "id": "task1294-06f286b2385d4079ad6a794e1c6716ca",
-            "input": "where do you find iodine, Answer: Iodine is found on Earth mainly as the highly water-soluble iodide ion, I−, which concentrates it in oceans and brine pools .",
+            "input": "where do you find iodine, Answer: Iodine is found on Earth mainly as the highly water-soluble iodide ion, I\u2212, which concentrates it in oceans and brine pools .",
             "output": [
                 "Yes"
             ]
@@ -14668,7 +14612,7 @@
         },
         {
             "id": "task1294-7dd04680139541e5b862ea97a0828e3e",
-            "input": "How did Barry White die?, Answer: Barry White, born Barry Eugene Carter ( – ), was an American composer and singer-songwriter .",
+            "input": "How did Barry White die?, Answer: Barry White, born Barry Eugene Carter ( \u2013 ), was an American composer and singer-songwriter .",
             "output": [
                 "No"
             ]
@@ -14878,7 +14822,7 @@
         },
         {
             "id": "task1294-3abcaa3c06394437b6622ce49ff17d32",
-            "input": "what county is galveston in texas, Answer: Galveston County is a county located in the U.S. state of Texas within the Houston–Sugar Land–Baytown metropolitan area.",
+            "input": "what county is galveston in texas, Answer: Galveston County is a county located in the U.S. state of Texas within the Houston\u2013Sugar Land\u2013Baytown metropolitan area.",
             "output": [
                 "Yes"
             ]
@@ -14934,7 +14878,7 @@
         },
         {
             "id": "task1294-14136bb83c014f4dba491bc03696de2e",
-            "input": "how were letters sealed in the 1800s, Answer: Town seal (matrix) of Náchod from 1570",
+            "input": "how were letters sealed in the 1800s, Answer: Town seal (matrix) of N\u00e1chod from 1570",
             "output": [
                 "No"
             ]
@@ -14990,7 +14934,7 @@
         },
         {
             "id": "task1294-c1a9123d851b4f20869aaf731381f581",
-            "input": "what produces primary xylem?, Answer: The word xylem is derived from the Greek word ξύλον (xylon), meaning \"wood\"; the best-known xylem tissue is wood , though it is found throughout the plant.",
+            "input": "what produces primary xylem?, Answer: The word xylem is derived from the Greek word \u03be\u03cd\u03bb\u03bf\u03bd (xylon), meaning \"wood\"; the best-known xylem tissue is wood , though it is found throughout the plant.",
             "output": [
                 "Yes"
             ]
@@ -14998,13 +14942,6 @@
         {
             "id": "task1294-3e99c667d35b4db491fda61bcbdca920",
             "input": "how old is kurt cobain's daughter, Answer: Cobain, however, was often uncomfortable and frustrated, believing his message and artistic vision to have been misinterpreted by the public, with his personal issues often subject to media attention.",
-            "output": [
-                "No"
-            ]
-        },
-        {
-            "id": "task1294-910915d4083b44928c534666e55ce204",
-            "input": "how deep is the atlantic ocean, Answer: The Atlantic Ocean occupies an elongated, S-shaped basin extending longitudinally between Eurasia and Africa to the east, and the Americas to the west.",
             "output": [
                 "No"
             ]
@@ -15052,15 +14989,8 @@
             ]
         },
         {
-            "id": "task1294-9470bbffc3eb4ad5b284ffc7d676cb3a",
-            "input": "what does the family leave act, Answer: The Family and Medical Leave Act of 1993 (FMLA) is a United States federal law requiring covered employers to provide employees job-protected and unpaid leave for qualified medical and family reasons.",
-            "output": [
-                "Yes"
-            ]
-        },
-        {
             "id": "task1294-1710af536ab34391b4a3cdadd233249c",
-            "input": "when did charles dickens live, Answer: Charles John Huffam Dickens (; 7 February 1812 – 9 June 1870) was an English writer and social critic.",
+            "input": "when did charles dickens live, Answer: Charles John Huffam Dickens (; 7 February 1812 \u2013 9 June 1870) was an English writer and social critic.",
             "output": [
                 "Yes"
             ]
@@ -15193,14 +15123,14 @@
         },
         {
             "id": "task1294-5045be202c934b65aa7dd6fab4a2dd8c",
-            "input": "what is sanskrit shri, Answer: Sri ( Devanagari : श्री, IAST ; Śrī), also transliterated as Sree or Shri or Shree is a word of Sanskrit origin, used in the Indian subcontinent as polite form of address equivalent to the English \"Mr.\" in written and spoken language, or as a title of veneration for deities (usually translated as \"Holy\").",
+            "input": "what is sanskrit shri, Answer: Sri ( Devanagari : \u0936\u094d\u0930\u0940, IAST ; \u015ar\u012b), also transliterated as Sree or Shri or Shree is a word of Sanskrit origin, used in the Indian subcontinent as polite form of address equivalent to the English \"Mr.\" in written and spoken language, or as a title of veneration for deities (usually translated as \"Holy\").",
             "output": [
                 "Yes"
             ]
         },
         {
             "id": "task1294-09826558bc6849d1af0f108be8c7ce1e",
-            "input": "how much is Hot yoga growing yearly, Answer: Bikram Yoga is ideally practiced in a room heated to 105°F (≈ 40.6°C) with a humidity of 40%,.",
+            "input": "how much is Hot yoga growing yearly, Answer: Bikram Yoga is ideally practiced in a room heated to 105\u00b0F (\u2248 40.6\u00b0C) with a humidity of 40%,.",
             "output": [
                 "No"
             ]
@@ -15277,7 +15207,7 @@
         },
         {
             "id": "task1294-436e6ec67fcd49d0a7941829e14836d1",
-            "input": "how deep is the atlantic ocean, Answer: The oldest known mention of \"Atlantic\" is in The Histories of Herodotus around 450 BC (Hdt. 1.202.4): Atlantis thalassa (Greek: Ἀτλαντὶς θάλασσα; English: Sea of Atlas).",
+            "input": "how deep is the atlantic ocean, Answer: The oldest known mention of \"Atlantic\" is in The Histories of Herodotus around 450 BC (Hdt. 1.202.4): Atlantis thalassa (Greek: \u1f08\u03c4\u03bb\u03b1\u03bd\u03c4\u1f76\u03c2 \u03b8\u03ac\u03bb\u03b1\u03c3\u03c3\u03b1; English: Sea of Atlas).",
             "output": [
                 "No"
             ]
@@ -15305,14 +15235,14 @@
         },
         {
             "id": "task1294-5505aa4eab8444a389159a0b7ae204f5",
-            "input": "how deep can be drill for deep underwater, Answer: Engineers lower a drill string -- a series of pipes designed to drill down to the oil deposit -- through the riser.”",
+            "input": "how deep can be drill for deep underwater, Answer: Engineers lower a drill string -- a series of pipes designed to drill down to the oil deposit -- through the riser.\u201d",
             "output": [
                 "No"
             ]
         },
         {
             "id": "task1294-a4218dc96e8c4955a11bc0da786a3bff",
-            "input": "how much is jk rowling worth, Answer: Rowling has said she is currently working on two books—one aimed for adults, the other for children younger than the Harry Potter audience, and she expects the latter to be published first.",
+            "input": "how much is jk rowling worth, Answer: Rowling has said she is currently working on two books\u2014one aimed for adults, the other for children younger than the Harry Potter audience, and she expects the latter to be published first.",
             "output": [
                 "No"
             ]

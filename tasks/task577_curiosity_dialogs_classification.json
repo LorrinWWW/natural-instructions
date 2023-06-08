@@ -130,7 +130,7 @@
         },
         {
             "id": "task577-8b216718b1ef40969279fe4746e9ff33",
-            "input": "I don’t have that information but I can tell you that the Nigerian culture is marked by variation from which cultural crossroads made by French colonialism formed into a unified state from the beginning of the 20th century.",
+            "input": "I don\u2019t have that information but I can tell you that the Nigerian culture is marked by variation from which cultural crossroads made by French colonialism formed into a unified state from the beginning of the 20th century.",
             "output": [
                 "assistant"
             ]
@@ -438,7 +438,7 @@
         },
         {
             "id": "task577-99795ed626d14838955b73db115bc9a2",
-            "input": "Sure. Also known as Trichy or Tiruchi, Tiruchirappalli is a city in the Indian state of Tamil Nadu. It’s the administrative headquarters of Tiruchirapalli District.",
+            "input": "Sure. Also known as Trichy or Tiruchi, Tiruchirappalli is a city in the Indian state of Tamil Nadu. It\u2019s the administrative headquarters of Tiruchirapalli District.",
             "output": [
                 "assistant"
             ]
@@ -893,14 +893,14 @@
         },
         {
             "id": "task577-8d1411b695274b9b8083402e3fa03ecd",
-            "input": "Sorry, I don't know, but I'll know for sure in 2091--just a little humor. More about their transportation, they have their own military airline called Transporte Aéreo Militar (the Bolivian Military Airline).",
+            "input": "Sorry, I don't know, but I'll know for sure in 2091--just a little humor. More about their transportation, they have their own military airline called Transporte A\u00e9reo Militar (the Bolivian Military Airline).",
             "output": [
                 "assistant"
             ]
         },
         {
             "id": "task577-24361f74c1414fc79d71d7c84286f391",
-            "input": "Afghanistān (officially called Islamic Republic of Afghanistan; , ) is a country located in Central Asia and South Asia. It has borders with Pakistan in the south and east, Iran in the west, Turkmenistan, Uzbekistan and Tajikistan in the north, and China in the far northeast. I",
+            "input": "Afghanist\u0101n (officially called Islamic Republic of Afghanistan; , ) is a country located in Central Asia and South Asia. It has borders with Pakistan in the south and east, Iran in the west, Turkmenistan, Uzbekistan and Tajikistan in the north, and China in the far northeast. I",
             "output": [
                 "assistant"
             ]
@@ -1537,7 +1537,7 @@
         },
         {
             "id": "task577-3bdb34f531434305a2130cd104cd7c43",
-            "input": "I can’t provide that information. Is there anything else you would like to learn about?",
+            "input": "I can\u2019t provide that information. Is there anything else you would like to learn about?",
             "output": [
                 "assistant"
             ]
@@ -1971,7 +1971,7 @@
         },
         {
             "id": "task577-0dc1856f01c94e82926aa8b28037ffa8",
-            "input": "Okay, the Bahamas are a group of islands in the West Indies. The country’s capital is Nassau",
+            "input": "Okay, the Bahamas are a group of islands in the West Indies. The country\u2019s capital is Nassau",
             "output": [
                 "assistant"
             ]
@@ -2412,7 +2412,7 @@
         },
         {
             "id": "task577-6abc63a6456344c5932e5f7ada9ce96b",
-            "input": "Sorry, I don’t have any information on that at this time but I do have more on the tourism. Designed to make Minnesota stand apart as a unique travel destination, the “True North” campaign was designed and invited people to have real meaningful experiences around the state.",
+            "input": "Sorry, I don\u2019t have any information on that at this time but I do have more on the tourism. Designed to make Minnesota stand apart as a unique travel destination, the \u201cTrue North\u201d campaign was designed and invited people to have real meaningful experiences around the state.",
             "output": [
                 "assistant"
             ]
@@ -2468,7 +2468,7 @@
         },
         {
             "id": "task577-6741cb5130634af69958cc2892188414",
-            "input": "I don’t have that information, but I do have this information, within Australian political culture the Coalition is considered Centre-right and the labor party is considered Centre- left.",
+            "input": "I don\u2019t have that information, but I do have this information, within Australian political culture the Coalition is considered Centre-right and the labor party is considered Centre- left.",
             "output": [
                 "assistant"
             ]
@@ -3539,7 +3539,7 @@
         },
         {
             "id": "task577-725ef0d274f9402aa6286f5b5ea2d926",
-            "input": "That information isn’t available. May I answer any other questions for you?",
+            "input": "That information isn\u2019t available. May I answer any other questions for you?",
             "output": [
                 "assistant"
             ]
@@ -3749,7 +3749,7 @@
         },
         {
             "id": "task577-481a988b2ceb49bd8912b1fd5c54cc28",
-            "input": "What can you tell me about it’s toponymy?",
+            "input": "What can you tell me about it\u2019s toponymy?",
             "output": [
                 "user"
             ]
@@ -3917,7 +3917,7 @@
         },
         {
             "id": "task577-3cf136add9b34772a80fc8c399dc9bb5",
-            "input": "The Democratic Republic of the Congo has been known in the past as , in chronological order , the Congo Free State , Belgian Congo , the Republic of Congo-Léopoldville , the Democratic Republic of the Congo and the Republic of Zaire , before returning to its current name the Democratic Republic of the Congo .",
+            "input": "The Democratic Republic of the Congo has been known in the past as , in chronological order , the Congo Free State , Belgian Congo , the Republic of Congo-L\u00e9opoldville , the Democratic Republic of the Congo and the Republic of Zaire , before returning to its current name the Democratic Republic of the Congo .",
             "output": [
                 "assistant"
             ]
@@ -5310,7 +5310,7 @@
         },
         {
             "id": "task577-d471b8a5d2714ecea2346967d92a8df2",
-            "input": "France is Madagascar’s main trading partner",
+            "input": "France is Madagascar\u2019s main trading partner",
             "output": [
                 "assistant"
             ]
@@ -6374,7 +6374,7 @@
         },
         {
             "id": "task577-62b91af76a7a455fbbee0a4da035b0cc",
-            "input": "Sorry I don’t have any more information on that subject. Would you like to know more about it’s history?",
+            "input": "Sorry I don\u2019t have any more information on that subject. Would you like to know more about it\u2019s history?",
             "output": [
                 "assistant"
             ]
@@ -6563,7 +6563,7 @@
         },
         {
             "id": "task577-7b468b0a74c742b0886fdd25d10a945e",
-            "input": "During the Philippine Revolution the Malolos Congress proclaimed the establishment of the República Filipina or the Philippine Republic",
+            "input": "During the Philippine Revolution the Malolos Congress proclaimed the establishment of the Rep\u00fablica Filipina or the Philippine Republic",
             "output": [
                 "assistant"
             ]
@@ -8236,7 +8236,7 @@
         },
         {
             "id": "task577-f040bc76aeef403e820db8c260d04bbe",
-            "input": "Hi. I’d like to learn about Gujarat.",
+            "input": "Hi. I\u2019d like to learn about Gujarat.",
             "output": [
                 "user"
             ]
@@ -8446,7 +8446,7 @@
         },
         {
             "id": "task577-05595cb18f1a493dac551e472fd784ab",
-            "input": "I would like to know about Jamica’s Infrastructure.",
+            "input": "I would like to know about Jamica\u2019s Infrastructure.",
             "output": [
                 "user"
             ]
@@ -8649,7 +8649,7 @@
         },
         {
             "id": "task577-9cb300f7d3714072a646fffc4e0bdc1c",
-            "input": "I’m sorry, but I do not have any demography information. Would you like to know about their geography?",
+            "input": "I\u2019m sorry, but I do not have any demography information. Would you like to know about their geography?",
             "output": [
                 "assistant"
             ]
@@ -8775,7 +8775,7 @@
         },
         {
             "id": "task577-0010c1779cd04f2a9b723360688bfad4",
-            "input": "You’re very welcome!",
+            "input": "You\u2019re very welcome!",
             "output": [
                 "assistant"
             ]
@@ -11414,7 +11414,7 @@
         },
         {
             "id": "task577-d0dfb0b0afa447dc93342137ba99dbea",
-            "input": "Yes I can Australia has six states — New South Wales ( NSW ) , Queensland ( QLD ) , South Australia ( SA ) , Tasmania ( TAS ) , Victoria ( VIC ) and Western Australia ( WA ) — and two major mainland territories — the Australian Capital Territory ( ACT ) and the Northern Territory ( NT ) .",
+            "input": "Yes I can Australia has six states \u2014 New South Wales ( NSW ) , Queensland ( QLD ) , South Australia ( SA ) , Tasmania ( TAS ) , Victoria ( VIC ) and Western Australia ( WA ) \u2014 and two major mainland territories \u2014 the Australian Capital Territory ( ACT ) and the Northern Territory ( NT ) .",
             "output": [
                 "assistant"
             ]
@@ -12751,7 +12751,7 @@
         },
         {
             "id": "task577-1bda40e5458d4fad9dc244a6e41e7e56",
-            "input": "The warmest cities in Poland include Tarnów and Wroclaw",
+            "input": "The warmest cities in Poland include Tarn\u00f3w and Wroclaw",
             "output": [
                 "assistant"
             ]
@@ -15180,7 +15180,7 @@
         },
         {
             "id": "task577-33f0774cc9a64e88bb64f175bd1b8b71",
-            "input": "Georgia’s climate is transitional from humid, subtropical to continental.",
+            "input": "Georgia\u2019s climate is transitional from humid, subtropical to continental.",
             "output": [
                 "assistant"
             ]
@@ -15495,7 +15495,7 @@
         },
         {
             "id": "task577-18a7469c02074ab88255ffff70d082d4",
-            "input": "You’re welcome.",
+            "input": "You\u2019re welcome.",
             "output": [
                 "assistant"
             ]
@@ -15845,7 +15845,7 @@
         },
         {
             "id": "task577-168374127dbe4c8589d65bac2f6a6c36",
-            "input": "Hi, can you please help me learn about Cardiff today. Can you start off by telling me where it’s located?",
+            "input": "Hi, can you please help me learn about Cardiff today. Can you start off by telling me where it\u2019s located?",
             "output": [
                 "user"
             ]
@@ -15936,7 +15936,7 @@
         },
         {
             "id": "task577-13f8ef75d1fb495097806fde6cf76e8c",
-            "input": "It is a republic! It's officially known as the Republic of Côte d'Ivoire.",
+            "input": "It is a republic! It's officially known as the Republic of C\u00f4te d'Ivoire.",
             "output": [
                 "assistant"
             ]
@@ -16356,7 +16356,7 @@
         },
         {
             "id": "task577-7cfd2808941843c2a5eae524c45f7101",
-            "input": "Okay! Let’s start with the etymology.",
+            "input": "Okay! Let\u2019s start with the etymology.",
             "output": [
                 "user"
             ]
@@ -17392,7 +17392,7 @@
         },
         {
             "id": "task577-f8cb47d817ad468fa5d1fde2ca2ae551",
-            "input": "Can you tell me more on Houston’s history?",
+            "input": "Can you tell me more on Houston\u2019s history?",
             "output": [
                 "user"
             ]
@@ -18022,7 +18022,7 @@
         },
         {
             "id": "task577-b70a0c8448c14b988a935a73381b4496",
-            "input": "Sweden’s economy is starting to look at lot like United States Economy",
+            "input": "Sweden\u2019s economy is starting to look at lot like United States Economy",
             "output": [
                 "assistant"
             ]
@@ -18071,7 +18071,7 @@
         },
         {
             "id": "task577-9c62ce1c35b145c0a224998d13887d29",
-            "input": "Hi! I’m very interested in knowing about Zimbabwe. What can you tell me about it ?",
+            "input": "Hi! I\u2019m very interested in knowing about Zimbabwe. What can you tell me about it ?",
             "output": [
                 "user"
             ]
@@ -18743,7 +18743,7 @@
         },
         {
             "id": "task577-bb9b0537ffff4bcfbbfd72c62d6346c0",
-            "input": "That’s interesting , do you know anything else about the culture?",
+            "input": "That\u2019s interesting , do you know anything else about the culture?",
             "output": [
                 "user"
             ]
@@ -21193,7 +21193,7 @@
         },
         {
             "id": "task577-88bc496776094aaa853e4c384f0e56c8",
-            "input": "You’re very welcome! Have a nice day now!",
+            "input": "You\u2019re very welcome! Have a nice day now!",
             "output": [
                 "assistant"
             ]
@@ -21578,7 +21578,7 @@
         },
         {
             "id": "task577-bbdfb32f9a2b4c9bbd3a664d554f8933",
-            "input": "From the city’s origin until the 19th century , Germans were the dominant ethnic group.",
+            "input": "From the city\u2019s origin until the 19th century , Germans were the dominant ethnic group.",
             "output": [
                 "assistant"
             ]
@@ -21809,7 +21809,7 @@
         },
         {
             "id": "task577-522c938277624b59afc4d350a325d4e7",
-            "input": "There are 4 World Heritage sites with the Socotra Archipelago being the most recent addition. The Football Association there is a member of FIFA & AFC Yemen’s were among the 1st to join the Islam religion",
+            "input": "There are 4 World Heritage sites with the Socotra Archipelago being the most recent addition. The Football Association there is a member of FIFA & AFC Yemen\u2019s were among the 1st to join the Islam religion",
             "output": [
                 "assistant"
             ]
@@ -22236,7 +22236,7 @@
         },
         {
             "id": "task577-20f1960666004861a9cf435e56e5226c",
-            "input": "Hello! Around 95.2% of Dorset’s population are white ethnicity, 60.9% are Christian and 28.5% say they are not religious.",
+            "input": "Hello! Around 95.2% of Dorset\u2019s population are white ethnicity, 60.9% are Christian and 28.5% say they are not religious.",
             "output": [
                 "assistant"
             ]
@@ -22292,7 +22292,7 @@
         },
         {
             "id": "task577-8a5fa91095c04fae8f263e3826479443",
-            "input": "I can’t provide that information. Would you like to know about Transport in New South Wales?",
+            "input": "I can\u2019t provide that information. Would you like to know about Transport in New South Wales?",
             "output": [
                 "assistant"
             ]
@@ -22397,7 +22397,7 @@
         },
         {
             "id": "task577-2cb4822bdd7a46879af0dd0806bfce29",
-            "input": "Yes! Sydney has some of Australia’s best shopping, and the Blue Mountains are about two hours drive away to the west. Many people go to Sydney city to watch the great fireworks display over the harbour on New Years Eve. Sounds like a nice place to go for the 31st of December.",
+            "input": "Yes! Sydney has some of Australia\u2019s best shopping, and the Blue Mountains are about two hours drive away to the west. Many people go to Sydney city to watch the great fireworks display over the harbour on New Years Eve. Sounds like a nice place to go for the 31st of December.",
             "output": [
                 "assistant"
             ]
@@ -22936,7 +22936,7 @@
         },
         {
             "id": "task577-f8cc64147d25402696f226f8232a702c",
-            "input": "Prince Edward’s Island is the most densely populated province in Canada despite its small size and reputation as a largely rural province.",
+            "input": "Prince Edward\u2019s Island is the most densely populated province in Canada despite its small size and reputation as a largely rural province.",
             "output": [
                 "assistant"
             ]
@@ -23664,7 +23664,7 @@
         },
         {
             "id": "task577-8e15e72b9ce043e889cd0659538153bd",
-            "input": "Östersund is the centre of trade and commerce in Jämtland .",
+            "input": "\u00d6stersund is the centre of trade and commerce in J\u00e4mtland .",
             "output": [
                 "assistant"
             ]
@@ -23958,7 +23958,7 @@
         },
         {
             "id": "task577-e42b6a4a3c8f4ab6be37d9cd64fa90c4",
-            "input": "What caused this’d higher birth rate ?",
+            "input": "What caused this\u2019d higher birth rate ?",
             "output": [
                 "user"
             ]
@@ -24287,7 +24287,7 @@
         },
         {
             "id": "task577-6ade8720e8004790a81c9aea01695106",
-            "input": "Moldava became independent from Romania when the Soviet Union collapsed & structural reforms are needed to promote sustainable growth. In August, 2013work began on a new pipeline that would break Russia’s hold on the gas supply to Moldava",
+            "input": "Moldava became independent from Romania when the Soviet Union collapsed & structural reforms are needed to promote sustainable growth. In August, 2013work began on a new pipeline that would break Russia\u2019s hold on the gas supply to Moldava",
             "output": [
                 "assistant"
             ]
@@ -24385,7 +24385,7 @@
         },
         {
             "id": "task577-b1d858cb3544488e9d6aab60f68a4c8b",
-            "input": "You’re welcome",
+            "input": "You\u2019re welcome",
             "output": [
                 "assistant"
             ]
@@ -24756,7 +24756,7 @@
         },
         {
             "id": "task577-e09df3ce6b6b4f23af40417947602ba0",
-            "input": "What more can you tell me about Yukon’s demographics?",
+            "input": "What more can you tell me about Yukon\u2019s demographics?",
             "output": [
                 "user"
             ]
@@ -24861,7 +24861,7 @@
         },
         {
             "id": "task577-ec8c55a4425c46dc9b0b029528fbad9a",
-            "input": "Story, I can’t provide information on either topic. Would you like to know about the government?",
+            "input": "Story, I can\u2019t provide information on either topic. Would you like to know about the government?",
             "output": [
                 "assistant"
             ]
@@ -25442,7 +25442,7 @@
         },
         {
             "id": "task577-2e0cdb75896843d5b77b17ff98450847",
-            "input": "I don’t have any information on the economy but would you like to heard about the country’s politics",
+            "input": "I don\u2019t have any information on the economy but would you like to heard about the country\u2019s politics",
             "output": [
                 "assistant"
             ]
@@ -25477,7 +25477,7 @@
         },
         {
             "id": "task577-a4679c7ab1c54da6a329ba1abc08038a",
-            "input": "After Aelle ’s forces seized the Saxon Shore fort of Anderida , the South Saxons were able to gradually colonise free of Romano-British control and extend their territory westwards to link with the Saxon settlement at Highdown Hill.",
+            "input": "After Aelle \u2019s forces seized the Saxon Shore fort of Anderida , the South Saxons were able to gradually colonise free of Romano-British control and extend their territory westwards to link with the Saxon settlement at Highdown Hill.",
             "output": [
                 "assistant"
             ]
@@ -25820,7 +25820,7 @@
         },
         {
             "id": "task577-5ad7312857874bdd8d6faf10979c92dd",
-            "input": "You’re welcome! Take care and bye for now!",
+            "input": "You\u2019re welcome! Take care and bye for now!",
             "output": [
                 "assistant"
             ]
@@ -26689,13 +26689,6 @@
         {
             "id": "task577-b46994ce69ff4e77856ab0fc668ac14b",
             "input": "There was a special commission created to over look Science and Technology with the Science and Technology Act of 2003. However it only became operational in 2011. I wish I was provided with why it took so long to become operational, but you must forgive me as I don't have that info.",
-            "output": [
-                "assistant"
-            ]
-        },
-        {
-            "id": "task577-bb7a3d01fb274d058256d057d644c7f8",
-            "input": "Hmm unfortunately I don't have any of that information, but I could tell you more about the history. Such as the island were discovered by the Spanish and named by Christopher Columbus on his second voyage in 1493 for Saint Ursula and her virgin followers.",
             "output": [
                 "assistant"
             ]
@@ -29005,7 +28998,7 @@
         },
         {
             "id": "task577-2dc106684555451abe7abc3918428bbf",
-            "input": "Sure i’d be glad to help you. Officially called the Kingdom of Bhurtan, it’s a small country located in the Himalaya Mountians in South Asia.",
+            "input": "Sure i\u2019d be glad to help you. Officially called the Kingdom of Bhurtan, it\u2019s a small country located in the Himalaya Mountians in South Asia.",
             "output": [
                 "assistant"
             ]
@@ -29257,7 +29250,7 @@
         },
         {
             "id": "task577-bb1a0cfec6134fa9a1b2c98f1ab41b7c",
-            "input": "Good to know! What can you tell me about Rwanda´s history?",
+            "input": "Good to know! What can you tell me about Rwanda\u00b4s history?",
             "output": [
                 "user"
             ]
@@ -29838,7 +29831,7 @@
         },
         {
             "id": "task577-12ce445fbe9a49f78cec504b411f5071",
-            "input": "Estonia lies on the eastern shores of the Baltic Sea immediately across the Gulf of Finland. Average elevation reaches only 50 m and the country highest point is the Suur Munamägi in the southeast at 318 m",
+            "input": "Estonia lies on the eastern shores of the Baltic Sea immediately across the Gulf of Finland. Average elevation reaches only 50 m and the country highest point is the Suur Munam\u00e4gi in the southeast at 318 m",
             "output": [
                 "assistant"
             ]
@@ -29992,7 +29985,7 @@
         },
         {
             "id": "task577-94e1db885397470b95699f684c2a239f",
-            "input": "It’s a group of Islands in the Southern Pacific.",
+            "input": "It\u2019s a group of Islands in the Southern Pacific.",
             "output": [
                 "assistant"
             ]
@@ -32288,7 +32281,7 @@
         },
         {
             "id": "task577-9cd7f3757524479591b599d0837c5ed7",
-            "input": "I don’t have any information on the Saint Lucia Etymology, but I can give you some information on the History of this country",
+            "input": "I don\u2019t have any information on the Saint Lucia Etymology, but I can give you some information on the History of this country",
             "output": [
                 "assistant"
             ]
@@ -35907,7 +35900,7 @@
         },
         {
             "id": "task577-515674d6dbb14df0898016fa0fb1a99c",
-            "input": "Muslims are largely concentrated in northern and eastern Chad and animists and Christians live primarily in southern Chad and Guéra",
+            "input": "Muslims are largely concentrated in northern and eastern Chad and animists and Christians live primarily in southern Chad and Gu\u00e9ra",
             "output": [
                 "assistant"
             ]
@@ -36355,7 +36348,7 @@
         },
         {
             "id": "task577-9b1b1c21cd5849e6b9a09cfe358b393b",
-            "input": "You’re welcome! Have a nice day! Goodbye!:)",
+            "input": "You\u2019re welcome! Have a nice day! Goodbye!:)",
             "output": [
                 "assistant"
             ]
@@ -37083,7 +37076,7 @@
         },
         {
             "id": "task577-7183aa762f294099b35c3108a69fec79",
-            "input": "I don’t have informative available on it but I did find that Denmark is the northern most point",
+            "input": "I don\u2019t have informative available on it but I did find that Denmark is the northern most point",
             "output": [
                 "assistant"
             ]
@@ -39078,7 +39071,7 @@
         },
         {
             "id": "task577-410bff13ff724ccc905dd9947d1e89bb",
-            "input": "Hello! I’d like to know something about the Federated States of Micronesia.",
+            "input": "Hello! I\u2019d like to know something about the Federated States of Micronesia.",
             "output": [
                 "user"
             ]

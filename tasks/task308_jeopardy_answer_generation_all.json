@@ -325,7 +325,7 @@
             "id": "task308-98c477c7f0c64e66bf898b9b2a97cc0f",
             "input": "Category: AT THE BUFFET \nClue: For dessert: this rich custard topped with caramelized sugar that's so brittle you can shatter it with a spoon",
             "output": [
-                "creme brulée"
+                "creme brul\u00e9e"
             ]
         },
         {
@@ -680,7 +680,7 @@
         },
         {
             "id": "task308-f8cb9ed7ac9044dc91548410a54d329b",
-            "input": "Category: '90S OSCAR WINNERS \nClue: His 12 nominations for movies of the decade produced 1 win, Best Original Score for “Schindler's List”",
+            "input": "Category: '90S OSCAR WINNERS \nClue: His 12 nominations for movies of the decade produced 1 win, Best Original Score for \u201cSchindler's List\u201d",
             "output": [
                 "john williams"
             ]
@@ -1914,7 +1914,7 @@
             "id": "task308-6a3f2d74ae6d47ceaa3bcf1262862c6a",
             "input": "Category: TINKER \nClue: \"Tinker, Tailor, Soldier, Spy\" is a novel by this Brit",
             "output": [
-                "le carré"
+                "le carr\u00e9"
             ]
         },
         {
@@ -3291,7 +3291,7 @@
         },
         {
             "id": "task308-d94a266154da4c80839e4872941eb1a1",
-            "input": "Category: SCIENCE EN ESPAÑOL \nClue: In space not even light can escape one of these, agujero negro",
+            "input": "Category: SCIENCE EN ESPA\u00d1OL \nClue: In space not even light can escape one of these, agujero negro",
             "output": [
                 "black holes"
             ]
@@ -3818,7 +3818,7 @@
             "id": "task308-89935c3951f2464c903ffb05fc26ea37",
             "input": "Category: BROTHERS & SISTERS \nClue: In 1846 these 3 sisters published \"Poems by Currer, Ellis and Acton Bell\" at their own expense, & sold only 2 copies",
             "output": [
-                "the brontës"
+                "the bront\u00ebs"
             ]
         },
         {
@@ -4964,7 +4964,7 @@
         },
         {
             "id": "task308-316e8e321e8f47a0b6ba5efa5ae9fd5e",
-            "input": "Category: AFRICAN-AMERICAN AUTHORS \nClue: A conversation he had with Miles Davis became the first of the “Playboy Interviews” in 1962",
+            "input": "Category: AFRICAN-AMERICAN AUTHORS \nClue: A conversation he had with Miles Davis became the first of the \u201cPlayboy Interviews\u201d in 1962",
             "output": [
                 "alex haley"
             ]
@@ -5657,7 +5657,7 @@
         },
         {
             "id": "task308-453c6910acc548de8ae8fdc427f9b02a",
-            "input": "Category: “G” WHIZ! \nClue: A professional errand-runner, whether or not he has cheek pouches",
+            "input": "Category: \u201cG\u201d WHIZ! \nClue: A professional errand-runner, whether or not he has cheek pouches",
             "output": [
                 "a gopher"
             ]
@@ -6812,7 +6812,7 @@
         },
         {
             "id": "task308-458de7523df24aad98a9ec2445c57e39",
-            "input": "Category: HISTORIC NAMES \nClue: Queen Alexandra, consort of this turn of the cen. British king, was the daughter of Denmark’s Christian IX",
+            "input": "Category: HISTORIC NAMES \nClue: Queen Alexandra, consort of this turn of the cen. British king, was the daughter of Denmark\u2019s Christian IX",
             "output": [
                 "edward vii"
             ]
@@ -6882,7 +6882,7 @@
         },
         {
             "id": "task308-63666781642749dfa6877dc8563298da",
-            "input": "Category: DEDICATED TO… \nClue: Melville inscribed this tome to Nathaniel Hawthorne \"in token of…admiration for his genius\"",
+            "input": "Category: DEDICATED TO\u2026 \nClue: Melville inscribed this tome to Nathaniel Hawthorne \"in token of\u2026admiration for his genius\"",
             "output": [
                 "moby dick"
             ]
@@ -6961,7 +6961,7 @@
             "id": "task308-115f9f0ade5e41ec88ab7fb012fc9330",
             "input": "Category: WORLD CAPITALS \nClue: This capital city of 113,000 is the closest national capital to the Arctic Circle",
             "output": [
-                "reykjavík"
+                "reykjav\u00edk"
             ]
         },
         {
@@ -7099,9 +7099,9 @@
         },
         {
             "id": "task308-e7f41c126cd7423bbb7c8bbe50b70a1b",
-            "input": "Category: BIBLICAL QUOTES \nClue: Completes the line from a parable, \"Many are called…\"",
+            "input": "Category: BIBLICAL QUOTES \nClue: Completes the line from a parable, \"Many are called\u2026\"",
             "output": [
-                "\"…but few are chosen\""
+                "\"\u2026but few are chosen\""
             ]
         },
         {
@@ -7925,7 +7925,7 @@
         },
         {
             "id": "task308-1b6d2685c7c04542b796fd998af79bc9",
-            "input": "Category: HUSBAND & WIFE SINGERS \nClue: During the '70s, he & Rita Coolidge released 3 duet albums including “Full Moon”",
+            "input": "Category: HUSBAND & WIFE SINGERS \nClue: During the '70s, he & Rita Coolidge released 3 duet albums including \u201cFull Moon\u201d",
             "output": [
                 "kris kristofferson"
             ]
@@ -8935,7 +8935,7 @@
             "id": "task308-245e8a8432bd4f33be1f9543b0d9f64c",
             "input": "Category: THE '70s \nClue: In 1079 this Persian astronomer & poet calculated the year to be 365.2421 days, an extremely accurate figure",
             "output": [
-                "omar khayyám"
+                "omar khayy\u00e1m"
             ]
         },
         {
@@ -10606,7 +10606,7 @@
         },
         {
             "id": "task308-4377ebcff3f84266a6057cb12de125a6",
-            "input": "Category: ORGANIZATIONS \nClue: The USA’s oldest nationwide voluntary health agency, it was founded in 1904 to combat tuberculosis",
+            "input": "Category: ORGANIZATIONS \nClue: The USA\u2019s oldest nationwide voluntary health agency, it was founded in 1904 to combat tuberculosis",
             "output": [
                 "american lung association"
             ]
@@ -10676,7 +10676,7 @@
         },
         {
             "id": "task308-5d3b54d519df49579ae3babddba8dc8a",
-            "input": "Category: PRETTY PICTURES \nClue: In the painting seen here, Édouard Manet showed himself and others in this city's Tuileries Gardens",
+            "input": "Category: PRETTY PICTURES \nClue: In the painting seen here, \u00c9douard Manet showed himself and others in this city's Tuileries Gardens",
             "output": [
                 "paris"
             ]
@@ -10839,7 +10839,7 @@
             "id": "task308-7c0297dde3214c6e83b311f5e689839c",
             "input": "Category: ENDS IN \"EE\" \nClue: The 2 swords used in women's fencing are the foil & this",
             "output": [
-                "the epée"
+                "the ep\u00e9e"
             ]
         },
         {
@@ -11511,7 +11511,7 @@
             "id": "task308-d33111883de84dd3ae9224a58df17ea9",
             "input": "Category: FOOD \nClue: The name of this dessert that's similar to custard means \"burnt cream\"",
             "output": [
-                "crème brûlée"
+                "cr\u00e8me br\u00fbl\u00e9e"
             ]
         },
         {
@@ -11945,7 +11945,7 @@
             "id": "task308-0ad600ae0374415b8bac2d47d39b7f79",
             "input": "Category: BODIES OF WATER \nClue: The name of this waterfall on the Brazil-Argentina border is derived from a Guarani word meaning \"great water\"",
             "output": [
-                "iguassú"
+                "iguass\u00fa"
             ]
         },
         {
@@ -12176,7 +12176,7 @@
             "id": "task308-d207c4f6bb92487985af009bf6025f82",
             "input": "Category: ISLANDS \nClue: Let's drink a toast to this Caribbean island; it's the largest in the Netherlands Antilles",
             "output": [
-                "curaçao"
+                "cura\u00e7ao"
             ]
         },
         {
@@ -12736,7 +12736,7 @@
             "id": "task308-356e9770fd4844288daba9afe4a6d418",
             "input": "Category: \"BLUE\" \nClue: This hard rock group had a 1976 hit with \"(Don't Fear) The Reaper\"",
             "output": [
-                "blue öyster cult"
+                "blue \u00f6yster cult"
             ]
         },
         {
@@ -13049,7 +13049,7 @@
         },
         {
             "id": "task308-de83c66d8f674c5b99431ee2db6abbdc",
-            "input": "Category: STARTS WITH “B” \nClue: The 2 South American countries whose names begin with “B”",
+            "input": "Category: STARTS WITH \u201cB\u201d \nClue: The 2 South American countries whose names begin with \u201cB\u201d",
             "output": [
                 "brazil & bolivia"
             ]
@@ -13378,7 +13378,7 @@
         },
         {
             "id": "task308-de387a3e623a49d58dce8e9806497176",
-            "input": "Category: 1980s MUSIC \nClue: Surprise! They're the Euro trio who recorded “Take On Me”",
+            "input": "Category: 1980s MUSIC \nClue: Surprise! They're the Euro trio who recorded \u201cTake On Me\u201d",
             "output": [
                 "a-ha"
             ]
@@ -13553,7 +13553,7 @@
         },
         {
             "id": "task308-009be43642b448c9abb9a8b25a330e51",
-            "input": "Category: POET-TREE \nClue: \"O my palm-tree…rustle thy boughs and set thy trunk all bare\", she wrote in \"Sonnets from the Portuguese\"",
+            "input": "Category: POET-TREE \nClue: \"O my palm-tree\u2026rustle thy boughs and set thy trunk all bare\", she wrote in \"Sonnets from the Portuguese\"",
             "output": [
                 "elizabeth barrett browning"
             ]
@@ -13821,7 +13821,7 @@
             "id": "task308-2d92d090cf524d6991f3f98cacd3b501",
             "input": "Category: NOTABLE NAMES \nClue: He married Evita in 1945 & Isabel in 1961",
             "output": [
-                "juan perón"
+                "juan per\u00f3n"
             ]
         },
         {
@@ -15891,7 +15891,7 @@
         },
         {
             "id": "task308-fadaecd82b0b432e99af0fe12697c352",
-            "input": "Category: WHEN THEY WERE IN COLLEGE \nClue: This handsome hunk played basketball at USC long before “Magnum, P.I.” made him a star",
+            "input": "Category: WHEN THEY WERE IN COLLEGE \nClue: This handsome hunk played basketball at USC long before \u201cMagnum, P.I.\u201d made him a star",
             "output": [
                 "tom selleck"
             ]
@@ -16220,7 +16220,7 @@
         },
         {
             "id": "task308-0e69028742ad4bb180bb07af97d07a97",
-            "input": "Category: 1993 MOVIES \nClue: This sequel was subtitled “Back in the Habit”",
+            "input": "Category: 1993 MOVIES \nClue: This sequel was subtitled \u201cBack in the Habit\u201d",
             "output": [
                 "sister act 2"
             ]
@@ -16661,7 +16661,7 @@
         },
         {
             "id": "task308-0bc284cd29e9434d85f3c395111c9789",
-            "input": "Category: FRANÇAIS TO ANGLAIS \nClue: This 7-letter car part is un silencieux",
+            "input": "Category: FRAN\u00c7AIS TO ANGLAIS \nClue: This 7-letter car part is un silencieux",
             "output": [
                 "a muffler"
             ]
@@ -16703,7 +16703,7 @@
         },
         {
             "id": "task308-207977db9c11474eb2f670076c68f36a",
-            "input": "Category: HOT SPOTS \nClue: 43 consecutive days of 120º heat were recorded in this appropriately named Calif. valley",
+            "input": "Category: HOT SPOTS \nClue: 43 consecutive days of 120\u00ba heat were recorded in this appropriately named Calif. valley",
             "output": [
                 "death valley"
             ]
@@ -17272,7 +17272,7 @@
             "id": "task308-951086517c3c42eea32910e4323442fd",
             "input": "Category: TAKEN LITERALLY \nClue: French: black beast; English: nemesis",
             "output": [
-                "a bête noir"
+                "a b\u00eate noir"
             ]
         },
         {
@@ -17956,7 +17956,7 @@
         },
         {
             "id": "task308-bc4bae7e587d4ac99283cb9b0c066c06",
-            "input": "Category: IF I HAD A HAMMER... \nClue: This legendary railroad worker boasted “gonna die with the hammer in my hand”",
+            "input": "Category: IF I HAD A HAMMER... \nClue: This legendary railroad worker boasted \u201cgonna die with the hammer in my hand\u201d",
             "output": [
                 "john henry"
             ]
@@ -20826,7 +20826,7 @@
         },
         {
             "id": "task308-d2b0ac15acd4499982e03952b157b779",
-            "input": "Category: ART \nClue: This American Impressionist formed a close friendship with Degas & posed for his “At the Milliner’s”",
+            "input": "Category: ART \nClue: This American Impressionist formed a close friendship with Degas & posed for his \u201cAt the Milliner\u2019s\u201d",
             "output": [
                 "mary cassatt"
             ]
@@ -23145,7 +23145,7 @@
             "id": "task308-db6235172f6941ce913cee8b969fa1dd",
             "input": "Category: BRITISH AUTHORS \nClue: In 1996 this author of \"Tinker, Tailor, Soldier, Spy\" spun a new story, \"The Tailor of Panama\"",
             "output": [
-                "john le carré"
+                "john le carr\u00e9"
             ]
         },
         {
@@ -24545,7 +24545,7 @@
             "id": "task308-e91beb66b0ef4539aa8e0ddb49376db6",
             "input": "Category: OH, NO! IT'S OPERA! \nClue: This Greek tragic heroine is the subject of 2 Gluck operas, one set in Aulis & one in Tauris",
             "output": [
-                "iphigénie"
+                "iphig\u00e9nie"
             ]
         },
         {
@@ -24760,7 +24760,7 @@
         },
         {
             "id": "task308-a4335f1099a247e588fa360c5ce45dcf",
-            "input": "Category: THE BRITISH INVASION \nClue: Called the most successful female singer in British history she had her first U.S. No. 1 hit in 1964 with “Downtown”",
+            "input": "Category: THE BRITISH INVASION \nClue: Called the most successful female singer in British history she had her first U.S. No. 1 hit in 1964 with \u201cDowntown\u201d",
             "output": [
                 "petula clark"
             ]
@@ -24984,7 +24984,7 @@
         },
         {
             "id": "task308-c3d1c0d0765841f8b74dbed6cc042409",
-            "input": "Category: TALKING ITALIAN \nClue: A journalist would uncover that \"chi\" , \"che\", \"quando\", \"dove\" & \"perché\" translate to these 5 terms",
+            "input": "Category: TALKING ITALIAN \nClue: A journalist would uncover that \"chi\" , \"che\", \"quando\", \"dove\" & \"perch\u00e9\" translate to these 5 terms",
             "output": [
                 "who, what, where, why & when"
             ]
@@ -25432,7 +25432,7 @@
         },
         {
             "id": "task308-dfb4648863774fce9c39c9146f7bee6b",
-            "input": "Category: LITERARY TRIVIA \nClue: It's said he turned down Pulitzer for “Arrowsmith” because he felt he was due one sooner",
+            "input": "Category: LITERARY TRIVIA \nClue: It's said he turned down Pulitzer for \u201cArrowsmith\u201d because he felt he was due one sooner",
             "output": [
                 "sinclair lewis"
             ]
@@ -26118,7 +26118,7 @@
         },
         {
             "id": "task308-0b1bd29c0c3d4c0f999cecdf299828ca",
-            "input": "Category: MATHEMATICS \nClue: Term for the side of a right triangle that is opposite the 90° angle",
+            "input": "Category: MATHEMATICS \nClue: Term for the side of a right triangle that is opposite the 90\u00b0 angle",
             "output": [
                 "hypoteneuse"
             ]
@@ -26370,7 +26370,7 @@
         },
         {
             "id": "task308-038b948cc24942888d37a124528ad6ac",
-            "input": "Category: GETTING MARRIED \nClue: The extended cathedral length of one of these is over 9 feet long & doesn’t include a dining car",
+            "input": "Category: GETTING MARRIED \nClue: The extended cathedral length of one of these is over 9 feet long & doesn\u2019t include a dining car",
             "output": [
                 "train"
             ]
@@ -26433,7 +26433,7 @@
         },
         {
             "id": "task308-2ce658cd5e954c01b68f98609a786490",
-            "input": "Category: STARTS WITH “B” \nClue: From Greek for “great hunger” beating this behavior syndrome is among Jane Fonda's causes",
+            "input": "Category: STARTS WITH \u201cB\u201d \nClue: From Greek for \u201cgreat hunger\u201d beating this behavior syndrome is among Jane Fonda's causes",
             "output": [
                 "bulimia"
             ]
@@ -26498,7 +26498,7 @@
             "id": "task308-67c39f7cd0084d969510f8a3ba949488",
             "input": "Category: \"T\" ZONES \nClue: It was Montezuma's capital",
             "output": [
-                "tenochtitlán"
+                "tenochtitl\u00e1n"
             ]
         },
         {
@@ -28192,7 +28192,7 @@
             "id": "task308-fd93d44f622149a28e3c98722049eaa7",
             "input": "Category: FOREIGN CURRENCY \nClue: The currency of Ecuador & Bolivia's official capital were both named for this man",
             "output": [
-                "antonio josé de sucre"
+                "antonio jos\u00e9 de sucre"
             ]
         },
         {
@@ -28771,7 +28771,7 @@
         },
         {
             "id": "task308-0b9c9ed9ff4641a283c52738af53790b",
-            "input": "Category: POLITICAL QUOTES \nClue: “J'Accuse” was the title of the open letter Emile Zola sent the French president about this man",
+            "input": "Category: POLITICAL QUOTES \nClue: \u201cJ'Accuse\u201d was the title of the open letter Emile Zola sent the French president about this man",
             "output": [
                 "dreyfuss"
             ]
@@ -30236,7 +30236,7 @@
             "id": "task308-3791a1581a834653a2b530d70197c39b",
             "input": "Category: WAR FICTION \nClue: Jack DuArte's \"The Resistance\" tells of French efforts to keep Louvre artwork from this No. 2 Nazi & Luftwaffe chief",
             "output": [
-                "göring"
+                "g\u00f6ring"
             ]
         },
         {
@@ -30500,7 +30500,7 @@
         },
         {
             "id": "task308-ab0518a6f6ab4a158f6eb576affcbbbe",
-            "input": "Category: WORLD WAR II \nClue: This portable rocket launcher was named for an instrument played by comedian B. Burns in the ’40s",
+            "input": "Category: WORLD WAR II \nClue: This portable rocket launcher was named for an instrument played by comedian B. Burns in the \u201940s",
             "output": [
                 "the bazooka"
             ]
@@ -30915,7 +30915,7 @@
             "id": "task308-19b678c520ce4f9395c8e178287b6e20",
             "input": "Category: DRAMA \nClue: Actor-playwright whose unhappy marriage to an actress may have led him to write \"The Misanthrope\"",
             "output": [
-                "molière"
+                "moli\u00e8re"
             ]
         },
         {
@@ -31039,7 +31039,7 @@
         },
         {
             "id": "task308-41898a65a136407eaca7cbd07a83e384",
-            "input": "Category: HALLMARK HALL OF FAME \nClue: For his role in 1971’s “The Price”, he won (& accepted!) an Emmy",
+            "input": "Category: HALLMARK HALL OF FAME \nClue: For his role in 1971\u2019s \u201cThe Price\u201d, he won (& accepted!) an Emmy",
             "output": [
                 "george c. scott"
             ]
@@ -32462,7 +32462,7 @@
             "id": "task308-afcae84cf8d0442f912be8d04c73c528",
             "input": "Category: FOOD \nClue: The coarser \"maison\" type of this dish is basically a fancy meatloaf",
             "output": [
-                "pâté"
+                "p\u00e2t\u00e9"
             ]
         },
         {
@@ -33939,7 +33939,7 @@
             "id": "task308-7595ade5db9b4be297ce5752a03f4e58",
             "input": "Category: FABRICS & TEXTILES \nClue: The name of this fabric with metallic threads comes from lamina, Latin for \"thin piece of metal\"",
             "output": [
-                "lamé"
+                "lam\u00e9"
             ]
         },
         {
@@ -34700,9 +34700,9 @@
         },
         {
             "id": "task308-026528c11b3d40cc99cff301f75816a0",
-            "input": "Category: LEAPING \nClue: Completes the famous 1969 lunar-based quote “One small step for a man…”",
+            "input": "Category: LEAPING \nClue: Completes the famous 1969 lunar-based quote \u201cOne small step for a man\u2026\u201d",
             "output": [
-                "“one giant leap for mankind”"
+                "\u201cone giant leap for mankind\u201d"
             ]
         },
         {
@@ -34898,7 +34898,7 @@
             "id": "task308-d68d3018323948d89e616a9e391ced15",
             "input": "Category: BON APPETIT \nClue: From the French for \"jump\", it means to cook food quickly & lightly in a little butter or oil",
             "output": [
-                "sauté"
+                "saut\u00e9"
             ]
         },
         {
@@ -35330,7 +35330,7 @@
         },
         {
             "id": "task308-4803db4e627c497eaf741ba3c1006d14",
-            "input": "Category: SPANISH PHRASE BOOK \nClue: Shortly after \"¿Donde esta el baño?\", you might have to ask, \"¿Tienes mas papel higienico?\" do you have more of this?",
+            "input": "Category: SPANISH PHRASE BOOK \nClue: Shortly after \"\u00bfDonde esta el ba\u00f1o?\", you might have to ask, \"\u00bfTienes mas papel higienico?\" do you have more of this?",
             "output": [
                 "toilet paper"
             ]
@@ -35694,7 +35694,7 @@
         },
         {
             "id": "task308-f330be92761d48be90b7533651803ba7",
-            "input": "Category: PROVERBIOS EN ESPAÑOL \nClue: \"El amor es ciego\"",
+            "input": "Category: PROVERBIOS EN ESPA\u00d1OL \nClue: \"El amor es ciego\"",
             "output": [
                 "love is blind"
             ]
@@ -36109,7 +36109,7 @@
             "id": "task308-1054858356b947eeb84e707787f34ece",
             "input": "Category: OPERETTAS \nClue: This British playwright of \"Private Lives\" wrote the twice-filmed operetta \"Bitter Sweet\"",
             "output": [
-                "noël coward"
+                "no\u00ebl coward"
             ]
         },
         {
@@ -36163,7 +36163,7 @@
         },
         {
             "id": "task308-feb0fe781de94c68b9bf357cc49a47e3",
-            "input": "Category: HATS \nClue: In the 19th century this man's hat was known as the “hat that crowned the west”",
+            "input": "Category: HATS \nClue: In the 19th century this man's hat was known as the \u201chat that crowned the west\u201d",
             "output": [
                 "stetson"
             ]
@@ -36975,7 +36975,7 @@
         },
         {
             "id": "task308-2c2f14d4767042c0a487c720ddce0a07",
-            "input": "Category: LEAPING \nClue: A disastrous economic program called the “Great Leap Forward” was begun in this country in 1958",
+            "input": "Category: LEAPING \nClue: A disastrous economic program called the \u201cGreat Leap Forward\u201d was begun in this country in 1958",
             "output": [
                 "china"
             ]
@@ -37299,7 +37299,7 @@
             "id": "task308-eac22f41bf104fb799fe66723140bd65",
             "input": "Category: STREET JOURNAL \nClue: Since 1975 the Tour de France has ended with an 8-lap circuit of this broad avenue",
             "output": [
-                "the champs-elysées"
+                "the champs-elys\u00e9es"
             ]
         },
         {
@@ -37675,7 +37675,7 @@
         },
         {
             "id": "task308-8e45332ac63443d3a93fd4e97cd9133d",
-            "input": "Category: MODERN–DAY QUOTES \nClue: In a recent interview with Martin Bashir he claimed, \"I've had no plastic surgery on my face, just my nose\"",
+            "input": "Category: MODERN\u2013DAY QUOTES \nClue: In a recent interview with Martin Bashir he claimed, \"I've had no plastic surgery on my face, just my nose\"",
             "output": [
                 "michael jackson"
             ]
@@ -38536,7 +38536,7 @@
         },
         {
             "id": "task308-70d473b9506e43e3a744d6b348f4246e",
-            "input": "Category: '90S OSCAR WINNERS \nClue: He won his first Oscar for directing “Unforgiven”",
+            "input": "Category: '90S OSCAR WINNERS \nClue: He won his first Oscar for directing \u201cUnforgiven\u201d",
             "output": [
                 "clint eastwood"
             ]
@@ -41394,7 +41394,7 @@
             "id": "task308-9178e2e0f85648a6ba59f791f1721878",
             "input": "Category: SUPERMARKET SWEEP \nClue: The heck with the diet!  I'm buyin' Vaanillaa Swiss Aalmond ice cream from this braand founded by Reuben Mattus",
             "output": [
-                "häagen-dazs"
+                "h\u00e4agen-dazs"
             ]
         },
         {
@@ -41602,7 +41602,7 @@
         },
         {
             "id": "task308-a5325324a89f4f82a078ad75705d9570",
-            "input": "Category: STARTS WITH “B” \nClue: On the River Dee in Scotland, it's private residence of the British sovereign",
+            "input": "Category: STARTS WITH \u201cB\u201d \nClue: On the River Dee in Scotland, it's private residence of the British sovereign",
             "output": [
                 "balmoral castle"
             ]
@@ -42885,7 +42885,7 @@
             "id": "task308-5606774d9f224c9f95b79c84eaed1649",
             "input": "Category: YOU GOTTA HAVE ART \nClue: This 20th century artist called some of his paintings \"hand-painted dream photographs\"",
             "output": [
-                "dalí"
+                "dal\u00ed"
             ]
         },
         {
@@ -44255,7 +44255,7 @@
         },
         {
             "id": "task308-7f0bd529385b499f95cf0b121d887c54",
-            "input": "Category: WORD ORIGINS \nClue: Mark Twain should have known the name of this fruit may be an alternation of “hurtleberry”",
+            "input": "Category: WORD ORIGINS \nClue: Mark Twain should have known the name of this fruit may be an alternation of \u201churtleberry\u201d",
             "output": [
                 "huckleberry"
             ]

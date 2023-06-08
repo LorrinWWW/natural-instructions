@@ -509,7 +509,7 @@
         },
         {
             "id": "task1518-940e4927316845fa90541a1d41427648",
-            "input": " The woman feels for the pi‚àö¬±ata a few times with the stick, but does not swing as kids continue to look up in amazement.",
+            "input": " The woman feels for the pi\u201a\u00e0\u00f6\u00ac\u00b1ata a few times with the stick, but does not swing as kids continue to look up in amazement.",
             "output": [
                 "woman",
                 "stick"
@@ -1014,13 +1014,6 @@
             ]
         },
         {
-            "id": "task1518-d95e1c8d0c9f4f4e8c56cfd2762cb50f",
-            "input": "A large group of people are seen standing around a gymnasium with many performing fencing matches on the side.",
-            "output": [
-                "people"
-            ]
-        },
-        {
             "id": "task1518-2a87350d5c87456cab0df3ce7fdd31e3",
             "input": "Two wrestlers are seen facing one another and lead into two more lifting up a wrestler.",
             "output": [
@@ -1137,13 +1130,6 @@
             "output": [
                 "man",
                 "dishes"
-            ]
-        },
-        {
-            "id": "task1518-c18dcc724a0f44c0885e284afb099a67",
-            "input": " The gymnast strikes his leg accidentally on the bars bringing him to a stop.",
-            "output": [
-                "leg"
             ]
         },
         {
@@ -1357,7 +1343,7 @@
         },
         {
             "id": "task1518-981e00d1dead491f8e606589299db046",
-            "input": "two kids are in a litle car watching a little kid holding a pole hitting a lightning mcqueen pi‚àö¬±ata.",
+            "input": "two kids are in a litle car watching a little kid holding a pole hitting a lightning mcqueen pi\u201a\u00e0\u00f6\u00ac\u00b1ata.",
             "output": [
                 "two kids",
                 "pole"
@@ -5872,13 +5858,6 @@
             ]
         },
         {
-            "id": "task1518-83a8eda215be447db6cf71294b6adc54",
-            "input": "A female basketball coach is seen instructing a group of girl basketball players who are standing in line on a basketball court.",
-            "output": [
-                "coach"
-            ]
-        },
-        {
             "id": "task1518-f38179ec484f4676a9b53e4bcf0c7e11",
             "input": "We see a lady in the woods chopping logs of wood.",
             "output": [
@@ -7506,13 +7485,6 @@
             "input": " The person puts their hand under the raised tire.",
             "output": [
                 "hand"
-            ]
-        },
-        {
-            "id": "task1518-436509bf684b4297a8671bcd3c6ccaec",
-            "input": " He continues to excel in doing his moves steadily on the horse bar.",
-            "output": [
-                "He"
             ]
         },
         {

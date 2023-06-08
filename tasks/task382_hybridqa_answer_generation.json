@@ -446,7 +446,7 @@
         },
         {
             "id": "task382-73f06b762c0f42a9ad9552459ad32067",
-            "input": "What is the part-of-speech tag of the word \"was\" in the following question: During what dynasty did the writer live whose given name was Cáo Zhān and whose best-selling book was published at the end of the 18th century ?",
+            "input": "What is the part-of-speech tag of the word \"was\" in the following question: During what dynasty did the writer live whose given name was C\u00e1o Zh\u0101n and whose best-selling book was published at the end of the 18th century ?",
             "output": [
                 "VBD"
             ]
@@ -754,7 +754,7 @@
         },
         {
             "id": "task382-19612f9483a94eb49415d5b3138516cf",
-            "input": "What is the part-of-speech tag of the word \"Métis\" in the following question: The candidate who has Métis descent ran for election in which riding ?",
+            "input": "What is the part-of-speech tag of the word \"M\u00e9tis\" in the following question: The candidate who has M\u00e9tis descent ran for election in which riding ?",
             "output": [
                 "NNP"
             ]
@@ -768,7 +768,7 @@
         },
         {
             "id": "task382-90cb18ea99fe47b689701158d01eafe1",
-            "input": "What is the part-of-speech tag of the word \"country\" in the following question: Which empire conquered the home country of Anastasía Karakatsáni 2200 years ago ?",
+            "input": "What is the part-of-speech tag of the word \"country\" in the following question: Which empire conquered the home country of Anastas\u00eda Karakats\u00e1ni 2200 years ago ?",
             "output": [
                 "NN"
             ]
@@ -1755,7 +1755,7 @@
         },
         {
             "id": "task382-158d9c4fbbee4a4a9f32054f3959c2a0",
-            "input": "What is the part-of-speech tag of the word \"Location\" in the following question: Th residence that came under ownership of the Hungarian Esterházy family in 1622 is in what Location ?",
+            "input": "What is the part-of-speech tag of the word \"Location\" in the following question: Th residence that came under ownership of the Hungarian Esterh\u00e1zy family in 1622 is in what Location ?",
             "output": [
                 "NNP"
             ]
@@ -2182,7 +2182,7 @@
         },
         {
             "id": "task382-6c33c55089c34375941a137416e8851a",
-            "input": "What is the part-of-speech tag of the word \"player\" in the following question: How many seasons did the player with a fee of £4.7 million play ?",
+            "input": "What is the part-of-speech tag of the word \"player\" in the following question: How many seasons did the player with a fee of \u00a34.7 million play ?",
             "output": [
                 "NN"
             ]
@@ -2231,7 +2231,7 @@
         },
         {
             "id": "task382-98ba9c1e65ee4ee5bc14a29080a59431",
-            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What is the population density for the town of Sakai , the location of Nitta Yoshisada , Public Grave in km² ?",
+            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What is the population density for the town of Sakai , the location of Nitta Yoshisada , Public Grave in km\u00b2 ?",
             "output": [
                 "WP"
             ]
@@ -2371,7 +2371,7 @@
         },
         {
             "id": "task382-d2d335a1ef604610ada9a7c5581358f8",
-            "input": "What is the part-of-speech tag of the word \"album\" in the following question: Which album was by the artist known for playing Zoë Rivas in the teen drama Degrassi : Next Class ?",
+            "input": "What is the part-of-speech tag of the word \"album\" in the following question: Which album was by the artist known for playing Zo\u00eb Rivas in the teen drama Degrassi : Next Class ?",
             "output": [
                 "NN"
             ]
@@ -2567,7 +2567,7 @@
         },
         {
             "id": "task382-147c508d100540a2a9c755f6d0f1f4ff",
-            "input": "What is the part-of-speech tag of the word \"136,221\" in the following question: What is the name of the significant archeological site that lies approximately 30km from the city that had a 2007 population of 136,221 and is the capital of the province named in honour of José Faustino Sánchez Carrión ?",
+            "input": "What is the part-of-speech tag of the word \"136,221\" in the following question: What is the name of the significant archeological site that lies approximately 30km from the city that had a 2007 population of 136,221 and is the capital of the province named in honour of Jos\u00e9 Faustino S\u00e1nchez Carri\u00f3n ?",
             "output": [
                 "CD"
             ]
@@ -2987,14 +2987,14 @@
         },
         {
             "id": "task382-af54d0f7aeb54c2188fecf88945b38d8",
-            "input": "What is the part-of-speech tag of the word \"by\" in the following question: When was the boat commanded by the oldest korvettenkapitän launched ?",
+            "input": "What is the part-of-speech tag of the word \"by\" in the following question: When was the boat commanded by the oldest korvettenkapit\u00e4n launched ?",
             "output": [
                 "IN"
             ]
         },
         {
             "id": "task382-516a4b71d0ad4896b803e99bdc4ada1e",
-            "input": "What is the part-of-speech tag of the word \"location\" in the following question: What is the location of the island whose highest point is Kunilamägi ?",
+            "input": "What is the part-of-speech tag of the word \"location\" in the following question: What is the location of the island whose highest point is Kunilam\u00e4gi ?",
             "output": [
                 "NN"
             ]
@@ -3218,7 +3218,7 @@
         },
         {
             "id": "task382-57b986b12413411c82b98ff4eef5b5b1",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the birth date of this Yugoslavian Jewish child actress who died at this complex with the main part in Oświęcim ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the birth date of this Yugoslavian Jewish child actress who died at this complex with the main part in O\u015bwi\u0119cim ?",
             "output": [
                 "VBZ"
             ]
@@ -3365,7 +3365,7 @@
         },
         {
             "id": "task382-e6b2a5bb5a55435fb5f9140cff01c84a",
-            "input": "What is the part-of-speech tag of the word \"team\" in the following question: What is the capacity of the stadium of the Liga MX team nicknamed Las Águilas ( The Eagles ) ?",
+            "input": "What is the part-of-speech tag of the word \"team\" in the following question: What is the capacity of the stadium of the Liga MX team nicknamed Las \u00c1guilas ( The Eagles ) ?",
             "output": [
                 "NN"
             ]
@@ -3435,7 +3435,7 @@
         },
         {
             "id": "task382-71c84c905d9d4c88ac92c9877258e997",
-            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the name of the athlete who won gold at an event held in Estádio Olímpico João Havelange ?",
+            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the name of the athlete who won gold at an event held in Est\u00e1dio Ol\u00edmpico Jo\u00e3o Havelange ?",
             "output": [
                 "IN"
             ]
@@ -3547,7 +3547,7 @@
         },
         {
             "id": "task382-15bc65dbb9104328965a4da1190be569",
-            "input": "What is the part-of-speech tag of the word \"a\" in the following question: The club that formed in 1948 as a merger of the clubs Kölner Ballspiel-Club 1901 and SpVgg Sülz 07 has how many championships ?",
+            "input": "What is the part-of-speech tag of the word \"a\" in the following question: The club that formed in 1948 as a merger of the clubs K\u00f6lner Ballspiel-Club 1901 and SpVgg S\u00fclz 07 has how many championships ?",
             "output": [
                 "DT"
             ]
@@ -3568,7 +3568,7 @@
         },
         {
             "id": "task382-1eded53aef3d44448bf81583cf97220c",
-            "input": "What is the part-of-speech tag of the word \"member\" in the following question: Which drama has a cast member whose name at birth was José María Sacristán Turiégano ?",
+            "input": "What is the part-of-speech tag of the word \"member\" in the following question: Which drama has a cast member whose name at birth was Jos\u00e9 Mar\u00eda Sacrist\u00e1n Turi\u00e9gano ?",
             "output": [
                 "NN"
             ]
@@ -3687,7 +3687,7 @@
         },
         {
             "id": "task382-fc769e9426684aac9de414485f21bcfa",
-            "input": "What is the part-of-speech tag of the word \"founded\" in the following question: The temple founded by Prince Shōtoku is dated to when ?",
+            "input": "What is the part-of-speech tag of the word \"founded\" in the following question: The temple founded by Prince Sh\u014dtoku is dated to when ?",
             "output": [
                 "VBN"
             ]
@@ -3701,7 +3701,7 @@
         },
         {
             "id": "task382-5636efa50bf842009cd656dcca12450f",
-            "input": "What is the part-of-speech tag of the word \"×\" in the following question: Which city is the church that is 24 m × 42 m in plan located in ?",
+            "input": "What is the part-of-speech tag of the word \"\u00d7\" in the following question: Which city is the church that is 24 m \u00d7 42 m in plan located in ?",
             "output": [
                 "VBD"
             ]
@@ -3827,7 +3827,7 @@
         },
         {
             "id": "task382-40d84479b5164df4a5f18c05f2e352ea",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the record of the statistic that is usually denoted by a ꓘ ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the record of the statistic that is usually denoted by a \ua4d8 ?",
             "output": [
                 "VBZ"
             ]
@@ -4107,7 +4107,7 @@
         },
         {
             "id": "task382-d12a329a5eec4698a68181a2804b20c2",
-            "input": "What is the part-of-speech tag of the word \"year\" in the following question: Who is the player of the club that became the first sports team with average first-team pay in excess of £10m ( $ 13.8m ) per year ?",
+            "input": "What is the part-of-speech tag of the word \"year\" in the following question: Who is the player of the club that became the first sports team with average first-team pay in excess of \u00a310m ( $ 13.8m ) per year ?",
             "output": [
                 "NN"
             ]
@@ -4163,7 +4163,7 @@
         },
         {
             "id": "task382-19523e15e6ee4cc19e5534b5ca03bc3c",
-            "input": "What is the part-of-speech tag of the word \"1071\" in the following question: What empire was defeated in 1071 by the home country of Türkan Özata-Erişmiş ?",
+            "input": "What is the part-of-speech tag of the word \"1071\" in the following question: What empire was defeated in 1071 by the home country of T\u00fcrkan \u00d6zata-Eri\u015fmi\u015f ?",
             "output": [
                 "CD"
             ]
@@ -4975,7 +4975,7 @@
         },
         {
             "id": "task382-fa6685a648904f178cd1a8a1a7119f2f",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: The kit maker for 2009 Tippeligaen 's Bodø/Glimt has is present in what South American country ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: The kit maker for 2009 Tippeligaen 's Bod\u00f8/Glimt has is present in what South American country ?",
             "output": [
                 "VBZ"
             ]
@@ -5199,7 +5199,7 @@
         },
         {
             "id": "task382-674dbf5a43264f79909cf22f858737bb",
-            "input": "What is the part-of-speech tag of the word \"costs\" in the following question: What are the costs and usage limits of the firewall that Nicolas Stark and Ann-Christine Åkerlund established in Germany in 1999 ?",
+            "input": "What is the part-of-speech tag of the word \"costs\" in the following question: What are the costs and usage limits of the firewall that Nicolas Stark and Ann-Christine \u00c5kerlund established in Germany in 1999 ?",
             "output": [
                 "NNS"
             ]
@@ -5346,7 +5346,7 @@
         },
         {
             "id": "task382-46285374df4b4fbda70caa2a9ab8861d",
-            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which two towns in Yamato District merged where the residence of the tanka poet active during the Taishō and Shōwa periods is located ?",
+            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which two towns in Yamato District merged where the residence of the tanka poet active during the Taish\u014d and Sh\u014dwa periods is located ?",
             "output": [
                 "WDT"
             ]
@@ -5395,7 +5395,7 @@
         },
         {
             "id": "task382-34d26fb91af54f7697171b31567019af",
-            "input": "What is the part-of-speech tag of the word \"The\" in the following question: The base that shares facilities with Florianópolis-Hercílio Luz International Airport is located in which state ?",
+            "input": "What is the part-of-speech tag of the word \"The\" in the following question: The base that shares facilities with Florian\u00f3polis-Herc\u00edlio Luz International Airport is located in which state ?",
             "output": [
                 "DT"
             ]
@@ -5780,7 +5780,7 @@
         },
         {
             "id": "task382-ed4b9521a17549d0b804294781bf025b",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the total length in Poland of the river that is navigable from Kostrzyn nad Odrą to Konin ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the total length in Poland of the river that is navigable from Kostrzyn nad Odr\u0105 to Konin ?",
             "output": [
                 "DT"
             ]
@@ -5836,7 +5836,7 @@
         },
         {
             "id": "task382-fa7c355c43554f1caa62ada558122ee0",
-            "input": "What is the part-of-speech tag of the word \"had\" in the following question: Which title had the earlier release date ? Was it a game that was developed by Technōs Japan and then ended up being one of the first big successes of its genre , or an arcade style game developed by Taito America Corporation ?",
+            "input": "What is the part-of-speech tag of the word \"had\" in the following question: Which title had the earlier release date ? Was it a game that was developed by Techn\u014ds Japan and then ended up being one of the first big successes of its genre , or an arcade style game developed by Taito America Corporation ?",
             "output": [
                 "VBD"
             ]
@@ -5969,7 +5969,7 @@
         },
         {
             "id": "task382-7e05e40a78d44205b469b1041551e416",
-            "input": "What is the part-of-speech tag of the word \"what\" in the following question: what is the type of boat that laid down at the Flender Werke in Lübeck as yard number 292 ?",
+            "input": "What is the part-of-speech tag of the word \"what\" in the following question: what is the type of boat that laid down at the Flender Werke in L\u00fcbeck as yard number 292 ?",
             "output": [
                 "WP"
             ]
@@ -6144,7 +6144,7 @@
         },
         {
             "id": "task382-b73c5abe86004144aab5bff2cfb174a9",
-            "input": "What is the part-of-speech tag of the word \"Angélica\" in the following question: What is Daniel 's role in the title in which Angélica Aragón and Enrique Lizalde starred as adult protagonists ?",
+            "input": "What is the part-of-speech tag of the word \"Ang\u00e9lica\" in the following question: What is Daniel 's role in the title in which Ang\u00e9lica Arag\u00f3n and Enrique Lizalde starred as adult protagonists ?",
             "output": [
                 "NNP"
             ]
@@ -6221,7 +6221,7 @@
         },
         {
             "id": "task382-f1127619d82448afbfadea8ae1caa66b",
-            "input": "What is the part-of-speech tag of the word \"body\" in the following question: What is the Refsr · M of the body that is probably composed of carbonaceous material ?",
+            "input": "What is the part-of-speech tag of the word \"body\" in the following question: What is the Refsr \u00b7 M of the body that is probably composed of carbonaceous material ?",
             "output": [
                 "NN"
             ]
@@ -6424,7 +6424,7 @@
         },
         {
             "id": "task382-1d2709e968464d3d8d82f6cc90d52cc0",
-            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the operator for the ship that was built in 1968 by Wärtsilä Turku Shipyard in Turku , Finland ?",
+            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the operator for the ship that was built in 1968 by W\u00e4rtsil\u00e4 Turku Shipyard in Turku , Finland ?",
             "output": [
                 "IN"
             ]
@@ -6886,7 +6886,7 @@
         },
         {
             "id": "task382-186e82f40c8d4c519cf35fbccfe90dbc",
-            "input": "What is the part-of-speech tag of the word \"odori\" in the following question: What is the average width in miles of the island where a site is of the person credited with the creation of the Ryūkyūan dance-drama form known as kumi odori ?",
+            "input": "What is the part-of-speech tag of the word \"odori\" in the following question: What is the average width in miles of the island where a site is of the person credited with the creation of the Ry\u016bky\u016ban dance-drama form known as kumi odori ?",
             "output": [
                 "NN"
             ]
@@ -7208,7 +7208,7 @@
         },
         {
             "id": "task382-0d4c1d574ab8412582f22fe3aa374d8b",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the crystal system of the material that exists in the high-temperature α phase and low-temperature β phase ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the crystal system of the material that exists in the high-temperature \u03b1 phase and low-temperature \u03b2 phase ?",
             "output": [
                 "VBZ"
             ]
@@ -7285,7 +7285,7 @@
         },
         {
             "id": "task382-1d7196cc442a407dadaf3d1507316387",
-            "input": "What is the part-of-speech tag of the word \"held\" in the following question: Where were the Olympics held when the flag bearer for Slovakia was Zdeno Chára ?",
+            "input": "What is the part-of-speech tag of the word \"held\" in the following question: Where were the Olympics held when the flag bearer for Slovakia was Zdeno Ch\u00e1ra ?",
             "output": [
                 "VBD"
             ]
@@ -7579,7 +7579,7 @@
         },
         {
             "id": "task382-12e79d6e10014220bf239c63d8edf84e",
-            "input": "What is the part-of-speech tag of the word \"birth-date\" in the following question: between Monica Iagăr and Kirill Ikonnikov what is the birth-date of the one born first ?",
+            "input": "What is the part-of-speech tag of the word \"birth-date\" in the following question: between Monica Iag\u0103r and Kirill Ikonnikov what is the birth-date of the one born first ?",
             "output": [
                 "NN"
             ]
@@ -7670,7 +7670,7 @@
         },
         {
             "id": "task382-c20e7e6a82d1419aa0133ff9f2380f53",
-            "input": "What is the part-of-speech tag of the word \"complex\" in the following question: What are the number of winners from the country whose runner-up 's home terrain is the pool which is part of the Sportski centar Voždovac on Banjica complex ?",
+            "input": "What is the part-of-speech tag of the word \"complex\" in the following question: What are the number of winners from the country whose runner-up 's home terrain is the pool which is part of the Sportski centar Vo\u017edovac on Banjica complex ?",
             "output": [
                 "NN"
             ]
@@ -7754,7 +7754,7 @@
         },
         {
             "id": "task382-f95dfeb811754152b23d18cecf0e0897",
-            "input": "What is the part-of-speech tag of the word \"at\" in the following question: How many sports held events at the venue located at the northern shore line of the island Djurgården ?",
+            "input": "What is the part-of-speech tag of the word \"at\" in the following question: How many sports held events at the venue located at the northern shore line of the island Djurg\u00e5rden ?",
             "output": [
                 "IN"
             ]
@@ -7859,7 +7859,7 @@
         },
         {
             "id": "task382-644a71548ffa49dd98e701315f144954",
-            "input": "What is the part-of-speech tag of the word \"great\" in the following question: What year did a great fire strike the city of origin of the Botín banking family ?",
+            "input": "What is the part-of-speech tag of the word \"great\" in the following question: What year did a great fire strike the city of origin of the Bot\u00edn banking family ?",
             "output": [
                 "JJ"
             ]
@@ -8097,7 +8097,7 @@
         },
         {
             "id": "task382-9d88ccbba87a4947b21a732a8b87265d",
-            "input": "What is the part-of-speech tag of the word \"flag\" in the following question: Which city hosted the Olympics when the flag bearer for Cuba was Héctor Ramírez ?",
+            "input": "What is the part-of-speech tag of the word \"flag\" in the following question: Which city hosted the Olympics when the flag bearer for Cuba was H\u00e9ctor Ram\u00edrez ?",
             "output": [
                 "NN"
             ]
@@ -8132,7 +8132,7 @@
         },
         {
             "id": "task382-4394e55bb9b34aad8e6d6bac09e9a184",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the Swedish name of the place whose location 's largest city is Malmö ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the Swedish name of the place whose location 's largest city is Malm\u00f6 ?",
             "output": [
                 "IN"
             ]
@@ -8167,7 +8167,7 @@
         },
         {
             "id": "task382-5b295f769fa341b2b6b81133c402f2ae",
-            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the department of the seat in which the Instituto Nacional de Tecnología Agropecuaria opened a station in 2005 ?",
+            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the department of the seat in which the Instituto Nacional de Tecnolog\u00eda Agropecuaria opened a station in 2005 ?",
             "output": [
                 "IN"
             ]
@@ -8454,7 +8454,7 @@
         },
         {
             "id": "task382-848744ef2573431ca4ba12d463ff1ace",
-            "input": "What is the part-of-speech tag of the word \"year\" in the following question: Which year did the player signed by Everton for £28,000,000 in 2014 win the Belgian Ebony Shoe ?",
+            "input": "What is the part-of-speech tag of the word \"year\" in the following question: Which year did the player signed by Everton for \u00a328,000,000 in 2014 win the Belgian Ebony Shoe ?",
             "output": [
                 "NN"
             ]
@@ -8601,14 +8601,14 @@
         },
         {
             "id": "task382-1108ba004e1b464e90affd1d96981835",
-            "input": "What is the part-of-speech tag of the word \"Auvergne-Rhône-Alpes\" in the following question: Which location hosted the speed skating first ? was it the place named after an old farm which was of the elements djúpr deep and vík inlet , or a place which is found in the Auvergne-Rhône-Alpes region ?",
+            "input": "What is the part-of-speech tag of the word \"Auvergne-Rh\u00f4ne-Alpes\" in the following question: Which location hosted the speed skating first ? was it the place named after an old farm which was of the elements dj\u00fapr deep and v\u00edk inlet , or a place which is found in the Auvergne-Rh\u00f4ne-Alpes region ?",
             "output": [
                 "NNP"
             ]
         },
         {
             "id": "task382-d68d83d97fc8497d8e30befea64945fc",
-            "input": "What is the part-of-speech tag of the word \"year\" in the following question: What year was the football club founded that Tabaré Viudez left in the summer of 2009 ?",
+            "input": "What is the part-of-speech tag of the word \"year\" in the following question: What year was the football club founded that Tabar\u00e9 Viudez left in the summer of 2009 ?",
             "output": [
                 "NN"
             ]
@@ -8804,7 +8804,7 @@
         },
         {
             "id": "task382-ef1f51828c6c44dab118d3df8843bced",
-            "input": "What is the part-of-speech tag of the word \"'s\" in the following question: Between León de Huánuco and Melgar , which one 's city has the higher population ?",
+            "input": "What is the part-of-speech tag of the word \"'s\" in the following question: Between Le\u00f3n de Hu\u00e1nuco and Melgar , which one 's city has the higher population ?",
             "output": [
                 "POS"
             ]
@@ -9518,7 +9518,7 @@
         },
         {
             "id": "task382-7235b5e3d1664c85a1cd85a110ecfa2e",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: Where is Jackeline Rentería currently studying at ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: Where is Jackeline Renter\u00eda currently studying at ?",
             "output": [
                 "VBZ"
             ]
@@ -10022,7 +10022,7 @@
         },
         {
             "id": "task382-7fa38877a3114141ad87f52e19af768c",
-            "input": "What is the part-of-speech tag of the word \"Greenland\" in the following question: What Atlantic islands besides Greenland is in the kingdom of the home country of bicycle racer Chris Anker Sørensen ?",
+            "input": "What is the part-of-speech tag of the word \"Greenland\" in the following question: What Atlantic islands besides Greenland is in the kingdom of the home country of bicycle racer Chris Anker S\u00f8rensen ?",
             "output": [
                 "NNP"
             ]
@@ -10071,14 +10071,14 @@
         },
         {
             "id": "task382-c2a1262fe2294a4aa077098fec207071",
-            "input": "What is the part-of-speech tag of the word \"written\" in the following question: When was the first year the title that was released after 2000 and was written by Chūgaku Akamatsu ?",
+            "input": "What is the part-of-speech tag of the word \"written\" in the following question: When was the first year the title that was released after 2000 and was written by Ch\u016bgaku Akamatsu ?",
             "output": [
                 "VBN"
             ]
         },
         {
             "id": "task382-2e5eae5596ec4a65a9a33f287e899ffa",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the density ( per km² ) of the island that is settled on 80 acres ( 32 hectares ) of land ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the density ( per km\u00b2 ) of the island that is settled on 80 acres ( 32 hectares ) of land ?",
             "output": [
                 "IN"
             ]
@@ -10925,7 +10925,7 @@
         },
         {
             "id": "task382-8c8b52e680ad46c3ad987394bc4782ce",
-            "input": "What is the part-of-speech tag of the word \"man\" in the following question: What electoral district is that man who went to college at the Collége de Saint-Boniface ?",
+            "input": "What is the part-of-speech tag of the word \"man\" in the following question: What electoral district is that man who went to college at the Coll\u00e9ge de Saint-Boniface ?",
             "output": [
                 "NN"
             ]
@@ -11044,7 +11044,7 @@
         },
         {
             "id": "task382-3f4ac1f7cb354fdfa1255854de9d7472",
-            "input": "What is the part-of-speech tag of the word \"population\" in the following question: What is the 2012 population of Portrait of Miyahira Chōen , colour on paper 's municipality ?",
+            "input": "What is the part-of-speech tag of the word \"population\" in the following question: What is the 2012 population of Portrait of Miyahira Ch\u014den , colour on paper 's municipality ?",
             "output": [
                 "NN"
             ]
@@ -11730,7 +11730,7 @@
         },
         {
             "id": "task382-c9f5a84f9bf24fee850660f3a486c4ae",
-            "input": "What is the part-of-speech tag of the word \"American\" in the following question: What is the date of birth of the Jiu Jitsu competitor who is American and won the European Championship -58kg Feather title the same year Tayane Porfírio won the Absolute ?",
+            "input": "What is the part-of-speech tag of the word \"American\" in the following question: What is the date of birth of the Jiu Jitsu competitor who is American and won the European Championship -58kg Feather title the same year Tayane Porf\u00edrio won the Absolute ?",
             "output": [
                 "JJ"
             ]
@@ -11961,7 +11961,7 @@
         },
         {
             "id": "task382-d8902bd473c14f878624c2df4bfe7887",
-            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What is the constituency whose translation in Malayalam is മാവേലിക്കര ലോക്സഭാ മണ്ഡലം reserved for ?",
+            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What is the constituency whose translation in Malayalam is \u0d2e\u0d3e\u0d35\u0d47\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d30 \u0d32\u0d4b\u0d15\u0d4d\u0d38\u0d2d\u0d3e \u0d2e\u0d23\u0d4d\u0d21\u0d32\u0d02 reserved for ?",
             "output": [
                 "WP"
             ]
@@ -12192,7 +12192,7 @@
         },
         {
             "id": "task382-a34aed3284874a0287f004c0a4a841ee",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Of the athletes born in 1990 , what is the M , € of the one who is a cousin of Jerson Cabral ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Of the athletes born in 1990 , what is the M , \u20ac of the one who is a cousin of Jerson Cabral ?",
             "output": [
                 "IN"
             ]
@@ -12339,7 +12339,7 @@
         },
         {
             "id": "task382-7b2062b4b1874fdb9c6a671b3a46322b",
-            "input": "What is the part-of-speech tag of the word \"football\" in the following question: In English , what is the motto of the football club with the Greek name Παναθηναϊκός that is from a settlement with 106,053 inhabitants in Greece 's largest regional unit ?",
+            "input": "What is the part-of-speech tag of the word \"football\" in the following question: In English , what is the motto of the football club with the Greek name \u03a0\u03b1\u03bd\u03b1\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03cc\u03c2 that is from a settlement with 106,053 inhabitants in Greece 's largest regional unit ?",
             "output": [
                 "NN"
             ]
@@ -12892,7 +12892,7 @@
         },
         {
             "id": "task382-dc1b5678a1a4481280fadda8d6e9b748",
-            "input": "What is the part-of-speech tag of the word \"name\" in the following question: What was the name in her native language of the person that appeared in בני ערובה ?",
+            "input": "What is the part-of-speech tag of the word \"name\" in the following question: What was the name in her native language of the person that appeared in \u05d1\u05e0\u05d9 \u05e2\u05e8\u05d5\u05d1\u05d4 ?",
             "output": [
                 "NN"
             ]
@@ -13291,7 +13291,7 @@
         },
         {
             "id": "task382-5dd3949be35743d5824f64ed30911e6e",
-            "input": "What is the part-of-speech tag of the word \"highest\" in the following question: What is the range whose highest summit is the highest mountain in the Belledonne massif in the Dauphiné Alps ?",
+            "input": "What is the part-of-speech tag of the word \"highest\" in the following question: What is the range whose highest summit is the highest mountain in the Belledonne massif in the Dauphin\u00e9 Alps ?",
             "output": [
                 "JJS"
             ]
@@ -13865,7 +13865,7 @@
         },
         {
             "id": "task382-d1872ef76221409a9ba5d1062b14e5df",
-            "input": "What is the part-of-speech tag of the word \"that\" in the following question: Who beat the team that drafted Björn Nittmo in 1989 in the tournament that year ?",
+            "input": "What is the part-of-speech tag of the word \"that\" in the following question: Who beat the team that drafted Bj\u00f6rn Nittmo in 1989 in the tournament that year ?",
             "output": [
                 "IN"
             ]
@@ -13886,7 +13886,7 @@
         },
         {
             "id": "task382-6c2bc9ac5dd647b7bf168a7e36e9656d",
-            "input": "What is the part-of-speech tag of the word \"Ishova\" in the following question: between Monica Iagăr and Ekaterina Ishova what is the birth-date of the one born first ?",
+            "input": "What is the part-of-speech tag of the word \"Ishova\" in the following question: between Monica Iag\u0103r and Ekaterina Ishova what is the birth-date of the one born first ?",
             "output": [
                 "NNP"
             ]
@@ -14145,7 +14145,7 @@
         },
         {
             "id": "task382-f89e2d69d8974ecda479abfb761c5aef",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: In what year was the first domestic league title won by the team from the city in Kié-Ntem province that in 2005 had an estimated population of 5,813 ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: In what year was the first domestic league title won by the team from the city in Ki\u00e9-Ntem province that in 2005 had an estimated population of 5,813 ?",
             "output": [
                 "DT"
             ]
@@ -14180,7 +14180,7 @@
         },
         {
             "id": "task382-442f394f57114640b720ae8992eef1cd",
-            "input": "What is the part-of-speech tag of the word \"'s\" in the following question: Of the men who competed as a team in the men 's 4 × 10 km relay , which athlete also received a silver medal at the same Olympic games , in a single person event ?",
+            "input": "What is the part-of-speech tag of the word \"'s\" in the following question: Of the men who competed as a team in the men 's 4 \u00d7 10 km relay , which athlete also received a silver medal at the same Olympic games , in a single person event ?",
             "output": [
                 "POS"
             ]
@@ -14537,7 +14537,7 @@
         },
         {
             "id": "task382-2f194bb89d0f46fca973bde5b443b4bf",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Which city hosted the Olympics when the flag bearer for Cuba was Iván Pedroso ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Which city hosted the Olympics when the flag bearer for Cuba was Iv\u00e1n Pedroso ?",
             "output": [
                 "DT"
             ]
@@ -14971,7 +14971,7 @@
         },
         {
             "id": "task382-6b404fc091784a72990a32acd7053f67",
-            "input": "What is the part-of-speech tag of the word \"to\" in the following question: Who brought the work by Leonardo da Vinci housed in Biblioteca Nacional de España to Spain ?",
+            "input": "What is the part-of-speech tag of the word \"to\" in the following question: Who brought the work by Leonardo da Vinci housed in Biblioteca Nacional de Espa\u00f1a to Spain ?",
             "output": [
                 "TO"
             ]
@@ -15013,7 +15013,7 @@
         },
         {
             "id": "task382-123d09e79e2a46b2892659873ea750b6",
-            "input": "What is the part-of-speech tag of the word \"by\" in the following question: What other name does the city where Tōmizuka Kofun is located go by ?",
+            "input": "What is the part-of-speech tag of the word \"by\" in the following question: What other name does the city where T\u014dmizuka Kofun is located go by ?",
             "output": [
                 "IN"
             ]
@@ -15517,7 +15517,7 @@
         },
         {
             "id": "task382-620c3f216c3c4dc3bb7c7164afcc32aa",
-            "input": "What is the part-of-speech tag of the word \"blocks\" in the following question: How many blocks is the district with an area of 2,651 km² divided into ?",
+            "input": "What is the part-of-speech tag of the word \"blocks\" in the following question: How many blocks is the district with an area of 2,651 km\u00b2 divided into ?",
             "output": [
                 "NNS"
             ]
@@ -15839,7 +15839,7 @@
         },
         {
             "id": "task382-b4724dc983f94d3989e5c56709b826d2",
-            "input": "What is the part-of-speech tag of the word \"won\" in the following question: What team did the player who has won four Primeira Liga titles , one Taça de Portugal and two Taça da Liga move from ?",
+            "input": "What is the part-of-speech tag of the word \"won\" in the following question: What team did the player who has won four Primeira Liga titles , one Ta\u00e7a de Portugal and two Ta\u00e7a da Liga move from ?",
             "output": [
                 "VBN"
             ]
@@ -15867,7 +15867,7 @@
         },
         {
             "id": "task382-0443d6b0de564672aefb0a79cdca6cb5",
-            "input": "What is the part-of-speech tag of the word \"founded\" in the following question: Who founded this football club whose home stadium held a match against Örgryte IS in 2005 ?",
+            "input": "What is the part-of-speech tag of the word \"founded\" in the following question: Who founded this football club whose home stadium held a match against \u00d6rgryte IS in 2005 ?",
             "output": [
                 "VBD"
             ]
@@ -16105,7 +16105,7 @@
         },
         {
             "id": "task382-ed83a6318a5d439ea9837db09ffb6b75",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the source of the list that is known as Qïzïl Yïlan or Qazal Al'an to local Iranian Turkmens ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the source of the list that is known as Q\u00efz\u00efl Y\u00eflan or Qazal Al'an to local Iranian Turkmens ?",
             "output": [
                 "VBZ"
             ]
@@ -16280,7 +16280,7 @@
         },
         {
             "id": "task382-a45e27b9b4244cafa58565f94aa51c5a",
-            "input": "What is the part-of-speech tag of the word \"Olympics\" in the following question: What city hosted the Olympics when Mickaël Conjungo was the flag bearer for the Central African Republic ?",
+            "input": "What is the part-of-speech tag of the word \"Olympics\" in the following question: What city hosted the Olympics when Micka\u00ebl Conjungo was the flag bearer for the Central African Republic ?",
             "output": [
                 "NNPS"
             ]
@@ -16602,7 +16602,7 @@
         },
         {
             "id": "task382-9fbd68cdcd854c66bf02ed2089a8cd9b",
-            "input": "What is the part-of-speech tag of the word \"with\" in the following question: Who is the artist of the single with the least amount fewer sales than Le Village des Enfoirés in 2006 France compared to ?",
+            "input": "What is the part-of-speech tag of the word \"with\" in the following question: Who is the artist of the single with the least amount fewer sales than Le Village des Enfoir\u00e9s in 2006 France compared to ?",
             "output": [
                 "IN"
             ]
@@ -16812,7 +16812,7 @@
         },
         {
             "id": "task382-4a43feb788354ff5946b885e7560c1b3",
-            "input": "What is the part-of-speech tag of the word \"Entrevías\" in the following question: How many people live in the city where the CDM Entrevías is located ?",
+            "input": "What is the part-of-speech tag of the word \"Entrev\u00edas\" in the following question: How many people live in the city where the CDM Entrev\u00edas is located ?",
             "output": [
                 "NNP"
             ]
@@ -16840,7 +16840,7 @@
         },
         {
             "id": "task382-f4912309531341589e60a60caf20b603",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the longer track in the complex in Nürburg that had 2.0 million visitors in 2002 ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the longer track in the complex in N\u00fcrburg that had 2.0 million visitors in 2002 ?",
             "output": [
                 "VBZ"
             ]
@@ -17288,7 +17288,7 @@
         },
         {
             "id": "task382-d0244e08e14d43feacee6d5b0cee7a48",
-            "input": "What is the part-of-speech tag of the word \"founded\" in the following question: What year was `` The Oldest House '' constructed , located in a city founded by Spanish admiral Pedro Menéndez de Avilés , Florida 's first governor ?",
+            "input": "What is the part-of-speech tag of the word \"founded\" in the following question: What year was `` The Oldest House '' constructed , located in a city founded by Spanish admiral Pedro Men\u00e9ndez de Avil\u00e9s , Florida 's first governor ?",
             "output": [
                 "VBN"
             ]
@@ -17526,7 +17526,7 @@
         },
         {
             "id": "task382-eb15178bb13d4aa1a7db441cb7bd6fad",
-            "input": "What is the part-of-speech tag of the word \"located\" in the following question: What municipality ( ies ) is the mountain that is the highest summit of the subrange north of the Sinsgäuer Schonegg pass located in ?",
+            "input": "What is the part-of-speech tag of the word \"located\" in the following question: What municipality ( ies ) is the mountain that is the highest summit of the subrange north of the Sinsg\u00e4uer Schonegg pass located in ?",
             "output": [
                 "VBN"
             ]
@@ -17624,7 +17624,7 @@
         },
         {
             "id": "task382-33b9b5e9c883424f8da5e1bdda3d82e8",
-            "input": "What is the part-of-speech tag of the word \"place\" in the following question: Since what year did the winner of the event that took place in Auditorio Benito Juárez perform as a boxer ?",
+            "input": "What is the part-of-speech tag of the word \"place\" in the following question: Since what year did the winner of the event that took place in Auditorio Benito Ju\u00e1rez perform as a boxer ?",
             "output": [
                 "NN"
             ]
@@ -17764,7 +17764,7 @@
         },
         {
             "id": "task382-3ccab1396f5b4774952f3a5b6b5ec1ef",
-            "input": "What is the part-of-speech tag of the word \"begin\" in the following question: What is the name for the dam on the river whose headwaters begin near the city of Popayán ?",
+            "input": "What is the part-of-speech tag of the word \"begin\" in the following question: What is the name for the dam on the river whose headwaters begin near the city of Popay\u00e1n ?",
             "output": [
                 "VBP"
             ]
@@ -17869,7 +17869,7 @@
         },
         {
             "id": "task382-c4c5ae6ac8c94b25b0187be38e001c6e",
-            "input": "What is the part-of-speech tag of the word \"Amoroso\" in the following question: What channel number does Márcio Amoroso 's team broadcast it 's games ?",
+            "input": "What is the part-of-speech tag of the word \"Amoroso\" in the following question: What channel number does M\u00e1rcio Amoroso 's team broadcast it 's games ?",
             "output": [
                 "NNP"
             ]
@@ -17904,7 +17904,7 @@
         },
         {
             "id": "task382-e19a3111aed643c0aa8fa40f67aefb41",
-            "input": "What is the part-of-speech tag of the word \"bank\" in the following question: What is the Area ( km² ) for the municipality that lies on the right bank of the Meuse river , and south of the forest of the Klever Reichswald ?",
+            "input": "What is the part-of-speech tag of the word \"bank\" in the following question: What is the Area ( km\u00b2 ) for the municipality that lies on the right bank of the Meuse river , and south of the forest of the Klever Reichswald ?",
             "output": [
                 "NN"
             ]
@@ -18156,7 +18156,7 @@
         },
         {
             "id": "task382-9a4ee14421fc49f58f6abf870ad49db5",
-            "input": "What is the part-of-speech tag of the word \"a\" in the following question: When did the Trofeo Sóller win the Vuelta a Mallorca ?",
+            "input": "What is the part-of-speech tag of the word \"a\" in the following question: When did the Trofeo S\u00f3ller win the Vuelta a Mallorca ?",
             "output": [
                 "DT"
             ]
@@ -18744,7 +18744,7 @@
         },
         {
             "id": "task382-e344866a9d8447b1a8eea7c5582fe3ff",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the name of the traditional language of the minority located in the county Bacău ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the name of the traditional language of the minority located in the county Bac\u0103u ?",
             "output": [
                 "VBZ"
             ]
@@ -19087,7 +19087,7 @@
         },
         {
             "id": "task382-5eb68ddfab4a4ce79b890d333e11c9d4",
-            "input": "What is the part-of-speech tag of the word \"this\" in the following question: Which state highway can be found near this historic mining town in the district that covers Lake Wakatipu , Lake Wanaka and Lake Hāwea ?",
+            "input": "What is the part-of-speech tag of the word \"this\" in the following question: Which state highway can be found near this historic mining town in the district that covers Lake Wakatipu , Lake Wanaka and Lake H\u0101wea ?",
             "output": [
                 "DT"
             ]
@@ -19472,7 +19472,7 @@
         },
         {
             "id": "task382-3ea71497725a43f08eeecc1a6fbb9b43",
-            "input": "What is the part-of-speech tag of the word \"Opera\" in the following question: Between Royal Opera and Grand Théâtre de Genève , which one was constructed at an earlier time ?",
+            "input": "What is the part-of-speech tag of the word \"Opera\" in the following question: Between Royal Opera and Grand Th\u00e9\u00e2tre de Gen\u00e8ve , which one was constructed at an earlier time ?",
             "output": [
                 "NNP"
             ]
@@ -19682,7 +19682,7 @@
         },
         {
             "id": "task382-c60097553b6146389045a9d84d09caca",
-            "input": "What is the part-of-speech tag of the word \"who\" in the following question: What anniversary was celebrated in 2018 by the team who hosted the North American team whose colours were blue and white six years before that North American team hosted América for a CONCACAF Champions League match on April 29th ?",
+            "input": "What is the part-of-speech tag of the word \"who\" in the following question: What anniversary was celebrated in 2018 by the team who hosted the North American team whose colours were blue and white six years before that North American team hosted Am\u00e9rica for a CONCACAF Champions League match on April 29th ?",
             "output": [
                 "WP"
             ]
@@ -19752,7 +19752,7 @@
         },
         {
             "id": "task382-e237ff555dd645e6a340ffd8537247b6",
-            "input": "What is the part-of-speech tag of the word \"directed\" in the following question: How many César Award nominations did the 2011 film directed by Maïwenn receive ?",
+            "input": "What is the part-of-speech tag of the word \"directed\" in the following question: How many C\u00e9sar Award nominations did the 2011 film directed by Ma\u00efwenn receive ?",
             "output": [
                 "VBN"
             ]
@@ -19836,7 +19836,7 @@
         },
         {
             "id": "task382-093905511f4d497c8ad47a3a2d36e73e",
-            "input": "What is the part-of-speech tag of the word \"singer\" in the following question: What is the birthdate of the singer who 's winning album is called Coup de tête ?",
+            "input": "What is the part-of-speech tag of the word \"singer\" in the following question: What is the birthdate of the singer who 's winning album is called Coup de t\u00eate ?",
             "output": [
                 "NN"
             ]
@@ -19969,7 +19969,7 @@
         },
         {
             "id": "task382-d79b6ced32c64e6b9d85b1bc6716bd17",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the birthday of the winner whose 2011 tournament carried an increased prize fund of €1.8 million ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the birthday of the winner whose 2011 tournament carried an increased prize fund of \u20ac1.8 million ?",
             "output": [
                 "IN"
             ]
@@ -19983,7 +19983,7 @@
         },
         {
             "id": "task382-7d5af669ab864362a2c1ac908df726b0",
-            "input": "What is the part-of-speech tag of the word \"lowest\" in the following question: What year was the community with the lowest °N address established ?",
+            "input": "What is the part-of-speech tag of the word \"lowest\" in the following question: What year was the community with the lowest \u00b0N address established ?",
             "output": [
                 "JJS"
             ]
@@ -20480,7 +20480,7 @@
         },
         {
             "id": "task382-3466f69a071b4d9082f896aa927bc1ca",
-            "input": "What is the part-of-speech tag of the word \"households\" in the following question: What is the name of the site whose municipality had an estimated population of 69,525 in 30,185 households , and a population density of 2,994 persons per km² ?",
+            "input": "What is the part-of-speech tag of the word \"households\" in the following question: What is the name of the site whose municipality had an estimated population of 69,525 in 30,185 households , and a population density of 2,994 persons per km\u00b2 ?",
             "output": [
                 "NNS"
             ]
@@ -20557,7 +20557,7 @@
         },
         {
             "id": "task382-85b7afc460b046d0b6ecc76e85b8503a",
-            "input": "What is the part-of-speech tag of the word \"clasp\" in the following question: What clasp is associated with a 32-gun Vénus class frigate of the French Navy ?",
+            "input": "What is the part-of-speech tag of the word \"clasp\" in the following question: What clasp is associated with a 32-gun V\u00e9nus class frigate of the French Navy ?",
             "output": [
                 "NN"
             ]
@@ -20928,7 +20928,7 @@
         },
         {
             "id": "task382-11287f856fe7423888ef9650f481b19d",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the language of the film title used in nomination that portrays the life of Hatidže Muratova ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the language of the film title used in nomination that portrays the life of Hatid\u017ee Muratova ?",
             "output": [
                 "VBZ"
             ]
@@ -22188,7 +22188,7 @@
         },
         {
             "id": "task382-c3c1740f50bf4de49208ce9789465f47",
-            "input": "What is the part-of-speech tag of the word \"(\" in the following question: What is the date of the monument whose description is 93 1⁄2-miles ( 150 km ) in length ?",
+            "input": "What is the part-of-speech tag of the word \"(\" in the following question: What is the date of the monument whose description is 93 1\u20442-miles ( 150 km ) in length ?",
             "output": [
                 "("
             ]
@@ -22454,7 +22454,7 @@
         },
         {
             "id": "task382-b914d133ca504357a97a409d3c4bb193",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the difference in Gross capacity x10³M³ for the WMAs that handle the river whose mouth is located at Fisherhaven and the river whose name means cow in siSwati ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the difference in Gross capacity x10\u00b3M\u00b3 for the WMAs that handle the river whose mouth is located at Fisherhaven and the river whose name means cow in siSwati ?",
             "output": [
                 "VBZ"
             ]
@@ -22846,7 +22846,7 @@
         },
         {
             "id": "task382-160082bbcbbc49538af173505f5fa9b7",
-            "input": "What is the part-of-speech tag of the word \"building\" in the following question: In what year was the building located at 47°09′35″N 100°47′24″W / 47.159722°N 100.79°W acknowledged on the National Register of Historic Places ?",
+            "input": "What is the part-of-speech tag of the word \"building\" in the following question: In what year was the building located at 47\u00b009\u203235\u2033N 100\u00b047\u203224\u2033W / 47.159722\u00b0N 100.79\u00b0W acknowledged on the National Register of Historic Places ?",
             "output": [
                 "NN"
             ]
@@ -23014,7 +23014,7 @@
         },
         {
             "id": "task382-cb01ea942197415bbe26e4ee31ca4c94",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Which player transferred from the team with the nickname Die Löwinnen ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Which player transferred from the team with the nickname Die L\u00f6winnen ?",
             "output": [
                 "DT"
             ]
@@ -23098,7 +23098,7 @@
         },
         {
             "id": "task382-659095682c98474cb7ec988bc37303dd",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the capacity of the stadium located in the city that faces the northern slopes of Fruška Gora ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the capacity of the stadium located in the city that faces the northern slopes of Fru\u0161ka Gora ?",
             "output": [
                 "DT"
             ]
@@ -23112,7 +23112,7 @@
         },
         {
             "id": "task382-9f6f4ebd8bf2425c83aa7156bdea77be",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the capacity of the stadium , when it was built to be used instead of Malatya İnönü Stadium ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the capacity of the stadium , when it was built to be used instead of Malatya \u0130n\u00f6n\u00fc Stadium ?",
             "output": [
                 "DT"
             ]
@@ -23469,7 +23469,7 @@
         },
         {
             "id": "task382-20b9a1393b0548a48c646cf17b712280",
-            "input": "What is the part-of-speech tag of the word \"Zen\" in the following question: What is the name of the municipality that has the site that belongs to the Sōtō-school of Japanese Zen Buddhism ?",
+            "input": "What is the part-of-speech tag of the word \"Zen\" in the following question: What is the name of the municipality that has the site that belongs to the S\u014dt\u014d-school of Japanese Zen Buddhism ?",
             "output": [
                 "NNP"
             ]
@@ -23777,7 +23777,7 @@
         },
         {
             "id": "task382-fc3ad81671a741f1b0db7fca80406d22",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the name of the team whose manager has also won four Copa México championships ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the name of the team whose manager has also won four Copa M\u00e9xico championships ?",
             "output": [
                 "IN"
             ]
@@ -23994,7 +23994,7 @@
         },
         {
             "id": "task382-26351bfaad054a7c9c84ef5bdad53901",
-            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which countries jointly produced Lauri Törhönen 's 2007 movie ?",
+            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which countries jointly produced Lauri T\u00f6rh\u00f6nen 's 2007 movie ?",
             "output": [
                 "JJ"
             ]
@@ -24204,7 +24204,7 @@
         },
         {
             "id": "task382-744fe7166eca47c784089fed429c65db",
-            "input": "What is the part-of-speech tag of the word \"was\" in the following question: What album was also release by the label founded by Ahmet Ertegün and Herb Abramson ?",
+            "input": "What is the part-of-speech tag of the word \"was\" in the following question: What album was also release by the label founded by Ahmet Erteg\u00fcn and Herb Abramson ?",
             "output": [
                 "VBD"
             ]
@@ -24337,7 +24337,7 @@
         },
         {
             "id": "task382-f89d060e1d1c4919acc49da50ef697cc",
-            "input": "What is the part-of-speech tag of the word \"Día\" in the following question: Which rock band was this singer a member of whose second radio single from Un Día Normal ( 2002 ) won a Latin Grammy Award ?",
+            "input": "What is the part-of-speech tag of the word \"D\u00eda\" in the following question: Which rock band was this singer a member of whose second radio single from Un D\u00eda Normal ( 2002 ) won a Latin Grammy Award ?",
             "output": [
                 "NNP"
             ]
@@ -24981,7 +24981,7 @@
         },
         {
             "id": "task382-0c99898ed3914ac79b6e3bf62ad2e52f",
-            "input": "What is the part-of-speech tag of the word \"during\" in the following question: Which team won the German football championship during the year when this football club based in today Gdańsk , Poland qualified ?",
+            "input": "What is the part-of-speech tag of the word \"during\" in the following question: Which team won the German football championship during the year when this football club based in today Gda\u0144sk , Poland qualified ?",
             "output": [
                 "IN"
             ]
@@ -25107,7 +25107,7 @@
         },
         {
             "id": "task382-bf1c51acbe754cae8b1c73a5efe5250f",
-            "input": "What is the part-of-speech tag of the word \"English\" in the following question: What is the film title whose English title stars Iván Petrovich , Nicolas Koline and Mabel Poulton ?",
+            "input": "What is the part-of-speech tag of the word \"English\" in the following question: What is the film title whose English title stars Iv\u00e1n Petrovich , Nicolas Koline and Mabel Poulton ?",
             "output": [
                 "JJ"
             ]
@@ -25135,7 +25135,7 @@
         },
         {
             "id": "task382-77f472ed22da4835b5177538c57728af",
-            "input": "What is the part-of-speech tag of the word \"did\" in the following question: How many medals did the country win who had an athlete arrested in Operación Galgo ?",
+            "input": "What is the part-of-speech tag of the word \"did\" in the following question: How many medals did the country win who had an athlete arrested in Operaci\u00f3n Galgo ?",
             "output": [
                 "VBD"
             ]
@@ -25177,7 +25177,7 @@
         },
         {
             "id": "task382-7e54ec33d0184f61a5aeea0e9250a3e8",
-            "input": "What is the part-of-speech tag of the word \"and\" in the following question: How many lodges currently meet in the masonic building that has location coordinates beginning 42°17′38″N 85°35′6″W and is in the city that has as one of its notable features a mall built in 1959 ?",
+            "input": "What is the part-of-speech tag of the word \"and\" in the following question: How many lodges currently meet in the masonic building that has location coordinates beginning 42\u00b017\u203238\u2033N 85\u00b035\u20326\u2033W and is in the city that has as one of its notable features a mall built in 1959 ?",
             "output": [
                 "CC"
             ]
@@ -25373,7 +25373,7 @@
         },
         {
             "id": "task382-0e98cfe2b0f04c579ac247df20c52052",
-            "input": "What is the part-of-speech tag of the word \"player\" in the following question: In what year did the player awarded €9M + Bonus travel back to Genoa ?",
+            "input": "What is the part-of-speech tag of the word \"player\" in the following question: In what year did the player awarded \u20ac9M + Bonus travel back to Genoa ?",
             "output": [
                 "NN"
             ]
@@ -25415,7 +25415,7 @@
         },
         {
             "id": "task382-b484ef4daa6745eaaf9f0b20e89c254c",
-            "input": "What is the part-of-speech tag of the word \"population\" in the following question: between Belgrade and Pančevo what is the population of the larger city ?",
+            "input": "What is the part-of-speech tag of the word \"population\" in the following question: between Belgrade and Pan\u010devo what is the population of the larger city ?",
             "output": [
                 "NN"
             ]
@@ -25814,7 +25814,7 @@
         },
         {
             "id": "task382-d63d0896669b40d085eac4f006c3ac11",
-            "input": "What is the part-of-speech tag of the word \"S\" in the following question: What is the battalion that was once commanded by Lloyd L. Leech and located on 14.2710° S , 170.1322° W ?",
+            "input": "What is the part-of-speech tag of the word \"S\" in the following question: What is the battalion that was once commanded by Lloyd L. Leech and located on 14.2710\u00b0 S , 170.1322\u00b0 W ?",
             "output": [
                 "NNP"
             ]
@@ -26514,7 +26514,7 @@
         },
         {
             "id": "task382-25cbf68614da415b8e58e49116e596e8",
-            "input": "What is the part-of-speech tag of the word \"locality\" in the following question: What canton is the closest locality to Fürstein mountain the capital of ?",
+            "input": "What is the part-of-speech tag of the word \"locality\" in the following question: What canton is the closest locality to F\u00fcrstein mountain the capital of ?",
             "output": [
                 "NN"
             ]
@@ -26605,7 +26605,7 @@
         },
         {
             "id": "task382-58fd8bc352374b1799eb5d6ab0f2d5eb",
-            "input": "What is the part-of-speech tag of the word \"venue\" in the following question: Who is the sponsor of the team who plays at the venue with the Coordinates : 54°5′32″N 28°19′12″E / 54.09222°N 28.32000°E / 54.09222 ; 28.32000 ?",
+            "input": "What is the part-of-speech tag of the word \"venue\" in the following question: Who is the sponsor of the team who plays at the venue with the Coordinates : 54\u00b05\u203232\u2033N 28\u00b019\u203212\u2033E / 54.09222\u00b0N 28.32000\u00b0E / 54.09222 ; 28.32000 ?",
             "output": [
                 "NN"
             ]
@@ -27039,7 +27039,7 @@
         },
         {
             "id": "task382-a55507edd0e149a2a0c82c4f9982b7b4",
-            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the Irish name of the city where RTÉ took place in 1980 ?",
+            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the Irish name of the city where RT\u00c9 took place in 1980 ?",
             "output": [
                 "IN"
             ]
@@ -27844,7 +27844,7 @@
         },
         {
             "id": "task382-7c72e8977dc0472a9b8fd6e4843dd406",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: How many branches in Serbia does the bank in Serbia with the least number fewer employees than Poštanska štedionica have ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: How many branches in Serbia does the bank in Serbia with the least number fewer employees than Po\u0161tanska \u0161tedionica have ?",
             "output": [
                 "DT"
             ]
@@ -28159,7 +28159,7 @@
         },
         {
             "id": "task382-fb136e4574ad4a0e9eed315567cbd6ad",
-            "input": "What is the part-of-speech tag of the word \"2010\" in the following question: What was the population of this town in 2010 where the ​one and a half story brick dwelling home built about 1711 is located ?",
+            "input": "What is the part-of-speech tag of the word \"2010\" in the following question: What was the population of this town in 2010 where the \u200bone and a half story brick dwelling home built about 1711 is located ?",
             "output": [
                 "CD"
             ]
@@ -28208,7 +28208,7 @@
         },
         {
             "id": "task382-6111748447dc4b08aa5ba651c0e3f00c",
-            "input": "What is the part-of-speech tag of the word \"The\" in the following question: The 3.7 cm Infanteriegeschütz M.15 comes from a country that had what kind of government ?",
+            "input": "What is the part-of-speech tag of the word \"The\" in the following question: The 3.7 cm Infanteriegesch\u00fctz M.15 comes from a country that had what kind of government ?",
             "output": [
                 "DT"
             ]
@@ -28572,7 +28572,7 @@
         },
         {
             "id": "task382-3de78ae83d7c44449b62e2540cd631d7",
-            "input": "What is the part-of-speech tag of the word \"region\" in the following question: In which region of Europe is the host country of the event taking place between Fénix and Camp of Slavic Scouts ?",
+            "input": "What is the part-of-speech tag of the word \"region\" in the following question: In which region of Europe is the host country of the event taking place between F\u00e9nix and Camp of Slavic Scouts ?",
             "output": [
                 "NN"
             ]
@@ -28614,7 +28614,7 @@
         },
         {
             "id": "task382-efdd257ada5f4b869a0c964965cc252b",
-            "input": "What is the part-of-speech tag of the word \"winner\" in the following question: What is the country whose artist is a three-time Kënga Magjike winner ?",
+            "input": "What is the part-of-speech tag of the word \"winner\" in the following question: What is the country whose artist is a three-time K\u00ebnga Magjike winner ?",
             "output": [
                 "NN"
             ]
@@ -28887,7 +28887,7 @@
         },
         {
             "id": "task382-e2f721b0156040a786c6e46b3a87ef92",
-            "input": "What is the part-of-speech tag of the word \"FK\" in the following question: What was the population as of 2017 for the city that is home to the football club FK Nevėžis Kėdainiai ?",
+            "input": "What is the part-of-speech tag of the word \"FK\" in the following question: What was the population as of 2017 for the city that is home to the football club FK Nev\u0117\u017eis K\u0117dainiai ?",
             "output": [
                 "NNP"
             ]
@@ -28957,7 +28957,7 @@
         },
         {
             "id": "task382-8cba1c06ce474a7fa3bdcb37242bb50f",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Approximately how many kilometers south-west of Okinawa Hontō is the island where the municipality is also the location of the past-disputed Senkaku Islands ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Approximately how many kilometers south-west of Okinawa Hont\u014d is the island where the municipality is also the location of the past-disputed Senkaku Islands ?",
             "output": [
                 "DT"
             ]
@@ -28999,7 +28999,7 @@
         },
         {
             "id": "task382-ba82bb8b37e94d3fa062c7dce69e9e74",
-            "input": "What is the part-of-speech tag of the word \",\" in the following question: What are the notes for the matrix , element r of a ring R is one such that r − 1 is a nilpotent element ; in other words , ( r − 1 ) n is zero for some n ?",
+            "input": "What is the part-of-speech tag of the word \",\" in the following question: What are the notes for the matrix , element r of a ring R is one such that r \u2212 1 is a nilpotent element ; in other words , ( r \u2212 1 ) n is zero for some n ?",
             "output": [
                 ","
             ]
@@ -29167,7 +29167,7 @@
         },
         {
             "id": "task382-eec14c3860714bfaa38f699d01ce242c",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What was the original brand name of the railroad company the owns a railway that operates a rail line that runs around Sept-Îles Harbour ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What was the original brand name of the railroad company the owns a railway that operates a rail line that runs around Sept-\u00celes Harbour ?",
             "output": [
                 "DT"
             ]
@@ -29286,7 +29286,7 @@
         },
         {
             "id": "task382-3e3b640cea9d4cf8bc2c5d6f5c9418e8",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: How many clubs did the league consist of the year the club Sirijus Klaipėda won ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: How many clubs did the league consist of the year the club Sirijus Klaip\u0117da won ?",
             "output": [
                 "IN"
             ]
@@ -29398,7 +29398,7 @@
         },
         {
             "id": "task382-f4cf4f0b3c4d41f287b0b22a009ed407",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Who was the director of the film that was made with a budget of ₹550 million ( equivalent to ₹700 million or US $ 9.8 million in 2018 ) ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Who was the director of the film that was made with a budget of \u20b9550 million ( equivalent to \u20b9700 million or US $ 9.8 million in 2018 ) ?",
             "output": [
                 "DT"
             ]
@@ -29538,7 +29538,7 @@
         },
         {
             "id": "task382-081712cf9b1a4c3eb820111d0fb0a6e2",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: The party whose only alternate is a politician elected to the Dáil in 1992 , by the Wicklow constituency , was disbanded when it was incorporated into what party ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: The party whose only alternate is a politician elected to the D\u00e1il in 1992 , by the Wicklow constituency , was disbanded when it was incorporated into what party ?",
             "output": [
                 "VBZ"
             ]
@@ -29720,7 +29720,7 @@
         },
         {
             "id": "task382-5e4f66bde47544569f74f27cefb19120",
-            "input": "What is the part-of-speech tag of the word \"and\" in the following question: The airport in the city that averages 360 sunny days a year and has water temperatures between 20 and 26 °C was named after the founder of what company ?",
+            "input": "What is the part-of-speech tag of the word \"and\" in the following question: The airport in the city that averages 360 sunny days a year and has water temperatures between 20 and 26 \u00b0C was named after the founder of what company ?",
             "output": [
                 "CC"
             ]
@@ -30112,14 +30112,14 @@
         },
         {
             "id": "task382-35c7dc26870048f585f96bb31f506fb1",
-            "input": "What is the part-of-speech tag of the word \"that\" in the following question: What was the victory margin of the winner of Tour de France duing this season that started at the French Alps ski resort , which is a part of Les Trois Vallées ?",
+            "input": "What is the part-of-speech tag of the word \"that\" in the following question: What was the victory margin of the winner of Tour de France duing this season that started at the French Alps ski resort , which is a part of Les Trois Vall\u00e9es ?",
             "output": [
                 "WDT"
             ]
         },
         {
             "id": "task382-8750728cd4104b0eaedb69097a03a085",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Which desert is in the region of Chile that has Copiapó as capital ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Which desert is in the region of Chile that has Copiap\u00f3 as capital ?",
             "output": [
                 "IN"
             ]
@@ -30371,7 +30371,7 @@
         },
         {
             "id": "task382-fe99f28fd37a404a8f37385d58cacb7d",
-            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which boyhood friend of the director starred in the 1954 film directed by François Truffaut ?",
+            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which boyhood friend of the director starred in the 1954 film directed by Fran\u00e7ois Truffaut ?",
             "output": [
                 "JJ"
             ]
@@ -30441,7 +30441,7 @@
         },
         {
             "id": "task382-fcadad29b4f34e05819825db8d639179",
-            "input": "What is the part-of-speech tag of the word \"Todorović\" in the following question: Which Atlantic islands belong to the home country of Anke Todorović ?",
+            "input": "What is the part-of-speech tag of the word \"Todorovi\u0107\" in the following question: Which Atlantic islands belong to the home country of Anke Todorovi\u0107 ?",
             "output": [
                 "NNP"
             ]
@@ -30595,7 +30595,7 @@
         },
         {
             "id": "task382-0cefeea81f9243fe967be0267fca3ec0",
-            "input": "What is the part-of-speech tag of the word \"Gönci\" in the following question: Which city hosted the Olympics when Jozef Gönci was flag bearer for Slovakia ?",
+            "input": "What is the part-of-speech tag of the word \"G\u00f6nci\" in the following question: Which city hosted the Olympics when Jozef G\u00f6nci was flag bearer for Slovakia ?",
             "output": [
                 "NNP"
             ]
@@ -30749,7 +30749,7 @@
         },
         {
             "id": "task382-2f747e1c44154feeb17e8b1071e34cf3",
-            "input": "What is the part-of-speech tag of the word \"Who\" in the following question: Who founded the church located in the town with an average year-round temperature of 75.5 °F ?",
+            "input": "What is the part-of-speech tag of the word \"Who\" in the following question: Who founded the church located in the town with an average year-round temperature of 75.5 \u00b0F ?",
             "output": [
                 "WP"
             ]
@@ -30798,7 +30798,7 @@
         },
         {
             "id": "task382-b631235b4d7245c1afc9cd2e0dc2ef14",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What nation does the home country of Federica Guzmán have a territorial conflict with ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What nation does the home country of Federica Guzm\u00e1n have a territorial conflict with ?",
             "output": [
                 "DT"
             ]
@@ -30854,7 +30854,7 @@
         },
         {
             "id": "task382-8f5041711ae1487199173594501074c5",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: When was the runner-up of Campeonato Paulista in 2014 promoted to Campeonato Brasileiro Série B ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: When was the runner-up of Campeonato Paulista in 2014 promoted to Campeonato Brasileiro S\u00e9rie B ?",
             "output": [
                 "IN"
             ]
@@ -30966,7 +30966,7 @@
         },
         {
             "id": "task382-ee6d3a079a92484bb4e42dde28b27f1c",
-            "input": "What is the part-of-speech tag of the word \"10,000\" in the following question: What city has a population under 10,000 and is a town in Hajdú-Bihar county ?",
+            "input": "What is the part-of-speech tag of the word \"10,000\" in the following question: What city has a population under 10,000 and is a town in Hajd\u00fa-Bihar county ?",
             "output": [
                 "CD"
             ]
@@ -31176,7 +31176,7 @@
         },
         {
             "id": "task382-32986105dcf2457e875f468bf0f4f76e",
-            "input": "What is the part-of-speech tag of the word \"earn\" in the following question: What medal did the silver medalist in women 's épée fencing at the 2008 Summer Olympics earn at the 2013 European Fencing Championships ?",
+            "input": "What is the part-of-speech tag of the word \"earn\" in the following question: What medal did the silver medalist in women 's \u00e9p\u00e9e fencing at the 2008 Summer Olympics earn at the 2013 European Fencing Championships ?",
             "output": [
                 "NN"
             ]
@@ -31890,7 +31890,7 @@
         },
         {
             "id": "task382-3518d54cae1348638b98f22805ba4494",
-            "input": "What is the part-of-speech tag of the word \"has\" in the following question: What is the average temperature of the capital of the canton that has an area of 443km² ?",
+            "input": "What is the part-of-speech tag of the word \"has\" in the following question: What is the average temperature of the capital of the canton that has an area of 443km\u00b2 ?",
             "output": [
                 "VBZ"
             ]
@@ -32100,7 +32100,7 @@
         },
         {
             "id": "task382-fe4b1b49eabd46dd8008c24906cf49e0",
-            "input": "What is the part-of-speech tag of the word \"building\" in the following question: What building is in the location that has an area of 7,834 hectares ( 30 1⁄4 square miles ) ?",
+            "input": "What is the part-of-speech tag of the word \"building\" in the following question: What building is in the location that has an area of 7,834 hectares ( 30 1\u20444 square miles ) ?",
             "output": [
                 "NN"
             ]
@@ -32639,7 +32639,7 @@
         },
         {
             "id": "task382-a75f06b2c9754b378c079385802b3b04",
-            "input": "What is the part-of-speech tag of the word \"deisgned\" in the following question: What year was the castle deisgned by Carl Hårleman completed ?",
+            "input": "What is the part-of-speech tag of the word \"deisgned\" in the following question: What year was the castle deisgned by Carl H\u00e5rleman completed ?",
             "output": [
                 "VBN"
             ]
@@ -32779,7 +32779,7 @@
         },
         {
             "id": "task382-d16fc643757b48a0aab7609edc93de0a",
-            "input": "What is the part-of-speech tag of the word \"a\" in the following question: When was the team founded that plays home games at a stadium located in Ibagué ?",
+            "input": "What is the part-of-speech tag of the word \"a\" in the following question: When was the team founded that plays home games at a stadium located in Ibagu\u00e9 ?",
             "output": [
                 "DT"
             ]
@@ -32877,7 +32877,7 @@
         },
         {
             "id": "task382-2e97fa34070247ba85ba6c641e9ed1ce",
-            "input": "What is the part-of-speech tag of the word \"accomplishment\" in the following question: What stadium does the club whose greatest accomplishment is its back-to-back Copa Perú championships play in ?",
+            "input": "What is the part-of-speech tag of the word \"accomplishment\" in the following question: What stadium does the club whose greatest accomplishment is its back-to-back Copa Per\u00fa championships play in ?",
             "output": [
                 "NN"
             ]
@@ -33185,7 +33185,7 @@
         },
         {
             "id": "task382-f21daf16547c46af8547dcbc7e7bf3d3",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Who were the stars of the 1955 film directed by René Clair ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Who were the stars of the 1955 film directed by Ren\u00e9 Clair ?",
             "output": [
                 "IN"
             ]
@@ -33290,7 +33290,7 @@
         },
         {
             "id": "task382-ecfee7a52488418d9e5b829ad08e6e88",
-            "input": "What is the part-of-speech tag of the word \"that\" in the following question: What Structure is in the Prefecture that has a geographic area of 4,017 km² ?",
+            "input": "What is the part-of-speech tag of the word \"that\" in the following question: What Structure is in the Prefecture that has a geographic area of 4,017 km\u00b2 ?",
             "output": [
                 "WDT"
             ]
@@ -33395,7 +33395,7 @@
         },
         {
             "id": "task382-04d79481ddfe4b27ab816853d32eed6d",
-            "input": "What is the part-of-speech tag of the word \"region\" in the following question: What is between Anatolia and the European region of the home country of Tuğba Karakaya-Koyuncu ?",
+            "input": "What is the part-of-speech tag of the word \"region\" in the following question: What is between Anatolia and the European region of the home country of Tu\u011fba Karakaya-Koyuncu ?",
             "output": [
                 "NN"
             ]
@@ -33444,7 +33444,7 @@
         },
         {
             "id": "task382-ae9b3fd68f8c42e4b04c5c01c089ab66",
-            "input": "What is the part-of-speech tag of the word \"for\" in the following question: Who wrote the film directed by Jan Svěrák submitted to the 69th Academy Awards for Best Foreign Language Film ?",
+            "input": "What is the part-of-speech tag of the word \"for\" in the following question: Who wrote the film directed by Jan Sv\u011br\u00e1k submitted to the 69th Academy Awards for Best Foreign Language Film ?",
             "output": [
                 "IN"
             ]
@@ -33661,7 +33661,7 @@
         },
         {
             "id": "task382-e9d58b3aac3f49b0923a2d232b1d1698",
-            "input": "What is the part-of-speech tag of the word \"Néill\" in the following question: What is the date of creation linked to the surname that successfully fought off encroachments by the Uí Néill ?",
+            "input": "What is the part-of-speech tag of the word \"N\u00e9ill\" in the following question: What is the date of creation linked to the surname that successfully fought off encroachments by the U\u00ed N\u00e9ill ?",
             "output": [
                 "NNP"
             ]
@@ -34011,7 +34011,7 @@
         },
         {
             "id": "task382-b67952676ef7436cadd77aab2c935eb4",
-            "input": "What is the part-of-speech tag of the word \"Jones\" in the following question: What role did Suranne Jones play in the performace to feature a séance ?",
+            "input": "What is the part-of-speech tag of the word \"Jones\" in the following question: What role did Suranne Jones play in the performace to feature a s\u00e9ance ?",
             "output": [
                 "NNP"
             ]
@@ -34193,7 +34193,7 @@
         },
         {
             "id": "task382-a1e9beaebeb44abaa8aaac543483de6a",
-            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the capacity of the stadium located in the capital of the state of Paraíba ?",
+            "input": "What is the part-of-speech tag of the word \"in\" in the following question: What is the capacity of the stadium located in the capital of the state of Para\u00edba ?",
             "output": [
                 "IN"
             ]
@@ -34291,7 +34291,7 @@
         },
         {
             "id": "task382-ff70516e41b64b28ab5af612353e21be",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the age of the figurine whose location 's largest city and historical capital is Wrocław ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the age of the figurine whose location 's largest city and historical capital is Wroc\u0142aw ?",
             "output": [
                 "IN"
             ]
@@ -34438,7 +34438,7 @@
         },
         {
             "id": "task382-63debee150d040b1ab32f9599b4460da",
-            "input": "What is the part-of-speech tag of the word \"did\" in the following question: What year did the director of Varieté die ?",
+            "input": "What is the part-of-speech tag of the word \"did\" in the following question: What year did the director of Variet\u00e9 die ?",
             "output": [
                 "VBD"
             ]
@@ -34648,7 +34648,7 @@
         },
         {
             "id": "task382-fd1edf6dc8624a3c96d2d71d7807460c",
-            "input": "What is the part-of-speech tag of the word \"was\" in the following question: At which Olympics did this national basketball team first compete , that also participates in the European Basketball Championship and last appeared during the year when Peja Stojaković was the MVP ?",
+            "input": "What is the part-of-speech tag of the word \"was\" in the following question: At which Olympics did this national basketball team first compete , that also participates in the European Basketball Championship and last appeared during the year when Peja Stojakovi\u0107 was the MVP ?",
             "output": [
                 "VBD"
             ]
@@ -34788,7 +34788,7 @@
         },
         {
             "id": "task382-d334204d20764b27ab5ad127d9c17bea",
-            "input": "What is the part-of-speech tag of the word \"based\" in the following question: How many volumes were published of the title that is based on a dōjinshi Clamp wrote , but decided to add dark social themes in the serialization as a result of the chapters ' length ?",
+            "input": "What is the part-of-speech tag of the word \"based\" in the following question: How many volumes were published of the title that is based on a d\u014djinshi Clamp wrote , but decided to add dark social themes in the serialization as a result of the chapters ' length ?",
             "output": [
                 "VBN"
             ]
@@ -34809,7 +34809,7 @@
         },
         {
             "id": "task382-5030f4e066b64d52ae8c18a42e5f5b8f",
-            "input": "What is the part-of-speech tag of the word \"pool\" in the following question: How far away from Reykjavík is the location whose stadium has a gym , swimming pool , and football field ?",
+            "input": "What is the part-of-speech tag of the word \"pool\" in the following question: How far away from Reykjav\u00edk is the location whose stadium has a gym , swimming pool , and football field ?",
             "output": [
                 "NN"
             ]
@@ -35089,7 +35089,7 @@
         },
         {
             "id": "task382-3284580e784e4713ab9cd02955367f59",
-            "input": "What is the part-of-speech tag of the word \"gymnast\" in the following question: On which peninsula is the country that the gymnast from Lérida situated ?",
+            "input": "What is the part-of-speech tag of the word \"gymnast\" in the following question: On which peninsula is the country that the gymnast from L\u00e9rida situated ?",
             "output": [
                 "NN"
             ]
@@ -35152,7 +35152,7 @@
         },
         {
             "id": "task382-9e3ece04a2914194868c5fa3b9dccb51",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the city of the team whose stadium was named after José do Rego Maciel ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What is the city of the team whose stadium was named after Jos\u00e9 do Rego Maciel ?",
             "output": [
                 "DT"
             ]
@@ -35194,14 +35194,14 @@
         },
         {
             "id": "task382-96022e68d03e4d1c8e6bd7d048ae9afd",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Alejandro Muñoz Moreno 's adopted son was the first Mexican wrestler to win what ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: Alejandro Mu\u00f1oz Moreno 's adopted son was the first Mexican wrestler to win what ?",
             "output": [
                 "DT"
             ]
         },
         {
             "id": "task382-b5d61c2fc2d84d1ea5f845aac74d0611",
-            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What lead to the retirement of the team captain associated at the 2009 Tippeligaen with the team sponsored by Lyse Energi and managed by the current manager of Fortuna Düsseldorf ?",
+            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What lead to the retirement of the team captain associated at the 2009 Tippeligaen with the team sponsored by Lyse Energi and managed by the current manager of Fortuna D\u00fcsseldorf ?",
             "output": [
                 "WP"
             ]
@@ -35509,7 +35509,7 @@
         },
         {
             "id": "task382-d9ca86bf42694ad2a54f7f589e7bfbab",
-            "input": "What is the part-of-speech tag of the word \"are\" in the following question: How many people for every squared kilometer are there in the city where the Shujō Oni Festival takes place ?",
+            "input": "What is the part-of-speech tag of the word \"are\" in the following question: How many people for every squared kilometer are there in the city where the Shuj\u014d Oni Festival takes place ?",
             "output": [
                 "VBP"
             ]
@@ -35537,7 +35537,7 @@
         },
         {
             "id": "task382-5260f259d7604da79b35d03a2148398c",
-            "input": "What is the part-of-speech tag of the word \"to\" in the following question: What is the capital of the country with a population density comparable to the Chilean region of Los Ríos ?",
+            "input": "What is the part-of-speech tag of the word \"to\" in the following question: What is the capital of the country with a population density comparable to the Chilean region of Los R\u00edos ?",
             "output": [
                 "TO"
             ]
@@ -35558,7 +35558,7 @@
         },
         {
             "id": "task382-d78cd02448b74cd2a0d39234d9e707f8",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the event of the athlete who won a world title with his sons Björn and Johan in 1975 ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the event of the athlete who won a world title with his sons Bj\u00f6rn and Johan in 1975 ?",
             "output": [
                 "VBZ"
             ]
@@ -35789,7 +35789,7 @@
         },
         {
             "id": "task382-693abd1c2a7e4d4f8adccc1b969af138",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Which municipality surrounds the city in Canada with an average July daily high of 24 °C ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: Which municipality surrounds the city in Canada with an average July daily high of 24 \u00b0C ?",
             "output": [
                 "IN"
             ]
@@ -35908,7 +35908,7 @@
         },
         {
             "id": "task382-6dfd9f7bb72b462db72b78a9ae8e7e24",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the site of the municipality whose total area is 246.73 km² ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the site of the municipality whose total area is 246.73 km\u00b2 ?",
             "output": [
                 "VBZ"
             ]
@@ -36734,7 +36734,7 @@
         },
         {
             "id": "task382-a5b00d754bcc4174bef41ba13c21bf54",
-            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which county is home to the range located at 44°02′23″N 114°35′07″W / 44.0396°N 114.5853°W ?",
+            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which county is home to the range located at 44\u00b002\u203223\u2033N 114\u00b035\u203207\u2033W / 44.0396\u00b0N 114.5853\u00b0W ?",
             "output": [
                 "JJ"
             ]
@@ -36874,7 +36874,7 @@
         },
         {
             "id": "task382-3a09c7613d74493781bd8f102a3c1573",
-            "input": "What is the part-of-speech tag of the word \"Atlético\" in the following question: What metropolitan region is the city where Atlético Sorocaba plays located ?",
+            "input": "What is the part-of-speech tag of the word \"Atl\u00e9tico\" in the following question: What metropolitan region is the city where Atl\u00e9tico Sorocaba plays located ?",
             "output": [
                 "NNP"
             ]
@@ -37014,7 +37014,7 @@
         },
         {
             "id": "task382-4e25271472cf42d5b21769dc3dc1c71d",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: How many miles north of Darłowo is the station that has the capacity of 18 MWe ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: How many miles north of Dar\u0142owo is the station that has the capacity of 18 MWe ?",
             "output": [
                 "IN"
             ]
@@ -37084,7 +37084,7 @@
         },
         {
             "id": "task382-3deee65711dc48b2b00764254d3af6fa",
-            "input": "What is the part-of-speech tag of the word \"location\" in the following question: What type of establishment was the historic house that is located at the corner of Sheldon Avenue in a city that is on the Keweenaw Peninsula and that has a location code beginning 47°07′19″N 88°34′01″W ?",
+            "input": "What is the part-of-speech tag of the word \"location\" in the following question: What type of establishment was the historic house that is located at the corner of Sheldon Avenue in a city that is on the Keweenaw Peninsula and that has a location code beginning 47\u00b007\u203219\u2033N 88\u00b034\u203201\u2033W ?",
             "output": [
                 "NN"
             ]
@@ -37336,7 +37336,7 @@
         },
         {
             "id": "task382-ac2dd77ca6894f61b16f0a748f3b24a4",
-            "input": "What is the part-of-speech tag of the word \"Award\" in the following question: What year did the writer get inducted into the Will Eisner Award Hall of Fame who created a manga series that was published in Square Enix 's magazine Monthly Shōnen Gangan ?",
+            "input": "What is the part-of-speech tag of the word \"Award\" in the following question: What year did the writer get inducted into the Will Eisner Award Hall of Fame who created a manga series that was published in Square Enix 's magazine Monthly Sh\u014dnen Gangan ?",
             "output": [
                 "NNP"
             ]
@@ -37357,7 +37357,7 @@
         },
         {
             "id": "task382-fc38f3ca05bc44aa9c0f0200a014cef3",
-            "input": "What is the part-of-speech tag of the word \"29°59′53″N\" in the following question: What brand of product is produced at 29°59′53″N 91°48′40″W ?",
+            "input": "What is the part-of-speech tag of the word \"29\u00b059\u203253\u2033N\" in the following question: What brand of product is produced at 29\u00b059\u203253\u2033N 91\u00b048\u203240\u2033W ?",
             "output": [
                 "CD"
             ]
@@ -37441,7 +37441,7 @@
         },
         {
             "id": "task382-97b5ba15083b45f8a87831304b08299b",
-            "input": "What is the part-of-speech tag of the word \"a\" in the following question: How many kilometres south of Downtown Halifax is a community noted for a ship whose nation 's king is Harald V of the House of Glücksburg ?",
+            "input": "What is the part-of-speech tag of the word \"a\" in the following question: How many kilometres south of Downtown Halifax is a community noted for a ship whose nation 's king is Harald V of the House of Gl\u00fccksburg ?",
             "output": [
                 "DT"
             ]
@@ -37469,7 +37469,7 @@
         },
         {
             "id": "task382-c5d616cbf15f472dbf3d3f14a3d874fb",
-            "input": "What is the part-of-speech tag of the word \"by\" in the following question: What South American territory is held by the country that plays Must Love Kids on the Métropole Television channel ?",
+            "input": "What is the part-of-speech tag of the word \"by\" in the following question: What South American territory is held by the country that plays Must Love Kids on the M\u00e9tropole Television channel ?",
             "output": [
                 "IN"
             ]
@@ -37787,13 +37787,6 @@
             "input": "What is the part-of-speech tag of the word \"was\" in the following question: The artist from Carol City , Florida collaborated with which American singer on his lead single , which was released to radio on January 27 , 2009 ?",
             "output": [
                 "VBD"
-            ]
-        },
-        {
-            "id": "task382-ddc8964055ec47deb3c5a2f8144d7529",
-            "input": "What is the part-of-speech tag of the word \"Commonwealth\" in the following question: On what date was Vladimir Horowitz 's version of the the royal anthem in a number of Commonwealth realms , their territories , and the British Crown dependencies recorded ?",
-            "output": [
-                "NNP"
             ]
         },
         {
@@ -38302,7 +38295,7 @@
         },
         {
             "id": "task382-bd8a63d1e85c44888bccd9533a2ac6db",
-            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which pass is closer to Niğde ?",
+            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which pass is closer to Ni\u011fde ?",
             "output": [
                 "JJ"
             ]
@@ -38428,7 +38421,7 @@
         },
         {
             "id": "task382-53a08081ad4d44839d7bba35657bf9d6",
-            "input": "What is the part-of-speech tag of the word \"Paulo\" in the following question: Which central midfielder is from the country who 's most populous city is São Paulo ?",
+            "input": "What is the part-of-speech tag of the word \"Paulo\" in the following question: Which central midfielder is from the country who 's most populous city is S\u00e3o Paulo ?",
             "output": [
                 "NNP"
             ]
@@ -38624,7 +38617,7 @@
         },
         {
             "id": "task382-fc42b1c32e6a458da6b8e54c33df361a",
-            "input": "What is the part-of-speech tag of the word \"that\" in the following question: In 2011 , how many women were estimated to live in the village located on Chiburijima in the Dōzen group of islands that is the location of a type 8 natural monument ?",
+            "input": "What is the part-of-speech tag of the word \"that\" in the following question: In 2011 , how many women were estimated to live in the village located on Chiburijima in the D\u014dzen group of islands that is the location of a type 8 natural monument ?",
             "output": [
                 "WDT"
             ]
@@ -38841,7 +38834,7 @@
         },
         {
             "id": "task382-8ace246eb60d4a24bea1785be6bb029a",
-            "input": "What is the part-of-speech tag of the word \"recorded\" in the following question: Which company bought this record label that recorded the works of this composer who was once engaged to Maria Wodzińska ?",
+            "input": "What is the part-of-speech tag of the word \"recorded\" in the following question: Which company bought this record label that recorded the works of this composer who was once engaged to Maria Wodzi\u0144ska ?",
             "output": [
                 "VBD"
             ]
@@ -38862,7 +38855,7 @@
         },
         {
             "id": "task382-471f0e9ce2f040a4a0b5a6ed1b2f0845",
-            "input": "What is the part-of-speech tag of the word \"style\" in the following question: What style architecture can be found at the place at 85°22′00″W ?",
+            "input": "What is the part-of-speech tag of the word \"style\" in the following question: What style architecture can be found at the place at 85\u00b022\u203200\u2033W ?",
             "output": [
                 "NN"
             ]
@@ -39051,7 +39044,7 @@
         },
         {
             "id": "task382-15371c6d8ecf46d9959c93928097cfbd",
-            "input": "What is the part-of-speech tag of the word \"number\" in the following question: What are the number of points scored by the player born in Castelo Espírito Santo ?",
+            "input": "What is the part-of-speech tag of the word \"number\" in the following question: What are the number of points scored by the player born in Castelo Esp\u00edrito Santo ?",
             "output": [
                 "NN"
             ]
@@ -39128,7 +39121,7 @@
         },
         {
             "id": "task382-0fbe65a4c65149a296779aad77d64768",
-            "input": "What is the part-of-speech tag of the word \"Ramírez\" in the following question: When was the last episode of the telenovela in which Daniela Romo played Margarita Insunza de Ramírez in 2001 broadcast ?",
+            "input": "What is the part-of-speech tag of the word \"Ram\u00edrez\" in the following question: When was the last episode of the telenovela in which Daniela Romo played Margarita Insunza de Ram\u00edrez in 2001 broadcast ?",
             "output": [
                 "NNP"
             ]
@@ -39247,7 +39240,7 @@
         },
         {
             "id": "task382-637b9d95547c4af4a9a6a49f20e1b8cd",
-            "input": "What is the part-of-speech tag of the word \"town\" in the following question: What is the total area of the largest town or city in km² ?",
+            "input": "What is the part-of-speech tag of the word \"town\" in the following question: What is the total area of the largest town or city in km\u00b2 ?",
             "output": [
                 "NN"
             ]
@@ -39576,7 +39569,7 @@
         },
         {
             "id": "task382-27969380ffa54d1da827cfdd88e21158",
-            "input": "What is the part-of-speech tag of the word \"In\" in the following question: In a period of Japanese history from 1573 to 1600 CE , a Buddhist compound was built in the city of Ōtsu in Shiga Prefecture , located at the foot of what mount ?",
+            "input": "What is the part-of-speech tag of the word \"In\" in the following question: In a period of Japanese history from 1573 to 1600 CE , a Buddhist compound was built in the city of \u014ctsu in Shiga Prefecture , located at the foot of what mount ?",
             "output": [
                 "IN"
             ]
@@ -39674,7 +39667,7 @@
         },
         {
             "id": "task382-1cdfafb747404e7cbcfd60ac1537716b",
-            "input": "What is the part-of-speech tag of the word \"Bình\" in the following question: In what league does the team managed by Trần Bình Sự play in ?",
+            "input": "What is the part-of-speech tag of the word \"B\u00ecnh\" in the following question: In what league does the team managed by Tr\u1ea7n B\u00ecnh S\u1ef1 play in ?",
             "output": [
                 "NNP"
             ]
@@ -39716,7 +39709,7 @@
         },
         {
             "id": "task382-d62174ba7a2c478798ef927d9326459e",
-            "input": "What is the part-of-speech tag of the word \"Legrotaglie\" in the following question: What was the 2010 population of the city that is home to Víctor Legrotaglie stadium ?",
+            "input": "What is the part-of-speech tag of the word \"Legrotaglie\" in the following question: What was the 2010 population of the city that is home to V\u00edctor Legrotaglie stadium ?",
             "output": [
                 "NNP"
             ]
@@ -39751,7 +39744,7 @@
         },
         {
             "id": "task382-5fa99d811a5842ca90ae75252f57ac52",
-            "input": "What is the part-of-speech tag of the word \"did\" in the following question: How many times did a team from Sauðárkrók win first place ?",
+            "input": "What is the part-of-speech tag of the word \"did\" in the following question: How many times did a team from Sau\u00f0\u00e1rkr\u00f3k win first place ?",
             "output": [
                 "VBD"
             ]
@@ -39877,7 +39870,7 @@
         },
         {
             "id": "task382-c024e4b918644d42a8eb8f6b3bc2f4ca",
-            "input": "What is the part-of-speech tag of the word \"events\" in the following question: The Bogenschießanlage venue hosted a sport with how many events ?",
+            "input": "What is the part-of-speech tag of the word \"events\" in the following question: The Bogenschie\u00dfanlage venue hosted a sport with how many events ?",
             "output": [
                 "NNS"
             ]
@@ -40192,7 +40185,7 @@
         },
         {
             "id": "task382-1f1f30aa00054258890aed99cff48bf7",
-            "input": "What is the part-of-speech tag of the word \"are\" in the following question: How many time zones are in the home country of René Jourdan ?",
+            "input": "What is the part-of-speech tag of the word \"are\" in the following question: How many time zones are in the home country of Ren\u00e9 Jourdan ?",
             "output": [
                 "VBP"
             ]
@@ -40241,7 +40234,7 @@
         },
         {
             "id": "task382-5a8efc2ac0dd4292b90c9901e63c80b9",
-            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which section of Kızılay contains the mosque in Ankara constructed 1987 ?",
+            "input": "What is the part-of-speech tag of the word \"Which\" in the following question: Which section of K\u0131z\u0131lay contains the mosque in Ankara constructed 1987 ?",
             "output": [
                 "JJ"
             ]
@@ -40430,7 +40423,7 @@
         },
         {
             "id": "task382-74fe09646dac4a49b175e0bc20a82662",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What was the middle name of the English entertainer and comedian whose well known catchphrase first appeared in 1967 on the show based on the German TV show Der goldene Schuß ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What was the middle name of the English entertainer and comedian whose well known catchphrase first appeared in 1967 on the show based on the German TV show Der goldene Schu\u00df ?",
             "output": [
                 "DT"
             ]
@@ -40759,7 +40752,7 @@
         },
         {
             "id": "task382-15ea781231bf434286a439c8a6568985",
-            "input": "What is the part-of-speech tag of the word \",\" in the following question: What old province of japan once called Hishū , is located in a region that include 1 village , 2 towns and 1 city in the Kumamoto Prefecture , Japan ?",
+            "input": "What is the part-of-speech tag of the word \",\" in the following question: What old province of japan once called Hish\u016b , is located in a region that include 1 village , 2 towns and 1 city in the Kumamoto Prefecture , Japan ?",
             "output": [
                 ","
             ]
@@ -42341,7 +42334,7 @@
         },
         {
             "id": "task382-3d5d2d0b80a84c86aea1dd32b8ce8aac",
-            "input": "What is the part-of-speech tag of the word \"Egilsstaðir\" in the following question: How many times did a team from Egilsstaðir win first place ?",
+            "input": "What is the part-of-speech tag of the word \"Egilssta\u00f0ir\" in the following question: How many times did a team from Egilssta\u00f0ir win first place ?",
             "output": [
                 "NNP"
             ]
@@ -42516,7 +42509,7 @@
         },
         {
             "id": "task382-bc6f1225bfdf404b89ca87e921a7698a",
-            "input": "What is the part-of-speech tag of the word \"by\" in the following question: What was the 1961 movie by the person who directed L'Amour à mort ?",
+            "input": "What is the part-of-speech tag of the word \"by\" in the following question: What was the 1961 movie by the person who directed L'Amour \u00e0 mort ?",
             "output": [
                 "IN"
             ]
@@ -42810,7 +42803,7 @@
         },
         {
             "id": "task382-534e4e6a392c41c18df1318307443e0f",
-            "input": "What is the part-of-speech tag of the word \":\" in the following question: What is the capital of the country with these three clubs : Bolívar , Jorge Wilstermann , Oriente Petrolero ?",
+            "input": "What is the part-of-speech tag of the word \":\" in the following question: What is the capital of the country with these three clubs : Bol\u00edvar , Jorge Wilstermann , Oriente Petrolero ?",
             "output": [
                 ":"
             ]
@@ -42845,7 +42838,7 @@
         },
         {
             "id": "task382-ec0d2937c41c43ec90c142813dfaae37",
-            "input": "What is the part-of-speech tag of the word \"who\" in the following question: In what league division does the team play who has had their current season in top flight from 1989 - and has a hometown with a population density of 4890 persons per km² ?",
+            "input": "What is the part-of-speech tag of the word \"who\" in the following question: In what league division does the team play who has had their current season in top flight from 1989 - and has a hometown with a population density of 4890 persons per km\u00b2 ?",
             "output": [
                 "WP"
             ]
@@ -43559,7 +43552,7 @@
         },
         {
             "id": "task382-6d1b777ca8894ea68963cd80844565d9",
-            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What is the capacity of the stadium of the team coached by Marcin Ćwikła ?",
+            "input": "What is the part-of-speech tag of the word \"What\" in the following question: What is the capacity of the stadium of the team coached by Marcin \u0106wik\u0142a ?",
             "output": [
                 "WP"
             ]
@@ -43874,7 +43867,7 @@
         },
         {
             "id": "task382-b29b3c4137004b46bccc139d81575ba2",
-            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What are the notes of the territory that was part of province of Cádiz until 14 March 1995 ?",
+            "input": "What is the part-of-speech tag of the word \"the\" in the following question: What are the notes of the territory that was part of province of C\u00e1diz until 14 March 1995 ?",
             "output": [
                 "DT"
             ]
@@ -44392,7 +44385,7 @@
         },
         {
             "id": "task382-02bba5a77caa444db0f60cc19d853a04",
-            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the area that influenced music performed by Eishō Koshino called in English ?",
+            "input": "What is the part-of-speech tag of the word \"is\" in the following question: What is the area that influenced music performed by Eish\u014d Koshino called in English ?",
             "output": [
                 "VBZ"
             ]
@@ -44658,7 +44651,7 @@
         },
         {
             "id": "task382-6d9545153b444a00bded42c0361b9215",
-            "input": "What is the part-of-speech tag of the word \"at\" in the following question: How many Olympics has the youngest member of the Men 's 4 × 200 m Freestyle Relay team competed at ?",
+            "input": "What is the part-of-speech tag of the word \"at\" in the following question: How many Olympics has the youngest member of the Men 's 4 \u00d7 200 m Freestyle Relay team competed at ?",
             "output": [
                 "IN"
             ]
@@ -45148,7 +45141,7 @@
         },
         {
             "id": "task382-2827dd28d88447d084f098d60b5cb1ea",
-            "input": "What is the part-of-speech tag of the word \"Ambiciosas\" in the following question: What is the notability of the celebrity who had a role as Paola in the erotic TV series Bellas y Ambiciosas in 2006 with Raúl Olivo ?",
+            "input": "What is the part-of-speech tag of the word \"Ambiciosas\" in the following question: What is the notability of the celebrity who had a role as Paola in the erotic TV series Bellas y Ambiciosas in 2006 with Ra\u00fal Olivo ?",
             "output": [
                 "NNP"
             ]
@@ -45365,7 +45358,7 @@
         },
         {
             "id": "task382-207d31f7c88c4e59a30d7ff82364d601",
-            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the vehicle registration code for the political district that borders Bavaria in the north and the districts of Kufstein , Kitzbühel and Pinzgau in the east ?",
+            "input": "What is the part-of-speech tag of the word \"of\" in the following question: What is the vehicle registration code for the political district that borders Bavaria in the north and the districts of Kufstein , Kitzb\u00fchel and Pinzgau in the east ?",
             "output": [
                 "IN"
             ]

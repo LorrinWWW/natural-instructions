@@ -446,7 +446,7 @@
         },
         {
             "id": "task345-d7a31890d8bc493e91d398c54e977971",
-            "input": "During what dynasty did the writer live whose given name was Cáo Zhān and whose best-selling book was published at the end of the 18th century ?",
+            "input": "During what dynasty did the writer live whose given name was C\u00e1o Zh\u0101n and whose best-selling book was published at the end of the 18th century ?",
             "output": [
                 "IN WP NN VBD DT NN VBP WP$ VBN NN VBD NNP NNP CC WP$ JJ NN VBD VBN IN DT NN IN DT JJ NN ."
             ]
@@ -754,7 +754,7 @@
         },
         {
             "id": "task345-6335b6c3a18444e68ecfab2e1fcfe1b0",
-            "input": "The candidate who has Métis descent ran for election in which riding ?",
+            "input": "The candidate who has M\u00e9tis descent ran for election in which riding ?",
             "output": [
                 "DT NN WP VBZ NNP NN VBD IN NN IN WDT VBG ."
             ]
@@ -768,7 +768,7 @@
         },
         {
             "id": "task345-45fe772eac1548f5b5749f99f9ffec11",
-            "input": "Which empire conquered the home country of Anastasía Karakatsáni 2200 years ago ?",
+            "input": "Which empire conquered the home country of Anastas\u00eda Karakats\u00e1ni 2200 years ago ?",
             "output": [
                 "NNP NN VBD DT NN NN IN NNP NNP CD NNS RB ."
             ]
@@ -1755,7 +1755,7 @@
         },
         {
             "id": "task345-8b5edf79036f47b1a57b9457fd409ca9",
-            "input": "Th residence that came under ownership of the Hungarian Esterházy family in 1622 is in what Location ?",
+            "input": "Th residence that came under ownership of the Hungarian Esterh\u00e1zy family in 1622 is in what Location ?",
             "output": [
                 "NNP NN WDT VBD IN NN IN DT NNP NNP NN IN CD VBZ IN WP NNP ."
             ]
@@ -2182,7 +2182,7 @@
         },
         {
             "id": "task345-f49d331250eb41ce8069f942770e52f6",
-            "input": "How many seasons did the player with a fee of £4.7 million play ?",
+            "input": "How many seasons did the player with a fee of \u00a34.7 million play ?",
             "output": [
                 "WRB JJ NNS VBD DT NN IN DT NN IN NNP CD NN ."
             ]
@@ -2231,7 +2231,7 @@
         },
         {
             "id": "task345-359c81efed66494aa926e27117492363",
-            "input": "What is the population density for the town of Sakai , the location of Nitta Yoshisada , Public Grave in km² ?",
+            "input": "What is the population density for the town of Sakai , the location of Nitta Yoshisada , Public Grave in km\u00b2 ?",
             "output": [
                 "WP VBZ DT NN NN IN DT NN IN NNP , DT NN IN NNP NNP , NNP NNP IN NN ."
             ]
@@ -2371,7 +2371,7 @@
         },
         {
             "id": "task345-6d3f735ed1f4494a9c4fa21ce4da38d2",
-            "input": "Which album was by the artist known for playing Zoë Rivas in the teen drama Degrassi : Next Class ?",
+            "input": "Which album was by the artist known for playing Zo\u00eb Rivas in the teen drama Degrassi : Next Class ?",
             "output": [
                 "JJ NN VBD IN DT NN VBN IN VBG NNP NNP IN DT JJ NN NNP : JJ NN ."
             ]
@@ -2567,7 +2567,7 @@
         },
         {
             "id": "task345-1dd67ce8102f4582bcf025d91a656315",
-            "input": "What is the name of the significant archeological site that lies approximately 30km from the city that had a 2007 population of 136,221 and is the capital of the province named in honour of José Faustino Sánchez Carrión ?",
+            "input": "What is the name of the significant archeological site that lies approximately 30km from the city that had a 2007 population of 136,221 and is the capital of the province named in honour of Jos\u00e9 Faustino S\u00e1nchez Carri\u00f3n ?",
             "output": [
                 "WP VBZ DT NN IN DT JJ JJ NN WDT VBZ RB CD IN DT NN WDT VBD DT CD NN IN CD CC VBZ DT NN IN DT NN VBN IN NN IN NNP NNP NNP NNP ."
             ]
@@ -2987,14 +2987,14 @@
         },
         {
             "id": "task345-45f1d267e88b4608875b3c87006c756d",
-            "input": "When was the boat commanded by the oldest korvettenkapitän launched ?",
+            "input": "When was the boat commanded by the oldest korvettenkapit\u00e4n launched ?",
             "output": [
                 "WRB VBD DT NN VBN IN DT JJS NN VBN ."
             ]
         },
         {
             "id": "task345-319ef20dfd464fb5b968920e14f7abe7",
-            "input": "What is the location of the island whose highest point is Kunilamägi ?",
+            "input": "What is the location of the island whose highest point is Kunilam\u00e4gi ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ JJS NN VBZ NNP ."
             ]
@@ -3218,7 +3218,7 @@
         },
         {
             "id": "task345-acaa86ef58994dfe93efddcb6d37f640",
-            "input": "What is the birth date of this Yugoslavian Jewish child actress who died at this complex with the main part in Oświęcim ?",
+            "input": "What is the birth date of this Yugoslavian Jewish child actress who died at this complex with the main part in O\u015bwi\u0119cim ?",
             "output": [
                 "WP VBZ DT NN NN IN DT JJ NNP NN NN WP VBD IN DT JJ IN DT JJ NN IN NNP ."
             ]
@@ -3365,7 +3365,7 @@
         },
         {
             "id": "task345-8c7844d674b64f2d8cb3d230263cdf5a",
-            "input": "What is the capacity of the stadium of the Liga MX team nicknamed Las Águilas ( The Eagles ) ?",
+            "input": "What is the capacity of the stadium of the Liga MX team nicknamed Las \u00c1guilas ( The Eagles ) ?",
             "output": [
                 "WP VBZ DT NN IN DT NN IN DT NNP NNP NN VBD NNP NNP ( DT NNPS ) ."
             ]
@@ -3435,7 +3435,7 @@
         },
         {
             "id": "task345-4ac5bb131d3e49cd9833f1164600c0a7",
-            "input": "What is the name of the athlete who won gold at an event held in Estádio Olímpico João Havelange ?",
+            "input": "What is the name of the athlete who won gold at an event held in Est\u00e1dio Ol\u00edmpico Jo\u00e3o Havelange ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP VBD NN IN DT NN VBD IN NNP NNP NNP NNP ."
             ]
@@ -3547,7 +3547,7 @@
         },
         {
             "id": "task345-faa28ce22928414dabb4d34e7c5d0a57",
-            "input": "The club that formed in 1948 as a merger of the clubs Kölner Ballspiel-Club 1901 and SpVgg Sülz 07 has how many championships ?",
+            "input": "The club that formed in 1948 as a merger of the clubs K\u00f6lner Ballspiel-Club 1901 and SpVgg S\u00fclz 07 has how many championships ?",
             "output": [
                 "DT NN WDT VBD IN CD IN DT NN IN DT JJ NNP NNP CD CC NNP NNP CD VBZ WRB JJ NNS ."
             ]
@@ -3568,7 +3568,7 @@
         },
         {
             "id": "task345-1af911954b6448ee915cbe1d12552a26",
-            "input": "Which drama has a cast member whose name at birth was José María Sacristán Turiégano ?",
+            "input": "Which drama has a cast member whose name at birth was Jos\u00e9 Mar\u00eda Sacrist\u00e1n Turi\u00e9gano ?",
             "output": [
                 "JJ NN VBZ DT JJ NN WP$ NN IN NN VBD NNP NNP NNP NNP ."
             ]
@@ -3687,7 +3687,7 @@
         },
         {
             "id": "task345-6285ab0cdb864437ab98717a766a6b52",
-            "input": "The temple founded by Prince Shōtoku is dated to when ?",
+            "input": "The temple founded by Prince Sh\u014dtoku is dated to when ?",
             "output": [
                 "DT NN VBN IN NNP NNP VBZ VBN TO WRB ."
             ]
@@ -3701,7 +3701,7 @@
         },
         {
             "id": "task345-724663b004004a94a2e67114322222dd",
-            "input": "Which city is the church that is 24 m × 42 m in plan located in ?",
+            "input": "Which city is the church that is 24 m \u00d7 42 m in plan located in ?",
             "output": [
                 "JJ NN VBZ DT NN WDT VBZ CD NN VBD CD NNS IN NN VBN IN ."
             ]
@@ -3827,7 +3827,7 @@
         },
         {
             "id": "task345-1b42a1cf17d648f1aada6a69a5ccf2a7",
-            "input": "What is the record of the statistic that is usually denoted by a ꓘ ?",
+            "input": "What is the record of the statistic that is usually denoted by a \ua4d8 ?",
             "output": [
                 "WP VBZ DT NN IN DT JJ WDT VBZ RB VBN IN DT NN ."
             ]
@@ -4107,7 +4107,7 @@
         },
         {
             "id": "task345-4cd6427fa7854fdd97099d9bf78eb4b4",
-            "input": "Who is the player of the club that became the first sports team with average first-team pay in excess of £10m ( $ 13.8m ) per year ?",
+            "input": "Who is the player of the club that became the first sports team with average first-team pay in excess of \u00a310m ( $ 13.8m ) per year ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WDT VBD DT JJ NNS NN IN JJ JJ NN IN NN IN NNP ( $ CD ) IN NN ."
             ]
@@ -4163,7 +4163,7 @@
         },
         {
             "id": "task345-d1e538558f9d4bb2944bffff6f2c27f1",
-            "input": "What empire was defeated in 1071 by the home country of Türkan Özata-Erişmiş ?",
+            "input": "What empire was defeated in 1071 by the home country of T\u00fcrkan \u00d6zata-Eri\u015fmi\u015f ?",
             "output": [
                 "WP NN VBD VBN IN CD IN DT NN NN IN NNP NN ."
             ]
@@ -4975,7 +4975,7 @@
         },
         {
             "id": "task345-e1ad95bedc5c4be39653031c817b08ca",
-            "input": "The kit maker for 2009 Tippeligaen 's Bodø/Glimt has is present in what South American country ?",
+            "input": "The kit maker for 2009 Tippeligaen 's Bod\u00f8/Glimt has is present in what South American country ?",
             "output": [
                 "DT NN NN IN CD NNP POS NNP VBZ VBZ JJ IN WP NNP JJ NN ."
             ]
@@ -5199,7 +5199,7 @@
         },
         {
             "id": "task345-255ba4bd2338426dbe2b4fd2449adc3f",
-            "input": "What are the costs and usage limits of the firewall that Nicolas Stark and Ann-Christine Åkerlund established in Germany in 1999 ?",
+            "input": "What are the costs and usage limits of the firewall that Nicolas Stark and Ann-Christine \u00c5kerlund established in Germany in 1999 ?",
             "output": [
                 "WP VBP DT NNS CC JJ NNS IN DT NN WDT NNP NNP CC NNP NNP VBD IN NNP IN CD ."
             ]
@@ -5346,7 +5346,7 @@
         },
         {
             "id": "task345-b0cf36beba774fb18104f833d4c49791",
-            "input": "Which two towns in Yamato District merged where the residence of the tanka poet active during the Taishō and Shōwa periods is located ?",
+            "input": "Which two towns in Yamato District merged where the residence of the tanka poet active during the Taish\u014d and Sh\u014dwa periods is located ?",
             "output": [
                 "WDT CD NNS IN NNP NNP VBD WRB DT NN IN DT NN NN JJ IN DT NNP CC NNP NNS VBZ VBN ."
             ]
@@ -5395,7 +5395,7 @@
         },
         {
             "id": "task345-abd3b4bdf29b41ddad19be10c8091231",
-            "input": "The base that shares facilities with Florianópolis-Hercílio Luz International Airport is located in which state ?",
+            "input": "The base that shares facilities with Florian\u00f3polis-Herc\u00edlio Luz International Airport is located in which state ?",
             "output": [
                 "DT NN WDT NNS NNS IN NNP NNP NNP NNP VBZ VBN IN WDT NN ."
             ]
@@ -5780,7 +5780,7 @@
         },
         {
             "id": "task345-dbe12c402f98449595a94a38e6bc0444",
-            "input": "What is the total length in Poland of the river that is navigable from Kostrzyn nad Odrą to Konin ?",
+            "input": "What is the total length in Poland of the river that is navigable from Kostrzyn nad Odr\u0105 to Konin ?",
             "output": [
                 "WP VBZ DT JJ NN IN NNP IN DT NN WDT VBZ JJ IN NNP CC NNP TO NNP ."
             ]
@@ -5836,7 +5836,7 @@
         },
         {
             "id": "task345-83197966cf5f46b19d31052dde15de2e",
-            "input": "Which title had the earlier release date ? Was it a game that was developed by Technōs Japan and then ended up being one of the first big successes of its genre , or an arcade style game developed by Taito America Corporation ?",
+            "input": "Which title had the earlier release date ? Was it a game that was developed by Techn\u014ds Japan and then ended up being one of the first big successes of its genre , or an arcade style game developed by Taito America Corporation ?",
             "output": [
                 "JJ NN VBD DT JJR NN NN . VBD PRP DT NN WDT VBD VBN IN NNP NNP CC RB VBD RP VBG CD IN DT JJ JJ NNS IN PRP$ NN , CC DT JJ NN NN VBN IN NNP NNP NNP ."
             ]
@@ -5969,7 +5969,7 @@
         },
         {
             "id": "task345-d683dfa751d0409d868df0e5a9d07ed6",
-            "input": "what is the type of boat that laid down at the Flender Werke in Lübeck as yard number 292 ?",
+            "input": "what is the type of boat that laid down at the Flender Werke in L\u00fcbeck as yard number 292 ?",
             "output": [
                 "WP VBZ DT NN IN NN WDT VBD RB IN DT NNP NNP IN NNP IN NNP NN CD ."
             ]
@@ -6144,7 +6144,7 @@
         },
         {
             "id": "task345-0ad201b40e4d47d1ac046902648f3ec9",
-            "input": "What is Daniel 's role in the title in which Angélica Aragón and Enrique Lizalde starred as adult protagonists ?",
+            "input": "What is Daniel 's role in the title in which Ang\u00e9lica Arag\u00f3n and Enrique Lizalde starred as adult protagonists ?",
             "output": [
                 "WP VBZ NNP POS NN IN DT NN IN WDT NNP NNP CC NNP NNP VBD IN NN NNS ."
             ]
@@ -6221,7 +6221,7 @@
         },
         {
             "id": "task345-d7e81570ecab42ee83934ddbdfbca79f",
-            "input": "What is the Refsr · M of the body that is probably composed of carbonaceous material ?",
+            "input": "What is the Refsr \u00b7 M of the body that is probably composed of carbonaceous material ?",
             "output": [
                 "WP VBZ DT NNP NNP NNP IN DT NN WDT VBZ RB VBN IN JJ NN ."
             ]
@@ -6424,7 +6424,7 @@
         },
         {
             "id": "task345-f9ddc0f27dda4759b5c0ccf2c7ed60fa",
-            "input": "What is the operator for the ship that was built in 1968 by Wärtsilä Turku Shipyard in Turku , Finland ?",
+            "input": "What is the operator for the ship that was built in 1968 by W\u00e4rtsil\u00e4 Turku Shipyard in Turku , Finland ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WDT VBD VBN IN CD IN NNP NNP NNP IN NNP , NNP ."
             ]
@@ -6886,7 +6886,7 @@
         },
         {
             "id": "task345-f122e55d927a4fbb839fbb8c258625d1",
-            "input": "What is the average width in miles of the island where a site is of the person credited with the creation of the Ryūkyūan dance-drama form known as kumi odori ?",
+            "input": "What is the average width in miles of the island where a site is of the person credited with the creation of the Ry\u016bky\u016ban dance-drama form known as kumi odori ?",
             "output": [
                 "WP VBZ DT JJ NN IN NNS IN DT NN WRB DT NN VBZ IN DT NN VBD IN DT NN IN DT NNP JJ NN VBN IN NN NN ."
             ]
@@ -7208,7 +7208,7 @@
         },
         {
             "id": "task345-a7d42691652f4870be7e3577876408ce",
-            "input": "What is the crystal system of the material that exists in the high-temperature α phase and low-temperature β phase ?",
+            "input": "What is the crystal system of the material that exists in the high-temperature \u03b1 phase and low-temperature \u03b2 phase ?",
             "output": [
                 "WP VBZ DT JJ NN IN DT NN WDT VBZ IN DT NN NNP NN CC NN NN NN ."
             ]
@@ -7285,7 +7285,7 @@
         },
         {
             "id": "task345-0805b15e0c7a40378240c6e0f66e4be8",
-            "input": "Where were the Olympics held when the flag bearer for Slovakia was Zdeno Chára ?",
+            "input": "Where were the Olympics held when the flag bearer for Slovakia was Zdeno Ch\u00e1ra ?",
             "output": [
                 "WRB VBD DT NNPS VBD WRB DT NN NN IN NNP VBD NNP NNP ."
             ]
@@ -7579,7 +7579,7 @@
         },
         {
             "id": "task345-ec96d050cf894a74b8a5d4948e594812",
-            "input": "between Monica Iagăr and Kirill Ikonnikov what is the birth-date of the one born first ?",
+            "input": "between Monica Iag\u0103r and Kirill Ikonnikov what is the birth-date of the one born first ?",
             "output": [
                 "IN NNP NNP CC NNP NNP WP VBZ DT NN IN DT CD NN RB ."
             ]
@@ -7670,7 +7670,7 @@
         },
         {
             "id": "task345-bea80d600edb4ce687da405a12fcb9da",
-            "input": "What are the number of winners from the country whose runner-up 's home terrain is the pool which is part of the Sportski centar Voždovac on Banjica complex ?",
+            "input": "What are the number of winners from the country whose runner-up 's home terrain is the pool which is part of the Sportski centar Vo\u017edovac on Banjica complex ?",
             "output": [
                 "WP VBP DT NN IN NNS IN DT NN WP$ NN POS NN NN VBZ DT NN WDT VBZ NN IN DT NNP NN NNP IN NNP NN ."
             ]
@@ -7754,7 +7754,7 @@
         },
         {
             "id": "task345-92730059776942b1bd6046db17d6103d",
-            "input": "How many sports held events at the venue located at the northern shore line of the island Djurgården ?",
+            "input": "How many sports held events at the venue located at the northern shore line of the island Djurg\u00e5rden ?",
             "output": [
                 "WRB JJ NNS VBD NNS IN DT NN VBN IN DT JJ JJR NN IN DT NN NNP ."
             ]
@@ -7859,7 +7859,7 @@
         },
         {
             "id": "task345-ea18fce725de49f4a8e8703b2308f7d3",
-            "input": "What year did a great fire strike the city of origin of the Botín banking family ?",
+            "input": "What year did a great fire strike the city of origin of the Bot\u00edn banking family ?",
             "output": [
                 "WP NN VBD DT JJ NN NN DT NN IN NN IN DT NNP NN NN ."
             ]
@@ -8097,7 +8097,7 @@
         },
         {
             "id": "task345-ba07b33f75f34cad8acedce2989f8a73",
-            "input": "Which city hosted the Olympics when the flag bearer for Cuba was Héctor Ramírez ?",
+            "input": "Which city hosted the Olympics when the flag bearer for Cuba was H\u00e9ctor Ram\u00edrez ?",
             "output": [
                 "JJ NN VBD DT NNPS WRB DT NN NN IN NNP VBD NNP NNP ."
             ]
@@ -8132,7 +8132,7 @@
         },
         {
             "id": "task345-e5243c75e6104aa9868a040fefc99b80",
-            "input": "What is the Swedish name of the place whose location 's largest city is Malmö ?",
+            "input": "What is the Swedish name of the place whose location 's largest city is Malm\u00f6 ?",
             "output": [
                 "WP VBZ DT JJ NN IN DT NN WP$ NN POS JJS NN VBZ NNP ."
             ]
@@ -8167,7 +8167,7 @@
         },
         {
             "id": "task345-7549af8199c2495db2b02e0c5e596df7",
-            "input": "What is the department of the seat in which the Instituto Nacional de Tecnología Agropecuaria opened a station in 2005 ?",
+            "input": "What is the department of the seat in which the Instituto Nacional de Tecnolog\u00eda Agropecuaria opened a station in 2005 ?",
             "output": [
                 "WP VBZ DT NN IN DT NN IN WDT DT NNP NNP FW NNP NNP VBD DT NN IN CD ."
             ]
@@ -8454,7 +8454,7 @@
         },
         {
             "id": "task345-72cbbf1eee5547f58471e940b3451b4f",
-            "input": "Which year did the player signed by Everton for £28,000,000 in 2014 win the Belgian Ebony Shoe ?",
+            "input": "Which year did the player signed by Everton for \u00a328,000,000 in 2014 win the Belgian Ebony Shoe ?",
             "output": [
                 "JJ NN VBD DT NN VBN IN NNP IN NN IN CD VBP DT JJ NNP NNP ."
             ]
@@ -8601,14 +8601,14 @@
         },
         {
             "id": "task345-3a25276f8dfd4b998e2def03747688e6",
-            "input": "Which location hosted the speed skating first ? was it the place named after an old farm which was of the elements djúpr deep and vík inlet , or a place which is found in the Auvergne-Rhône-Alpes region ?",
+            "input": "Which location hosted the speed skating first ? was it the place named after an old farm which was of the elements dj\u00fapr deep and v\u00edk inlet , or a place which is found in the Auvergne-Rh\u00f4ne-Alpes region ?",
             "output": [
                 "JJ NN VBD DT NN VBG RB . VBD PRP DT NN VBN IN DT JJ NN WDT VBD IN DT NNS VBP JJ CC JJ NN , CC DT NN WDT VBZ VBN IN DT NNP NN ."
             ]
         },
         {
             "id": "task345-4616f2f6789f41f1858bb6b5850d48d2",
-            "input": "What year was the football club founded that Tabaré Viudez left in the summer of 2009 ?",
+            "input": "What year was the football club founded that Tabar\u00e9 Viudez left in the summer of 2009 ?",
             "output": [
                 "WP NN VBD DT NN NN VBD IN NNP NNP VBD IN DT NN IN CD ."
             ]
@@ -8804,7 +8804,7 @@
         },
         {
             "id": "task345-6ab0f905cd2b4242bdd222bfef28ea33",
-            "input": "Between León de Huánuco and Melgar , which one 's city has the higher population ?",
+            "input": "Between Le\u00f3n de Hu\u00e1nuco and Melgar , which one 's city has the higher population ?",
             "output": [
                 "NNP NNP NNP NNP CC NNP , WDT CD POS NN VBZ DT JJR NN ."
             ]
@@ -9518,7 +9518,7 @@
         },
         {
             "id": "task345-c4ebf0c4079a4ddfb85465e4a677043b",
-            "input": "Where is Jackeline Rentería currently studying at ?",
+            "input": "Where is Jackeline Renter\u00eda currently studying at ?",
             "output": [
                 "WRB VBZ NNP NNP RB VBG IN ."
             ]
@@ -10022,7 +10022,7 @@
         },
         {
             "id": "task345-ac9a6e473a5f4f11b0e9698e062a99fd",
-            "input": "What Atlantic islands besides Greenland is in the kingdom of the home country of bicycle racer Chris Anker Sørensen ?",
+            "input": "What Atlantic islands besides Greenland is in the kingdom of the home country of bicycle racer Chris Anker S\u00f8rensen ?",
             "output": [
                 "WP NNP VBZ IN NNP VBZ IN DT NN IN DT NN NN IN NN NN NNP NNP NNP ."
             ]
@@ -10071,14 +10071,14 @@
         },
         {
             "id": "task345-72525855b91b4286bbf7d98a61603d4a",
-            "input": "When was the first year the title that was released after 2000 and was written by Chūgaku Akamatsu ?",
+            "input": "When was the first year the title that was released after 2000 and was written by Ch\u016bgaku Akamatsu ?",
             "output": [
                 "WRB VBD DT JJ NN DT NN WDT VBD VBN IN CD CC VBD VBN IN NNP NNP ."
             ]
         },
         {
             "id": "task345-8dcc09b6e2b4420b883a9d7e6ccf30f7",
-            "input": "What is the density ( per km² ) of the island that is settled on 80 acres ( 32 hectares ) of land ?",
+            "input": "What is the density ( per km\u00b2 ) of the island that is settled on 80 acres ( 32 hectares ) of land ?",
             "output": [
                 "WP VBZ DT NN ( IN NN ) IN DT NN WDT VBZ VBN IN CD NNS ( CD NNS ) IN NN ."
             ]
@@ -10925,7 +10925,7 @@
         },
         {
             "id": "task345-6274aacefe514b0299f65ca23156e5ac",
-            "input": "What electoral district is that man who went to college at the Collége de Saint-Boniface ?",
+            "input": "What electoral district is that man who went to college at the Coll\u00e9ge de Saint-Boniface ?",
             "output": [
                 "WP JJ NN VBZ IN NN WP VBD TO NN IN DT NNP IN NNP ."
             ]
@@ -11044,7 +11044,7 @@
         },
         {
             "id": "task345-646ce641c1004ff5b4814f21f371b540",
-            "input": "What is the 2012 population of Portrait of Miyahira Chōen , colour on paper 's municipality ?",
+            "input": "What is the 2012 population of Portrait of Miyahira Ch\u014den , colour on paper 's municipality ?",
             "output": [
                 "WP VBZ DT CD NN IN NNP IN NNP NNP , NN IN NN POS NN ."
             ]
@@ -11730,7 +11730,7 @@
         },
         {
             "id": "task345-1b0ddf02cf4c483a9f90b038d65c6a3f",
-            "input": "What is the date of birth of the Jiu Jitsu competitor who is American and won the European Championship -58kg Feather title the same year Tayane Porfírio won the Absolute ?",
+            "input": "What is the date of birth of the Jiu Jitsu competitor who is American and won the European Championship -58kg Feather title the same year Tayane Porf\u00edrio won the Absolute ?",
             "output": [
                 "WP VBZ DT NN IN NN IN DT NNP NNP NN WP VBZ JJ CC VBD DT JJ NNP NNP NNP VBD DT JJ NN NNP NNP VBD DT NNP ."
             ]
@@ -11961,7 +11961,7 @@
         },
         {
             "id": "task345-2ead17575aac44feba9faf36586761b7",
-            "input": "What is the constituency whose translation in Malayalam is മാവേലിക്കര ലോക്സഭാ മണ്ഡലം reserved for ?",
+            "input": "What is the constituency whose translation in Malayalam is \u0d2e\u0d3e\u0d35\u0d47\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d30 \u0d32\u0d4b\u0d15\u0d4d\u0d38\u0d2d\u0d3e \u0d2e\u0d23\u0d4d\u0d21\u0d32\u0d02 reserved for ?",
             "output": [
                 "WP VBZ DT NN WP$ NN IN NNP VBZ JJ NNP NNP VBD IN ."
             ]
@@ -12192,7 +12192,7 @@
         },
         {
             "id": "task345-6a4965244368455db2b0cda9439705df",
-            "input": "Of the athletes born in 1990 , what is the M , € of the one who is a cousin of Jerson Cabral ?",
+            "input": "Of the athletes born in 1990 , what is the M , \u20ac of the one who is a cousin of Jerson Cabral ?",
             "output": [
                 "IN DT NNS VBN IN CD , WP VBZ DT NNP , NNP IN DT NN WP VBZ DT NN IN NNP NNP ."
             ]
@@ -12339,7 +12339,7 @@
         },
         {
             "id": "task345-68bff89e17d94034a8569ce27c90afaf",
-            "input": "In English , what is the motto of the football club with the Greek name Παναθηναϊκός that is from a settlement with 106,053 inhabitants in Greece 's largest regional unit ?",
+            "input": "In English , what is the motto of the football club with the Greek name \u03a0\u03b1\u03bd\u03b1\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03cc\u03c2 that is from a settlement with 106,053 inhabitants in Greece 's largest regional unit ?",
             "output": [
                 "IN NNP , WP VBZ DT NN IN DT NN NN IN DT JJ NN NN WDT VBZ IN DT NN IN CD NNS IN NNP POS JJS JJ NN ."
             ]
@@ -12892,7 +12892,7 @@
         },
         {
             "id": "task345-ef642b59eea747bab91bd0e96a27c002",
-            "input": "What was the name in her native language of the person that appeared in בני ערובה ?",
+            "input": "What was the name in her native language of the person that appeared in \u05d1\u05e0\u05d9 \u05e2\u05e8\u05d5\u05d1\u05d4 ?",
             "output": [
                 "WP VBD DT NN IN PRP$ JJ NN IN DT NN WDT VBD IN NNP NNP ."
             ]
@@ -13291,7 +13291,7 @@
         },
         {
             "id": "task345-960e4fb92d6d481cbc86451c31a11071",
-            "input": "What is the range whose highest summit is the highest mountain in the Belledonne massif in the Dauphiné Alps ?",
+            "input": "What is the range whose highest summit is the highest mountain in the Belledonne massif in the Dauphin\u00e9 Alps ?",
             "output": [
                 "WP VBZ DT NN WP$ JJS NN VBZ DT JJS NN IN DT NNP NN IN DT NNP NNP ."
             ]
@@ -13865,7 +13865,7 @@
         },
         {
             "id": "task345-8018e642726c489780b601a7b63924d4",
-            "input": "Who beat the team that drafted Björn Nittmo in 1989 in the tournament that year ?",
+            "input": "Who beat the team that drafted Bj\u00f6rn Nittmo in 1989 in the tournament that year ?",
             "output": [
                 "WP VBD DT NN WDT VBD NNP NNP IN CD IN DT NN IN NN ."
             ]
@@ -13886,7 +13886,7 @@
         },
         {
             "id": "task345-ec9b7c3ed1244ce4952da15cf670de08",
-            "input": "between Monica Iagăr and Ekaterina Ishova what is the birth-date of the one born first ?",
+            "input": "between Monica Iag\u0103r and Ekaterina Ishova what is the birth-date of the one born first ?",
             "output": [
                 "IN NNP NNP CC NNP NNP WP VBZ DT NN IN DT CD NN RB ."
             ]
@@ -14145,7 +14145,7 @@
         },
         {
             "id": "task345-41d1fef2beea4554a1673a85680fe17e",
-            "input": "In what year was the first domestic league title won by the team from the city in Kié-Ntem province that in 2005 had an estimated population of 5,813 ?",
+            "input": "In what year was the first domestic league title won by the team from the city in Ki\u00e9-Ntem province that in 2005 had an estimated population of 5,813 ?",
             "output": [
                 "IN WP NN VBD DT JJ JJ NN NN VBN IN DT NN IN DT NN IN NNP NN IN IN CD VBD DT VBN NN IN CD ."
             ]
@@ -14180,7 +14180,7 @@
         },
         {
             "id": "task345-f4f95d8943284ebaad5968d45c9bca9e",
-            "input": "Of the men who competed as a team in the men 's 4 × 10 km relay , which athlete also received a silver medal at the same Olympic games , in a single person event ?",
+            "input": "Of the men who competed as a team in the men 's 4 \u00d7 10 km relay , which athlete also received a silver medal at the same Olympic games , in a single person event ?",
             "output": [
                 "IN DT NNS WP VBD IN DT NN IN DT NNS POS CD JJ CD NN NN , WDT VBZ RB VBN DT NN NN IN DT JJ NNP NNS , IN DT JJ NN NN ."
             ]
@@ -14537,7 +14537,7 @@
         },
         {
             "id": "task345-29f31acdb21d4712885b9a15d8ea0f2a",
-            "input": "Which city hosted the Olympics when the flag bearer for Cuba was Iván Pedroso ?",
+            "input": "Which city hosted the Olympics when the flag bearer for Cuba was Iv\u00e1n Pedroso ?",
             "output": [
                 "JJ NN VBD DT NNPS WRB DT NN NN IN NNP VBD NNP NNP ."
             ]
@@ -14971,7 +14971,7 @@
         },
         {
             "id": "task345-4e7f3bca33ae478f8d2c7589f898646a",
-            "input": "Who brought the work by Leonardo da Vinci housed in Biblioteca Nacional de España to Spain ?",
+            "input": "Who brought the work by Leonardo da Vinci housed in Biblioteca Nacional de Espa\u00f1a to Spain ?",
             "output": [
                 "WP VBD DT NN IN NNP NN NNP VBD IN NNP NNP FW NNP TO NNP ."
             ]
@@ -15013,7 +15013,7 @@
         },
         {
             "id": "task345-9ff644cf542c4a3c8d8b295ec27ace52",
-            "input": "What other name does the city where Tōmizuka Kofun is located go by ?",
+            "input": "What other name does the city where T\u014dmizuka Kofun is located go by ?",
             "output": [
                 "WP JJ NN VBZ DT NN WRB NNP NNP VBZ VBN NNS IN ."
             ]
@@ -15517,7 +15517,7 @@
         },
         {
             "id": "task345-36e9c983ebe34e43a2cf807885d5d28f",
-            "input": "How many blocks is the district with an area of 2,651 km² divided into ?",
+            "input": "How many blocks is the district with an area of 2,651 km\u00b2 divided into ?",
             "output": [
                 "WRB JJ NNS VBZ DT NN IN DT NN IN CD NN VBN IN ."
             ]
@@ -15839,7 +15839,7 @@
         },
         {
             "id": "task345-3dc9b7d7715a49edbda8e561767f013e",
-            "input": "What team did the player who has won four Primeira Liga titles , one Taça de Portugal and two Taça da Liga move from ?",
+            "input": "What team did the player who has won four Primeira Liga titles , one Ta\u00e7a de Portugal and two Ta\u00e7a da Liga move from ?",
             "output": [
                 "WP NN VBD DT NN WP VBZ VBN CD NNP NNP NNS , CD NNP FW NNP CC CD NNP NN NNP NN IN ."
             ]
@@ -15867,7 +15867,7 @@
         },
         {
             "id": "task345-b756f2d049024c3b93e2d20a5a438476",
-            "input": "Who founded this football club whose home stadium held a match against Örgryte IS in 2005 ?",
+            "input": "Who founded this football club whose home stadium held a match against \u00d6rgryte IS in 2005 ?",
             "output": [
                 "WP VBD DT NN NN WP$ NN NN VBD DT NN IN NNP NNP IN CD ."
             ]
@@ -16105,7 +16105,7 @@
         },
         {
             "id": "task345-0c9351c1d2494eb48af4e063b264f6af",
-            "input": "What is the source of the list that is known as Qïzïl Yïlan or Qazal Al'an to local Iranian Turkmens ?",
+            "input": "What is the source of the list that is known as Q\u00efz\u00efl Y\u00eflan or Qazal Al'an to local Iranian Turkmens ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WDT VBZ VBN IN NNP NNP CC NNP NNP TO JJ JJ NNP ."
             ]
@@ -16280,7 +16280,7 @@
         },
         {
             "id": "task345-833665962788463d891afee82e09f6de",
-            "input": "What city hosted the Olympics when Mickaël Conjungo was the flag bearer for the Central African Republic ?",
+            "input": "What city hosted the Olympics when Micka\u00ebl Conjungo was the flag bearer for the Central African Republic ?",
             "output": [
                 "WP NN VBD DT NNPS WRB NNP NNP VBD DT NN NN IN DT NNP NNP NNP ."
             ]
@@ -16602,7 +16602,7 @@
         },
         {
             "id": "task345-b4b8a80248a34f699ba58b899ab42387",
-            "input": "Who is the artist of the single with the least amount fewer sales than Le Village des Enfoirés in 2006 France compared to ?",
+            "input": "Who is the artist of the single with the least amount fewer sales than Le Village des Enfoir\u00e9s in 2006 France compared to ?",
             "output": [
                 "WP VBZ DT NN IN DT JJ IN DT JJS NN JJR NNS IN NNP NNP VBZ NNP IN CD NNP VBN TO ."
             ]
@@ -16812,7 +16812,7 @@
         },
         {
             "id": "task345-9e50f026f58c48fcb6f2bdb88309b095",
-            "input": "How many people live in the city where the CDM Entrevías is located ?",
+            "input": "How many people live in the city where the CDM Entrev\u00edas is located ?",
             "output": [
                 "WRB JJ NNS VBP IN DT NN WRB DT NNP NNP VBZ VBN ."
             ]
@@ -16840,7 +16840,7 @@
         },
         {
             "id": "task345-d2af8a9d24f04e4abf1c2f4c11649395",
-            "input": "What is the longer track in the complex in Nürburg that had 2.0 million visitors in 2002 ?",
+            "input": "What is the longer track in the complex in N\u00fcrburg that had 2.0 million visitors in 2002 ?",
             "output": [
                 "WP VBZ DT RBR NN IN DT NN IN NNP WDT VBD CD CD NNS IN CD ."
             ]
@@ -17288,7 +17288,7 @@
         },
         {
             "id": "task345-47adfed813664d968ec3e1d280f7f6eb",
-            "input": "What year was `` The Oldest House '' constructed , located in a city founded by Spanish admiral Pedro Menéndez de Avilés , Florida 's first governor ?",
+            "input": "What year was `` The Oldest House '' constructed , located in a city founded by Spanish admiral Pedro Men\u00e9ndez de Avil\u00e9s , Florida 's first governor ?",
             "output": [
                 "WP NN VBD `` DT JJS NNP '' VBN , VBN IN DT NN VBN IN JJ JJ NNP NNP FW NNP , NNP POS JJ NN ."
             ]
@@ -17526,7 +17526,7 @@
         },
         {
             "id": "task345-d3b28e68df14438dbb9f11ece90c1cac",
-            "input": "What municipality ( ies ) is the mountain that is the highest summit of the subrange north of the Sinsgäuer Schonegg pass located in ?",
+            "input": "What municipality ( ies ) is the mountain that is the highest summit of the subrange north of the Sinsg\u00e4uer Schonegg pass located in ?",
             "output": [
                 "WP NN ( NNS ) VBZ DT NN WDT VBZ DT JJS NN IN DT JJ NN IN DT NNP NNP NN VBN IN ."
             ]
@@ -17624,7 +17624,7 @@
         },
         {
             "id": "task345-005313f7da3b4303a92da0a620492ed6",
-            "input": "Since what year did the winner of the event that took place in Auditorio Benito Juárez perform as a boxer ?",
+            "input": "Since what year did the winner of the event that took place in Auditorio Benito Ju\u00e1rez perform as a boxer ?",
             "output": [
                 "IN WP NN VBD DT NN IN DT NN WDT VBD NN IN NNP NNP NNP NN IN DT NN ."
             ]
@@ -17764,7 +17764,7 @@
         },
         {
             "id": "task345-f67c5d01855a43a29a2a1a2295fe7a48",
-            "input": "What is the name for the dam on the river whose headwaters begin near the city of Popayán ?",
+            "input": "What is the name for the dam on the river whose headwaters begin near the city of Popay\u00e1n ?",
             "output": [
                 "WP VBZ DT NN IN DT NN IN DT NN WP$ NNS VBP IN DT NN IN NNP ."
             ]
@@ -17869,7 +17869,7 @@
         },
         {
             "id": "task345-7f5464b5740a4e858d73a5603582750a",
-            "input": "What channel number does Márcio Amoroso 's team broadcast it 's games ?",
+            "input": "What channel number does M\u00e1rcio Amoroso 's team broadcast it 's games ?",
             "output": [
                 "WP VBZ NN VBZ NNP NNP POS NN VBD PRP VBZ NNS ."
             ]
@@ -17904,7 +17904,7 @@
         },
         {
             "id": "task345-9f756aebf6a74c53b1293d0db39694f5",
-            "input": "What is the Area ( km² ) for the municipality that lies on the right bank of the Meuse river , and south of the forest of the Klever Reichswald ?",
+            "input": "What is the Area ( km\u00b2 ) for the municipality that lies on the right bank of the Meuse river , and south of the forest of the Klever Reichswald ?",
             "output": [
                 "WP VBZ DT NNP ( NN ) IN DT NN WDT VBZ IN DT JJ NN IN DT NNP NN , CC NN IN DT NN IN DT NNP NNP ."
             ]
@@ -18156,7 +18156,7 @@
         },
         {
             "id": "task345-4fdfee21a8884638be57ab833990c992",
-            "input": "When did the Trofeo Sóller win the Vuelta a Mallorca ?",
+            "input": "When did the Trofeo S\u00f3ller win the Vuelta a Mallorca ?",
             "output": [
                 "WRB VBD DT NNP NNP VBP DT NNP DT NNP ."
             ]
@@ -18744,7 +18744,7 @@
         },
         {
             "id": "task345-dd80f614a4834a6ab345dd70e855586d",
-            "input": "What is the name of the traditional language of the minority located in the county Bacău ?",
+            "input": "What is the name of the traditional language of the minority located in the county Bac\u0103u ?",
             "output": [
                 "WP VBZ DT NN IN DT JJ NN IN DT NN VBN IN DT NN NNP ."
             ]
@@ -19087,7 +19087,7 @@
         },
         {
             "id": "task345-652a9cb82daa4694a2ccdb396a705e67",
-            "input": "Which state highway can be found near this historic mining town in the district that covers Lake Wakatipu , Lake Wanaka and Lake Hāwea ?",
+            "input": "Which state highway can be found near this historic mining town in the district that covers Lake Wakatipu , Lake Wanaka and Lake H\u0101wea ?",
             "output": [
                 "JJ NN NN MD VB VBN IN DT JJ NN NN IN DT NN IN NNS NNP NNP , NNP NNP CC NNP NNP ."
             ]
@@ -19472,7 +19472,7 @@
         },
         {
             "id": "task345-58dd4e40475f4b0281e9e7de72416d44",
-            "input": "Between Royal Opera and Grand Théâtre de Genève , which one was constructed at an earlier time ?",
+            "input": "Between Royal Opera and Grand Th\u00e9\u00e2tre de Gen\u00e8ve , which one was constructed at an earlier time ?",
             "output": [
                 "NNP NNP NNP CC NNP NNP FW NNP , WDT CD VBD VBN IN DT JJR NN ."
             ]
@@ -19682,7 +19682,7 @@
         },
         {
             "id": "task345-1d84648af49e46b683844c31a36264b5",
-            "input": "What anniversary was celebrated in 2018 by the team who hosted the North American team whose colours were blue and white six years before that North American team hosted América for a CONCACAF Champions League match on April 29th ?",
+            "input": "What anniversary was celebrated in 2018 by the team who hosted the North American team whose colours were blue and white six years before that North American team hosted Am\u00e9rica for a CONCACAF Champions League match on April 29th ?",
             "output": [
                 "WP NN VBD VBN IN CD IN DT NN WP VBD DT JJ JJ NN WP$ NNS VBD JJ CC JJ CD NNS IN DT JJ JJ NN VBD NNP IN DT NNP NNP NNP NN IN NNP CD ."
             ]
@@ -19752,7 +19752,7 @@
         },
         {
             "id": "task345-98246e39068b4453a93f1b04f26934c1",
-            "input": "How many César Award nominations did the 2011 film directed by Maïwenn receive ?",
+            "input": "How many C\u00e9sar Award nominations did the 2011 film directed by Ma\u00efwenn receive ?",
             "output": [
                 "WRB JJ NNP NNP NNS VBD DT CD NN VBN IN NNP NN ."
             ]
@@ -19836,7 +19836,7 @@
         },
         {
             "id": "task345-05047b4db6a848039b6cb901956d3487",
-            "input": "What is the birthdate of the singer who 's winning album is called Coup de tête ?",
+            "input": "What is the birthdate of the singer who 's winning album is called Coup de t\u00eate ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP VBZ VBG NN VBZ VBN NNP FW FW ."
             ]
@@ -19969,7 +19969,7 @@
         },
         {
             "id": "task345-b35f74c838eb419cb425f50926b2a75e",
-            "input": "What is the birthday of the winner whose 2011 tournament carried an increased prize fund of €1.8 million ?",
+            "input": "What is the birthday of the winner whose 2011 tournament carried an increased prize fund of \u20ac1.8 million ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ CD NN VBD DT VBN NN NN IN JJ CD ."
             ]
@@ -19983,7 +19983,7 @@
         },
         {
             "id": "task345-d2b47784ec7e4fffabe357c9d9872710",
-            "input": "What year was the community with the lowest °N address established ?",
+            "input": "What year was the community with the lowest \u00b0N address established ?",
             "output": [
                 "WP NN VBD DT NN IN DT JJS NN NN VBN ."
             ]
@@ -20480,7 +20480,7 @@
         },
         {
             "id": "task345-b1475ed9453b40e981ddd394bdeb2ab4",
-            "input": "What is the name of the site whose municipality had an estimated population of 69,525 in 30,185 households , and a population density of 2,994 persons per km² ?",
+            "input": "What is the name of the site whose municipality had an estimated population of 69,525 in 30,185 households , and a population density of 2,994 persons per km\u00b2 ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ NN VBD DT VBN NN IN CD IN CD NNS , CC DT NN NN IN CD NNS IN NN ."
             ]
@@ -20557,7 +20557,7 @@
         },
         {
             "id": "task345-5ce38bc5643649d89f11b4b669268f6c",
-            "input": "What clasp is associated with a 32-gun Vénus class frigate of the French Navy ?",
+            "input": "What clasp is associated with a 32-gun V\u00e9nus class frigate of the French Navy ?",
             "output": [
                 "WP NN VBZ VBN IN DT JJ NNP NN NN IN DT JJ NNP ."
             ]
@@ -20928,7 +20928,7 @@
         },
         {
             "id": "task345-c98acf8fac9d4b289830195b384f1f92",
-            "input": "What is the language of the film title used in nomination that portrays the life of Hatidže Muratova ?",
+            "input": "What is the language of the film title used in nomination that portrays the life of Hatid\u017ee Muratova ?",
             "output": [
                 "WP VBZ DT NN IN DT NN NN VBN IN NN WDT VBZ DT NN IN NNP NNP ."
             ]
@@ -22188,7 +22188,7 @@
         },
         {
             "id": "task345-5a6ca5cdd9504b099d3f42bc5c483602",
-            "input": "What is the date of the monument whose description is 93 1⁄2-miles ( 150 km ) in length ?",
+            "input": "What is the date of the monument whose description is 93 1\u20442-miles ( 150 km ) in length ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ NN VBZ CD NNS ( CD NN ) IN NN ."
             ]
@@ -22454,7 +22454,7 @@
         },
         {
             "id": "task345-19616b7f512b4fdeb8bd2cb3061cff96",
-            "input": "What is the difference in Gross capacity x10³M³ for the WMAs that handle the river whose mouth is located at Fisherhaven and the river whose name means cow in siSwati ?",
+            "input": "What is the difference in Gross capacity x10\u00b3M\u00b3 for the WMAs that handle the river whose mouth is located at Fisherhaven and the river whose name means cow in siSwati ?",
             "output": [
                 "WP VBZ DT NN IN NNP NN NN IN DT NNP WDT VBZ DT NN WP$ NN VBZ VBN IN NNP CC DT NN WP$ NN VBZ NN IN NN ."
             ]
@@ -22846,7 +22846,7 @@
         },
         {
             "id": "task345-4d1f9939d72a45e9946bd49a1ae77ba4",
-            "input": "In what year was the building located at 47°09′35″N 100°47′24″W / 47.159722°N 100.79°W acknowledged on the National Register of Historic Places ?",
+            "input": "In what year was the building located at 47\u00b009\u203235\u2033N 100\u00b047\u203224\u2033W / 47.159722\u00b0N 100.79\u00b0W acknowledged on the National Register of Historic Places ?",
             "output": [
                 "IN WP NN VBD DT NN VBN IN CD CD NN CD CD VBD IN DT NNP NNP IN NNP NNP ."
             ]
@@ -23014,7 +23014,7 @@
         },
         {
             "id": "task345-7fcef379b69748e5a41f7448f678add4",
-            "input": "Which player transferred from the team with the nickname Die Löwinnen ?",
+            "input": "Which player transferred from the team with the nickname Die L\u00f6winnen ?",
             "output": [
                 "NNP NN VBD IN DT NN IN DT NN NNP NNP ."
             ]
@@ -23098,7 +23098,7 @@
         },
         {
             "id": "task345-4b0f089c88bb41ab8303c7f6434e2017",
-            "input": "What is the capacity of the stadium located in the city that faces the northern slopes of Fruška Gora ?",
+            "input": "What is the capacity of the stadium located in the city that faces the northern slopes of Fru\u0161ka Gora ?",
             "output": [
                 "WP VBZ DT NN IN DT NN VBN IN DT NN WDT VBZ DT JJ NNS IN NNP NNP ."
             ]
@@ -23112,7 +23112,7 @@
         },
         {
             "id": "task345-a1a546209a1a4530ab0bde0abebee800",
-            "input": "What is the capacity of the stadium , when it was built to be used instead of Malatya İnönü Stadium ?",
+            "input": "What is the capacity of the stadium , when it was built to be used instead of Malatya \u0130n\u00f6n\u00fc Stadium ?",
             "output": [
                 "WP VBZ DT NN IN DT NN , WRB PRP VBD VBN TO VB VBN RB IN NNP NNP NNP ."
             ]
@@ -23469,7 +23469,7 @@
         },
         {
             "id": "task345-c7cd7b0d657e4d4381fd803cb3061f5c",
-            "input": "What is the name of the municipality that has the site that belongs to the Sōtō-school of Japanese Zen Buddhism ?",
+            "input": "What is the name of the municipality that has the site that belongs to the S\u014dt\u014d-school of Japanese Zen Buddhism ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WDT VBZ DT NN WDT VBZ TO DT NNP IN JJ NNP NNP ."
             ]
@@ -23777,7 +23777,7 @@
         },
         {
             "id": "task345-7847d53e19f44628b3ba2154584ddebe",
-            "input": "What is the name of the team whose manager has also won four Copa México championships ?",
+            "input": "What is the name of the team whose manager has also won four Copa M\u00e9xico championships ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ NN VBZ RB VBN CD NNP NNP NNS ."
             ]
@@ -23994,7 +23994,7 @@
         },
         {
             "id": "task345-f13aca4bd80a4864a4ce06a00f8d898f",
-            "input": "Which countries jointly produced Lauri Törhönen 's 2007 movie ?",
+            "input": "Which countries jointly produced Lauri T\u00f6rh\u00f6nen 's 2007 movie ?",
             "output": [
                 "JJ NNS RB VBD NNP NNP POS CD NN ."
             ]
@@ -24204,7 +24204,7 @@
         },
         {
             "id": "task345-e96e6d29c2754637aa8ce4aae240f01f",
-            "input": "What album was also release by the label founded by Ahmet Ertegün and Herb Abramson ?",
+            "input": "What album was also release by the label founded by Ahmet Erteg\u00fcn and Herb Abramson ?",
             "output": [
                 "WP NN VBD RB VBN IN DT NN VBN IN NNP NNP CC NNP NNP ."
             ]
@@ -24337,7 +24337,7 @@
         },
         {
             "id": "task345-107b68faa3334398b8c14b686e1cc6f4",
-            "input": "Which rock band was this singer a member of whose second radio single from Un Día Normal ( 2002 ) won a Latin Grammy Award ?",
+            "input": "Which rock band was this singer a member of whose second radio single from Un D\u00eda Normal ( 2002 ) won a Latin Grammy Award ?",
             "output": [
                 "WDT NN NN VBD DT NN DT NN IN WP$ JJ NN JJ IN NNP NNP NNP ( CD ) VBD DT JJ NNP NNP ."
             ]
@@ -24981,7 +24981,7 @@
         },
         {
             "id": "task345-b58ea117b5124a31af99e96f27dddf44",
-            "input": "Which team won the German football championship during the year when this football club based in today Gdańsk , Poland qualified ?",
+            "input": "Which team won the German football championship during the year when this football club based in today Gda\u0144sk , Poland qualified ?",
             "output": [
                 "NNP NN VBD DT JJ NN NN IN DT NN WRB DT NN NN VBN IN NN NNP , NNP VBD ."
             ]
@@ -25107,7 +25107,7 @@
         },
         {
             "id": "task345-d39fe9735acf41c790dcd1fdfd8d0fd4",
-            "input": "What is the film title whose English title stars Iván Petrovich , Nicolas Koline and Mabel Poulton ?",
+            "input": "What is the film title whose English title stars Iv\u00e1n Petrovich , Nicolas Koline and Mabel Poulton ?",
             "output": [
                 "WP VBZ DT NN NN WP$ JJ NN NNS NNP NNP , NNP NNP CC NNP NNP ."
             ]
@@ -25135,7 +25135,7 @@
         },
         {
             "id": "task345-66f008519e544756810116226c97e36e",
-            "input": "How many medals did the country win who had an athlete arrested in Operación Galgo ?",
+            "input": "How many medals did the country win who had an athlete arrested in Operaci\u00f3n Galgo ?",
             "output": [
                 "WRB JJ NNS VBD DT NN VB WP VBD DT NN VBN IN NNP NNP ."
             ]
@@ -25177,7 +25177,7 @@
         },
         {
             "id": "task345-ce2f050e81f5432eb74b876b98239e0d",
-            "input": "How many lodges currently meet in the masonic building that has location coordinates beginning 42°17′38″N 85°35′6″W and is in the city that has as one of its notable features a mall built in 1959 ?",
+            "input": "How many lodges currently meet in the masonic building that has location coordinates beginning 42\u00b017\u203238\u2033N 85\u00b035\u20326\u2033W and is in the city that has as one of its notable features a mall built in 1959 ?",
             "output": [
                 "WRB JJ NNS RB VBP IN DT JJ NN WDT VBZ NN NNS VBG CD CD CC VBZ IN DT NN WDT VBZ IN CD IN PRP$ JJ NNS DT NN VBN IN CD ."
             ]
@@ -25373,7 +25373,7 @@
         },
         {
             "id": "task345-295f3f670af442d8aee50d7df9d36338",
-            "input": "In what year did the player awarded €9M + Bonus travel back to Genoa ?",
+            "input": "In what year did the player awarded \u20ac9M + Bonus travel back to Genoa ?",
             "output": [
                 "IN WP NN VBD DT NN VBD JJ NNP NNP NN RB TO NNP ."
             ]
@@ -25415,7 +25415,7 @@
         },
         {
             "id": "task345-3565b48ed0b14052a0133ada611c87d1",
-            "input": "between Belgrade and Pančevo what is the population of the larger city ?",
+            "input": "between Belgrade and Pan\u010devo what is the population of the larger city ?",
             "output": [
                 "IN NNP CC NNP WP VBZ DT NN IN DT JJR NN ."
             ]
@@ -25814,7 +25814,7 @@
         },
         {
             "id": "task345-cc76f0d4f4ff4544b053a396166c0bf5",
-            "input": "What is the battalion that was once commanded by Lloyd L. Leech and located on 14.2710° S , 170.1322° W ?",
+            "input": "What is the battalion that was once commanded by Lloyd L. Leech and located on 14.2710\u00b0 S , 170.1322\u00b0 W ?",
             "output": [
                 "WP VBZ DT NN WDT VBD RB VBN IN NNP NNP NNP CC VBN IN CD NNP , CD NNP ."
             ]
@@ -26514,7 +26514,7 @@
         },
         {
             "id": "task345-2703b8ab4ca3429ea84d44892ffdb0b9",
-            "input": "What canton is the closest locality to Fürstein mountain the capital of ?",
+            "input": "What canton is the closest locality to F\u00fcrstein mountain the capital of ?",
             "output": [
                 "WP NN VBZ DT JJS NN TO NNP VB DT NN IN ."
             ]
@@ -26605,7 +26605,7 @@
         },
         {
             "id": "task345-ab61359ffdfc4083a2389aedc9d96edb",
-            "input": "Who is the sponsor of the team who plays at the venue with the Coordinates : 54°5′32″N 28°19′12″E / 54.09222°N 28.32000°E / 54.09222 ; 28.32000 ?",
+            "input": "Who is the sponsor of the team who plays at the venue with the Coordinates : 54\u00b05\u203232\u2033N 28\u00b019\u203212\u2033E / 54.09222\u00b0N 28.32000\u00b0E / 54.09222 ; 28.32000 ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP VBZ IN DT NN IN DT NNS : CD CD NN CD CD JJ CD : CD ."
             ]
@@ -27039,7 +27039,7 @@
         },
         {
             "id": "task345-8ded2aa7ca1d45fcb1caad0c7a76bfc3",
-            "input": "What is the Irish name of the city where RTÉ took place in 1980 ?",
+            "input": "What is the Irish name of the city where RT\u00c9 took place in 1980 ?",
             "output": [
                 "WP VBZ DT JJ NN IN DT NN WRB NNP VBD NN IN CD ."
             ]
@@ -27844,7 +27844,7 @@
         },
         {
             "id": "task345-067a25f1f3b748c08504bb58fd3d1734",
-            "input": "How many branches in Serbia does the bank in Serbia with the least number fewer employees than Poštanska štedionica have ?",
+            "input": "How many branches in Serbia does the bank in Serbia with the least number fewer employees than Po\u0161tanska \u0161tedionica have ?",
             "output": [
                 "WRB JJ NNS IN NNP VBZ DT NN IN NNP IN DT JJS NN JJR NNS IN NNP NNP VBP ."
             ]
@@ -28159,7 +28159,7 @@
         },
         {
             "id": "task345-4a735792b8c84c5c9c62538878167e9e",
-            "input": "What was the population of this town in 2010 where the ​one and a half story brick dwelling home built about 1711 is located ?",
+            "input": "What was the population of this town in 2010 where the \u200bone and a half story brick dwelling home built about 1711 is located ?",
             "output": [
                 "WP VBD DT NN IN DT NN IN CD WRB DT NN CC DT JJ NN NN VBG NN VBN IN CD VBZ VBN ."
             ]
@@ -28208,7 +28208,7 @@
         },
         {
             "id": "task345-fc943a8bf4ac4bfebc3bfb50564a7eec",
-            "input": "The 3.7 cm Infanteriegeschütz M.15 comes from a country that had what kind of government ?",
+            "input": "The 3.7 cm Infanteriegesch\u00fctz M.15 comes from a country that had what kind of government ?",
             "output": [
                 "DT CD NN NNP NNP VBZ IN DT NN WDT VBD WP NN IN NN ."
             ]
@@ -28572,7 +28572,7 @@
         },
         {
             "id": "task345-0a9220142b224db48770a4075c7b2273",
-            "input": "In which region of Europe is the host country of the event taking place between Fénix and Camp of Slavic Scouts ?",
+            "input": "In which region of Europe is the host country of the event taking place between F\u00e9nix and Camp of Slavic Scouts ?",
             "output": [
                 "IN WDT NN IN NNP VBZ DT JJ NN IN DT NN VBG NN IN NNP CC NNP IN NNP NNP ."
             ]
@@ -28614,7 +28614,7 @@
         },
         {
             "id": "task345-f218804c3ca149b2994251cdf9526a7e",
-            "input": "What is the country whose artist is a three-time Kënga Magjike winner ?",
+            "input": "What is the country whose artist is a three-time K\u00ebnga Magjike winner ?",
             "output": [
                 "WP VBZ DT NN WP$ NN VBZ DT JJ NNP NNP NN ."
             ]
@@ -28887,7 +28887,7 @@
         },
         {
             "id": "task345-9e4535f669474e408edf778424b9b5f5",
-            "input": "What was the population as of 2017 for the city that is home to the football club FK Nevėžis Kėdainiai ?",
+            "input": "What was the population as of 2017 for the city that is home to the football club FK Nev\u0117\u017eis K\u0117dainiai ?",
             "output": [
                 "WP VBD DT NN IN IN CD IN DT NN WDT VBZ NN TO DT NN NN NNP NNP NNP ."
             ]
@@ -28957,7 +28957,7 @@
         },
         {
             "id": "task345-5036f55cb3114f9fad280ce6ae6cf4f1",
-            "input": "Approximately how many kilometers south-west of Okinawa Hontō is the island where the municipality is also the location of the past-disputed Senkaku Islands ?",
+            "input": "Approximately how many kilometers south-west of Okinawa Hont\u014d is the island where the municipality is also the location of the past-disputed Senkaku Islands ?",
             "output": [
                 "RB WRB JJ NNS JJS IN NNP NNP VBZ DT NN WRB DT NN VBZ RB DT NN IN DT JJ NNP NNP ."
             ]
@@ -28999,7 +28999,7 @@
         },
         {
             "id": "task345-e40f1e2ea2094fc296d7d5fd341cea65",
-            "input": "What are the notes for the matrix , element r of a ring R is one such that r − 1 is a nilpotent element ; in other words , ( r − 1 ) n is zero for some n ?",
+            "input": "What are the notes for the matrix , element r of a ring R is one such that r \u2212 1 is a nilpotent element ; in other words , ( r \u2212 1 ) n is zero for some n ?",
             "output": [
                 "WP VBP DT NNS IN DT NN , JJ NN IN DT NN NNP VBZ CD JJ IN VBP JJ CD VBZ DT JJ NN : IN JJ NNS , ( VB RB CD ) NN VBZ CD IN DT NNS ."
             ]
@@ -29167,7 +29167,7 @@
         },
         {
             "id": "task345-510b3bcff6a64577aed942c7f21d685a",
-            "input": "What was the original brand name of the railroad company the owns a railway that operates a rail line that runs around Sept-Îles Harbour ?",
+            "input": "What was the original brand name of the railroad company the owns a railway that operates a rail line that runs around Sept-\u00celes Harbour ?",
             "output": [
                 "WP VBD DT JJ NN NN IN DT NN NN DT VBZ DT NN WDT VBZ DT NN NN WDT VBZ IN NNP NNP ."
             ]
@@ -29286,7 +29286,7 @@
         },
         {
             "id": "task345-fcdced45e13c4366ae1f4ef9eb134369",
-            "input": "How many clubs did the league consist of the year the club Sirijus Klaipėda won ?",
+            "input": "How many clubs did the league consist of the year the club Sirijus Klaip\u0117da won ?",
             "output": [
                 "WRB JJ NNS VBD DT NN NN IN DT NN DT NN NNP NNP VBD ."
             ]
@@ -29398,7 +29398,7 @@
         },
         {
             "id": "task345-f2c2d7a84e7a4e41b37fdff88a0568f1",
-            "input": "Who was the director of the film that was made with a budget of ₹550 million ( equivalent to ₹700 million or US $ 9.8 million in 2018 ) ?",
+            "input": "Who was the director of the film that was made with a budget of \u20b9550 million ( equivalent to \u20b9700 million or US $ 9.8 million in 2018 ) ?",
             "output": [
                 "WP VBD DT NN IN DT NN WDT VBD VBN IN DT NN IN JJ CD ( JJ TO VB CD CC NNP $ CD CD IN CD ) ."
             ]
@@ -29538,7 +29538,7 @@
         },
         {
             "id": "task345-5e3df9503a4043bf8b62ecc42a6a78ea",
-            "input": "The party whose only alternate is a politician elected to the Dáil in 1992 , by the Wicklow constituency , was disbanded when it was incorporated into what party ?",
+            "input": "The party whose only alternate is a politician elected to the D\u00e1il in 1992 , by the Wicklow constituency , was disbanded when it was incorporated into what party ?",
             "output": [
                 "DT NN WP$ JJ NN VBZ DT NN VBN TO DT NNP IN CD , IN DT NNP NN , VBD VBN WRB PRP VBD VBN IN WP NN ."
             ]
@@ -29720,7 +29720,7 @@
         },
         {
             "id": "task345-9b412307a9704113a816abecb163f7f7",
-            "input": "The airport in the city that averages 360 sunny days a year and has water temperatures between 20 and 26 °C was named after the founder of what company ?",
+            "input": "The airport in the city that averages 360 sunny days a year and has water temperatures between 20 and 26 \u00b0C was named after the founder of what company ?",
             "output": [
                 "DT NN IN DT NN WDT VBZ CD JJ NNS DT NN CC VBZ NN NNS IN CD CC CD NN VBD VBN IN DT NN IN WP NN ."
             ]
@@ -30112,14 +30112,14 @@
         },
         {
             "id": "task345-e7c24ea4ea8a47ddad2f4e3ba9d018fd",
-            "input": "What was the victory margin of the winner of Tour de France duing this season that started at the French Alps ski resort , which is a part of Les Trois Vallées ?",
+            "input": "What was the victory margin of the winner of Tour de France duing this season that started at the French Alps ski resort , which is a part of Les Trois Vall\u00e9es ?",
             "output": [
                 "WP VBD DT JJ NN IN DT NN IN NNP FW NNP VBG DT NN WDT VBD IN DT JJ NNP VB NN , WDT VBZ DT NN IN NNP NNP NNP ."
             ]
         },
         {
             "id": "task345-1ee6eb03a670418391d684997ba1ee36",
-            "input": "Which desert is in the region of Chile that has Copiapó as capital ?",
+            "input": "Which desert is in the region of Chile that has Copiap\u00f3 as capital ?",
             "output": [
                 "NNP NN VBZ IN DT NN IN NNP WDT VBZ NNP IN NN ."
             ]
@@ -30371,7 +30371,7 @@
         },
         {
             "id": "task345-8befb87440854067960d8425da4152c8",
-            "input": "Which boyhood friend of the director starred in the 1954 film directed by François Truffaut ?",
+            "input": "Which boyhood friend of the director starred in the 1954 film directed by Fran\u00e7ois Truffaut ?",
             "output": [
                 "JJ VBD NN IN DT NN VBD IN DT CD NN VBN IN NNP NNP ."
             ]
@@ -30441,7 +30441,7 @@
         },
         {
             "id": "task345-bb73e706cff048ef97c5058500f1bf11",
-            "input": "Which Atlantic islands belong to the home country of Anke Todorović ?",
+            "input": "Which Atlantic islands belong to the home country of Anke Todorovi\u0107 ?",
             "output": [
                 "NNP NNP VBZ RB TO DT NN NN IN NNP NNP ."
             ]
@@ -30595,7 +30595,7 @@
         },
         {
             "id": "task345-ca2b363ab5c04fb3abe42fefb9682a40",
-            "input": "Which city hosted the Olympics when Jozef Gönci was flag bearer for Slovakia ?",
+            "input": "Which city hosted the Olympics when Jozef G\u00f6nci was flag bearer for Slovakia ?",
             "output": [
                 "JJ NN VBD DT NNPS WRB NNP NNP VBD JJ NN IN NNP ."
             ]
@@ -30749,7 +30749,7 @@
         },
         {
             "id": "task345-1aecc48e8b73423eaf13956c605f7093",
-            "input": "Who founded the church located in the town with an average year-round temperature of 75.5 °F ?",
+            "input": "Who founded the church located in the town with an average year-round temperature of 75.5 \u00b0F ?",
             "output": [
                 "WP VBD DT NN VBN IN DT NN IN DT JJ JJ NN IN CD NNS ."
             ]
@@ -30798,7 +30798,7 @@
         },
         {
             "id": "task345-9027f93f5b764e5993ba3ef512c4431c",
-            "input": "What nation does the home country of Federica Guzmán have a territorial conflict with ?",
+            "input": "What nation does the home country of Federica Guzm\u00e1n have a territorial conflict with ?",
             "output": [
                 "WP NN VBZ DT NN NN IN NNP NNP VBP DT JJ NN IN ."
             ]
@@ -30854,7 +30854,7 @@
         },
         {
             "id": "task345-62e8169a357b45e6ae8f9f4992b5fcf4",
-            "input": "When was the runner-up of Campeonato Paulista in 2014 promoted to Campeonato Brasileiro Série B ?",
+            "input": "When was the runner-up of Campeonato Paulista in 2014 promoted to Campeonato Brasileiro S\u00e9rie B ?",
             "output": [
                 "WRB VBD DT NN IN NNP NNP IN CD VBD TO NNP NNP NNP NNP ."
             ]
@@ -30966,7 +30966,7 @@
         },
         {
             "id": "task345-3026aabced93479faf01b78f1c1aa794",
-            "input": "What city has a population under 10,000 and is a town in Hajdú-Bihar county ?",
+            "input": "What city has a population under 10,000 and is a town in Hajd\u00fa-Bihar county ?",
             "output": [
                 "WP NN VBZ DT NN IN CD CC VBZ DT NN IN NNP NN ."
             ]
@@ -31176,7 +31176,7 @@
         },
         {
             "id": "task345-e6874ceb5b95424f8129c1caf135ebe3",
-            "input": "What medal did the silver medalist in women 's épée fencing at the 2008 Summer Olympics earn at the 2013 European Fencing Championships ?",
+            "input": "What medal did the silver medalist in women 's \u00e9p\u00e9e fencing at the 2008 Summer Olympics earn at the 2013 European Fencing Championships ?",
             "output": [
                 "WP NN VBD DT NN NN IN NNS POS NN NN IN DT CD NNP NNPS NN IN DT CD JJ VBG NNP ."
             ]
@@ -31890,7 +31890,7 @@
         },
         {
             "id": "task345-9e7e2a9ae22d4536af7a6c2ca98b568a",
-            "input": "What is the average temperature of the capital of the canton that has an area of 443km² ?",
+            "input": "What is the average temperature of the capital of the canton that has an area of 443km\u00b2 ?",
             "output": [
                 "WP VBZ DT JJ NN IN DT NN IN DT NN WDT VBZ DT NN IN CD ."
             ]
@@ -32100,7 +32100,7 @@
         },
         {
             "id": "task345-3e7a528a379d4f399c8f0825ea68dff3",
-            "input": "What building is in the location that has an area of 7,834 hectares ( 30 1⁄4 square miles ) ?",
+            "input": "What building is in the location that has an area of 7,834 hectares ( 30 1\u20444 square miles ) ?",
             "output": [
                 "WP NN VBZ IN DT NN WDT VBZ DT NN IN CD NNS ( CD CD JJ NNS ) ."
             ]
@@ -32639,7 +32639,7 @@
         },
         {
             "id": "task345-e57efdd62d92403da23387d52389b9eb",
-            "input": "What year was the castle deisgned by Carl Hårleman completed ?",
+            "input": "What year was the castle deisgned by Carl H\u00e5rleman completed ?",
             "output": [
                 "WP NN VBD DT NN VBN IN NNP NNP VBD ."
             ]
@@ -32779,7 +32779,7 @@
         },
         {
             "id": "task345-23622712c11f4aa9b90fbeaca6cdba1d",
-            "input": "When was the team founded that plays home games at a stadium located in Ibagué ?",
+            "input": "When was the team founded that plays home games at a stadium located in Ibagu\u00e9 ?",
             "output": [
                 "WRB VBD DT NN VBD IN VBZ NN NNS IN DT NN VBN IN NNP ."
             ]
@@ -32877,7 +32877,7 @@
         },
         {
             "id": "task345-d9d9db461bdd4447b30e8789b2ad0eb0",
-            "input": "What stadium does the club whose greatest accomplishment is its back-to-back Copa Perú championships play in ?",
+            "input": "What stadium does the club whose greatest accomplishment is its back-to-back Copa Per\u00fa championships play in ?",
             "output": [
                 "WP NN VBZ DT NN WP$ JJS NN VBZ PRP$ JJ NNP NNP NNS VBP IN ."
             ]
@@ -33185,7 +33185,7 @@
         },
         {
             "id": "task345-9134dee5a6884946b6b0a9f2cc752d2a",
-            "input": "Who were the stars of the 1955 film directed by René Clair ?",
+            "input": "Who were the stars of the 1955 film directed by Ren\u00e9 Clair ?",
             "output": [
                 "WP VBD DT NNS IN DT CD NN VBN IN NNP NNP ."
             ]
@@ -33290,7 +33290,7 @@
         },
         {
             "id": "task345-b7875630e9d54215beaf05026f066077",
-            "input": "What Structure is in the Prefecture that has a geographic area of 4,017 km² ?",
+            "input": "What Structure is in the Prefecture that has a geographic area of 4,017 km\u00b2 ?",
             "output": [
                 "WP NN VBZ IN DT NN WDT VBZ DT JJ NN IN CD NNS ."
             ]
@@ -33395,7 +33395,7 @@
         },
         {
             "id": "task345-3371253ac264406cbe185c5eb4b944b5",
-            "input": "What is between Anatolia and the European region of the home country of Tuğba Karakaya-Koyuncu ?",
+            "input": "What is between Anatolia and the European region of the home country of Tu\u011fba Karakaya-Koyuncu ?",
             "output": [
                 "WP VBZ IN NNP CC DT JJ NN IN DT NN NN IN NNP NNP ."
             ]
@@ -33444,7 +33444,7 @@
         },
         {
             "id": "task345-d1fe63f6773e4e77a0c33a7973a20b91",
-            "input": "Who wrote the film directed by Jan Svěrák submitted to the 69th Academy Awards for Best Foreign Language Film ?",
+            "input": "Who wrote the film directed by Jan Sv\u011br\u00e1k submitted to the 69th Academy Awards for Best Foreign Language Film ?",
             "output": [
                 "WP VBD DT NN VBN IN NNP NNP VBD TO DT CD NNP NNP IN NNP NNP NNP NNP ."
             ]
@@ -33661,7 +33661,7 @@
         },
         {
             "id": "task345-5d5da77a3cbe4de282ebbeab0fb1d6f0",
-            "input": "What is the date of creation linked to the surname that successfully fought off encroachments by the Uí Néill ?",
+            "input": "What is the date of creation linked to the surname that successfully fought off encroachments by the U\u00ed N\u00e9ill ?",
             "output": [
                 "WP VBZ DT NN IN NN VBN TO DT NN WDT RB VBD RP NNS IN DT NNP NNP ."
             ]
@@ -34011,7 +34011,7 @@
         },
         {
             "id": "task345-2425c776559c49898e0eb2fb2e4f0e3b",
-            "input": "What role did Suranne Jones play in the performace to feature a séance ?",
+            "input": "What role did Suranne Jones play in the performace to feature a s\u00e9ance ?",
             "output": [
                 "WP NN VBD NNP NNP NN IN DT NN TO VB DT NN ."
             ]
@@ -34193,7 +34193,7 @@
         },
         {
             "id": "task345-544e7595bf3c477ea125e8c28e88b7db",
-            "input": "What is the capacity of the stadium located in the capital of the state of Paraíba ?",
+            "input": "What is the capacity of the stadium located in the capital of the state of Para\u00edba ?",
             "output": [
                 "WP VBZ DT NN IN DT NN VBN IN DT NN IN DT NN IN NNP ."
             ]
@@ -34291,7 +34291,7 @@
         },
         {
             "id": "task345-881df538fe0c40459225d5599a2bfff6",
-            "input": "What is the age of the figurine whose location 's largest city and historical capital is Wrocław ?",
+            "input": "What is the age of the figurine whose location 's largest city and historical capital is Wroc\u0142aw ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ NN POS JJS NN CC JJ NN VBZ NNP ."
             ]
@@ -34438,7 +34438,7 @@
         },
         {
             "id": "task345-14de9f7fd1d44fe197daa9fd1fc71ac6",
-            "input": "What year did the director of Varieté die ?",
+            "input": "What year did the director of Variet\u00e9 die ?",
             "output": [
                 "WP NN VBD DT NN IN NNP NN ."
             ]
@@ -34648,7 +34648,7 @@
         },
         {
             "id": "task345-def245e20f9341bc987f45ef7de2725e",
-            "input": "At which Olympics did this national basketball team first compete , that also participates in the European Basketball Championship and last appeared during the year when Peja Stojaković was the MVP ?",
+            "input": "At which Olympics did this national basketball team first compete , that also participates in the European Basketball Championship and last appeared during the year when Peja Stojakovi\u0107 was the MVP ?",
             "output": [
                 "IN WDT NNPS VBD DT JJ NN NN RB VB , IN RB VBZ IN DT NNP NNP NNP CC JJ VBD IN DT NN WRB NNP NNP VBD DT NNP ."
             ]
@@ -34788,7 +34788,7 @@
         },
         {
             "id": "task345-4509867c383f491097c44b9186ae662a",
-            "input": "How many volumes were published of the title that is based on a dōjinshi Clamp wrote , but decided to add dark social themes in the serialization as a result of the chapters ' length ?",
+            "input": "How many volumes were published of the title that is based on a d\u014djinshi Clamp wrote , but decided to add dark social themes in the serialization as a result of the chapters ' length ?",
             "output": [
                 "WRB JJ NNS VBD VBN IN DT NN WDT VBZ VBN IN DT NN NNP VBD , CC VBD TO VB JJ JJ NNS IN DT NN IN DT NN IN DT NNS POS NN ."
             ]
@@ -34809,7 +34809,7 @@
         },
         {
             "id": "task345-eca518c3bbce43d4b3defae0708fe393",
-            "input": "How far away from Reykjavík is the location whose stadium has a gym , swimming pool , and football field ?",
+            "input": "How far away from Reykjav\u00edk is the location whose stadium has a gym , swimming pool , and football field ?",
             "output": [
                 "WRB RB RB IN NNP VBZ DT NN WP$ NN VBZ DT NN , VBG NN , CC NN NN ."
             ]
@@ -35089,7 +35089,7 @@
         },
         {
             "id": "task345-b7777b5ca1c546cd8529dd372cb2f63a",
-            "input": "On which peninsula is the country that the gymnast from Lérida situated ?",
+            "input": "On which peninsula is the country that the gymnast from L\u00e9rida situated ?",
             "output": [
                 "IN WDT NN VBZ DT NN IN DT NN IN NNP VBD ."
             ]
@@ -35152,7 +35152,7 @@
         },
         {
             "id": "task345-9983f9851d2f4fffbafb352fb1e2c989",
-            "input": "What is the city of the team whose stadium was named after José do Rego Maciel ?",
+            "input": "What is the city of the team whose stadium was named after Jos\u00e9 do Rego Maciel ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ NN VBD VBN IN NNP VBP NNP NNP ."
             ]
@@ -35194,14 +35194,14 @@
         },
         {
             "id": "task345-0b101859d1484ba1acfae337de447fb9",
-            "input": "Alejandro Muñoz Moreno 's adopted son was the first Mexican wrestler to win what ?",
+            "input": "Alejandro Mu\u00f1oz Moreno 's adopted son was the first Mexican wrestler to win what ?",
             "output": [
                 "NNP NNP NNP POS JJ NN VBD DT JJ NNP NN TO VB WP ."
             ]
         },
         {
             "id": "task345-85cfddcee65b4bf887dc06bbc5553c77",
-            "input": "What lead to the retirement of the team captain associated at the 2009 Tippeligaen with the team sponsored by Lyse Energi and managed by the current manager of Fortuna Düsseldorf ?",
+            "input": "What lead to the retirement of the team captain associated at the 2009 Tippeligaen with the team sponsored by Lyse Energi and managed by the current manager of Fortuna D\u00fcsseldorf ?",
             "output": [
                 "WP NN TO DT NN IN DT NN NN VBN IN DT CD NNP IN DT NN VBN IN NNP NNP CC VBN IN DT JJ NN IN NNP NNP ."
             ]
@@ -35509,7 +35509,7 @@
         },
         {
             "id": "task345-b56e6ad4de29495c9106b481ecf90733",
-            "input": "How many people for every squared kilometer are there in the city where the Shujō Oni Festival takes place ?",
+            "input": "How many people for every squared kilometer are there in the city where the Shuj\u014d Oni Festival takes place ?",
             "output": [
                 "WRB JJ NNS IN DT VBN NN VBP RB IN DT NN WRB DT NNP NNP NNP VBZ NN ."
             ]
@@ -35537,7 +35537,7 @@
         },
         {
             "id": "task345-4c6024cbaa1f421db1465426a6ddfd64",
-            "input": "What is the capital of the country with a population density comparable to the Chilean region of Los Ríos ?",
+            "input": "What is the capital of the country with a population density comparable to the Chilean region of Los R\u00edos ?",
             "output": [
                 "WP VBZ DT NN IN DT NN IN DT NN NN JJ TO DT NNP NN IN NNP NNP ."
             ]
@@ -35558,7 +35558,7 @@
         },
         {
             "id": "task345-fa9b1285917b47959623884b94e8fe23",
-            "input": "What is the event of the athlete who won a world title with his sons Björn and Johan in 1975 ?",
+            "input": "What is the event of the athlete who won a world title with his sons Bj\u00f6rn and Johan in 1975 ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP VBD DT NN NN IN PRP$ NNS NNP CC NNP IN CD ."
             ]
@@ -35789,7 +35789,7 @@
         },
         {
             "id": "task345-aa0a2703fbb941daabad74b2a75fb583",
-            "input": "Which municipality surrounds the city in Canada with an average July daily high of 24 °C ?",
+            "input": "Which municipality surrounds the city in Canada with an average July daily high of 24 \u00b0C ?",
             "output": [
                 "JJ NN VBZ DT NN IN NNP IN DT JJ NNP JJ NN IN CD NNS ."
             ]
@@ -35908,7 +35908,7 @@
         },
         {
             "id": "task345-e17f2031bd3746d6800e7a9cd729d7d6",
-            "input": "What is the site of the municipality whose total area is 246.73 km² ?",
+            "input": "What is the site of the municipality whose total area is 246.73 km\u00b2 ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP$ JJ NN VBZ CD NN ."
             ]
@@ -36734,7 +36734,7 @@
         },
         {
             "id": "task345-194b465b5baf4e2682414559036bf6b9",
-            "input": "Which county is home to the range located at 44°02′23″N 114°35′07″W / 44.0396°N 114.5853°W ?",
+            "input": "Which county is home to the range located at 44\u00b002\u203223\u2033N 114\u00b035\u203207\u2033W / 44.0396\u00b0N 114.5853\u00b0W ?",
             "output": [
                 "JJ NN VBZ VBN TO DT NN VBN IN CD CD NN CD CD ."
             ]
@@ -36874,7 +36874,7 @@
         },
         {
             "id": "task345-13f417257db84d7981e80d948bbf796a",
-            "input": "What metropolitan region is the city where Atlético Sorocaba plays located ?",
+            "input": "What metropolitan region is the city where Atl\u00e9tico Sorocaba plays located ?",
             "output": [
                 "WP JJ NN VBZ DT NN WRB NNP NNP VBZ VBN ."
             ]
@@ -37014,7 +37014,7 @@
         },
         {
             "id": "task345-0309d08a85db45b08bb5554a6a78cf2c",
-            "input": "How many miles north of Darłowo is the station that has the capacity of 18 MWe ?",
+            "input": "How many miles north of Dar\u0142owo is the station that has the capacity of 18 MWe ?",
             "output": [
                 "WRB JJ NNS RB IN NNP VBZ DT NN WDT VBZ DT NN IN CD NNP ."
             ]
@@ -37084,7 +37084,7 @@
         },
         {
             "id": "task345-b9b79f88d07844f2b2bb7cb0d2df93e7",
-            "input": "What type of establishment was the historic house that is located at the corner of Sheldon Avenue in a city that is on the Keweenaw Peninsula and that has a location code beginning 47°07′19″N 88°34′01″W ?",
+            "input": "What type of establishment was the historic house that is located at the corner of Sheldon Avenue in a city that is on the Keweenaw Peninsula and that has a location code beginning 47\u00b007\u203219\u2033N 88\u00b034\u203201\u2033W ?",
             "output": [
                 "WP NN IN NN VBD DT JJ NN WDT VBZ VBN IN DT NN IN NNP NNP IN DT NN WDT VBZ IN DT NNP NNP CC WDT VBZ DT NN NN VBG CD CD ."
             ]
@@ -37336,7 +37336,7 @@
         },
         {
             "id": "task345-253640c956144cc1b3a34ae5b935e30f",
-            "input": "What year did the writer get inducted into the Will Eisner Award Hall of Fame who created a manga series that was published in Square Enix 's magazine Monthly Shōnen Gangan ?",
+            "input": "What year did the writer get inducted into the Will Eisner Award Hall of Fame who created a manga series that was published in Square Enix 's magazine Monthly Sh\u014dnen Gangan ?",
             "output": [
                 "WP NN VBD DT NN NN VBN IN DT NNP NNP NNP NNP IN NNP WP VBD DT JJ NN WDT VBD VBN IN NNP NNP POS NN NNP NNP NNP ."
             ]
@@ -37357,7 +37357,7 @@
         },
         {
             "id": "task345-e007cd9c633c47a393321721caf7cca2",
-            "input": "What brand of product is produced at 29°59′53″N 91°48′40″W ?",
+            "input": "What brand of product is produced at 29\u00b059\u203253\u2033N 91\u00b048\u203240\u2033W ?",
             "output": [
                 "WP NN IN NN VBZ VBN IN CD CD ."
             ]
@@ -37441,7 +37441,7 @@
         },
         {
             "id": "task345-009ff37989134a6eb951271e5cf417fe",
-            "input": "How many kilometres south of Downtown Halifax is a community noted for a ship whose nation 's king is Harald V of the House of Glücksburg ?",
+            "input": "How many kilometres south of Downtown Halifax is a community noted for a ship whose nation 's king is Harald V of the House of Gl\u00fccksburg ?",
             "output": [
                 "WRB JJ NNS VBP IN NNP NNP VBZ DT NN VBN IN DT NN WP$ NN POS NN VBZ NNP NNP IN DT NNP IN NNP ."
             ]
@@ -37469,7 +37469,7 @@
         },
         {
             "id": "task345-2d8d5606a41a4ebb8245757a0fafd344",
-            "input": "What South American territory is held by the country that plays Must Love Kids on the Métropole Television channel ?",
+            "input": "What South American territory is held by the country that plays Must Love Kids on the M\u00e9tropole Television channel ?",
             "output": [
                 "WP JJ JJ NN VBZ VBN IN DT NN WDT VBZ NNP NNP NNP IN DT NNP NNP NN ."
             ]
@@ -37787,13 +37787,6 @@
             "input": "The artist from Carol City , Florida collaborated with which American singer on his lead single , which was released to radio on January 27 , 2009 ?",
             "output": [
                 "DT NN IN NNP NNP , NNP VBD IN WDT NNP NN IN PRP$ NN JJ , WDT VBD VBN TO VB IN NNP CD , CD ."
-            ]
-        },
-        {
-            "id": "task345-8e5c919e7c664ee5b2beeee315ee986d",
-            "input": "On what date was Vladimir Horowitz 's version of the the royal anthem in a number of Commonwealth realms , their territories , and the British Crown dependencies recorded ?",
-            "output": [
-                "IN WP NN VBD NNP NNP POS NN IN DT DT JJ NN IN DT NN IN NNP NNS , PRP$ NNS , CC DT JJ NNP NNS VBN ."
             ]
         },
         {
@@ -38302,7 +38295,7 @@
         },
         {
             "id": "task345-6f804e4481434ec2bdbead232da6a789",
-            "input": "Which pass is closer to Niğde ?",
+            "input": "Which pass is closer to Ni\u011fde ?",
             "output": [
                 "JJ NN VBZ RBR TO NNP ."
             ]
@@ -38428,7 +38421,7 @@
         },
         {
             "id": "task345-1775056591b24d2aaca957ec37f53f0a",
-            "input": "Which central midfielder is from the country who 's most populous city is São Paulo ?",
+            "input": "Which central midfielder is from the country who 's most populous city is S\u00e3o Paulo ?",
             "output": [
                 "JJ JJ NN VBZ IN DT NN WP VBZ RBS JJ NN VBZ NNP NNP ."
             ]
@@ -38624,7 +38617,7 @@
         },
         {
             "id": "task345-97803c61a9df416c84192a8d4d38eb63",
-            "input": "In 2011 , how many women were estimated to live in the village located on Chiburijima in the Dōzen group of islands that is the location of a type 8 natural monument ?",
+            "input": "In 2011 , how many women were estimated to live in the village located on Chiburijima in the D\u014dzen group of islands that is the location of a type 8 natural monument ?",
             "output": [
                 "IN CD , WRB JJ NNS VBD VBN TO VB IN DT NN VBN IN NNP IN DT NNP NN IN NNS WDT VBZ DT NN IN DT NN CD JJ NN ."
             ]
@@ -38841,7 +38834,7 @@
         },
         {
             "id": "task345-8e7d7dd5455840168de6ce1012a0e7ea",
-            "input": "Which company bought this record label that recorded the works of this composer who was once engaged to Maria Wodzińska ?",
+            "input": "Which company bought this record label that recorded the works of this composer who was once engaged to Maria Wodzi\u0144ska ?",
             "output": [
                 "JJ NN VBD DT NN NN WDT VBD DT NNS IN DT NN WP VBD RB VBN TO NNP NNP ."
             ]
@@ -38862,7 +38855,7 @@
         },
         {
             "id": "task345-9ba8742637c847eab249ec893455684f",
-            "input": "What style architecture can be found at the place at 85°22′00″W ?",
+            "input": "What style architecture can be found at the place at 85\u00b022\u203200\u2033W ?",
             "output": [
                 "WP NN NN MD VB VBN IN DT NN IN CD ."
             ]
@@ -39051,7 +39044,7 @@
         },
         {
             "id": "task345-b4cbcdaa489f4b6295f30ea5f04fc854",
-            "input": "What are the number of points scored by the player born in Castelo Espírito Santo ?",
+            "input": "What are the number of points scored by the player born in Castelo Esp\u00edrito Santo ?",
             "output": [
                 "WP VBP DT NN IN NNS VBN IN DT NN VBN IN NNP NNP NNP ."
             ]
@@ -39128,7 +39121,7 @@
         },
         {
             "id": "task345-23d736ca12f74680bd4d91f135226b55",
-            "input": "When was the last episode of the telenovela in which Daniela Romo played Margarita Insunza de Ramírez in 2001 broadcast ?",
+            "input": "When was the last episode of the telenovela in which Daniela Romo played Margarita Insunza de Ram\u00edrez in 2001 broadcast ?",
             "output": [
                 "WRB VBD DT JJ NN IN DT NN IN WDT NNP NNP VBD NNP NNP FW NNP IN CD NN ."
             ]
@@ -39247,7 +39240,7 @@
         },
         {
             "id": "task345-bb7a3ab6211540b28a029a44e9042593",
-            "input": "What is the total area of the largest town or city in km² ?",
+            "input": "What is the total area of the largest town or city in km\u00b2 ?",
             "output": [
                 "WP VBZ DT JJ NN IN DT JJS NN CC NN IN NN ."
             ]
@@ -39576,7 +39569,7 @@
         },
         {
             "id": "task345-bebfc33b588e4add97a10d5752393ed2",
-            "input": "In a period of Japanese history from 1573 to 1600 CE , a Buddhist compound was built in the city of Ōtsu in Shiga Prefecture , located at the foot of what mount ?",
+            "input": "In a period of Japanese history from 1573 to 1600 CE , a Buddhist compound was built in the city of \u014ctsu in Shiga Prefecture , located at the foot of what mount ?",
             "output": [
                 "IN DT NN IN JJ NN IN CD TO CD NNP , DT NNP NN VBD VBN IN DT NN IN NNP IN NNP NNP , VBN IN DT NN IN WP NN ."
             ]
@@ -39674,7 +39667,7 @@
         },
         {
             "id": "task345-c7e2a04f7fa4438f90b148127b535711",
-            "input": "In what league does the team managed by Trần Bình Sự play in ?",
+            "input": "In what league does the team managed by Tr\u1ea7n B\u00ecnh S\u1ef1 play in ?",
             "output": [
                 "IN WP NN VBZ DT NN VBN IN NNP NNP NNP NN IN ."
             ]
@@ -39716,7 +39709,7 @@
         },
         {
             "id": "task345-9aae2bc76d9e4b59965e3dc1a9e240bf",
-            "input": "What was the 2010 population of the city that is home to Víctor Legrotaglie stadium ?",
+            "input": "What was the 2010 population of the city that is home to V\u00edctor Legrotaglie stadium ?",
             "output": [
                 "WP VBD DT CD NN IN DT NN WDT VBZ NN TO NNP NNP NN ."
             ]
@@ -39751,7 +39744,7 @@
         },
         {
             "id": "task345-022696f7ad5f4c75abed6c85c613abd7",
-            "input": "How many times did a team from Sauðárkrók win first place ?",
+            "input": "How many times did a team from Sau\u00f0\u00e1rkr\u00f3k win first place ?",
             "output": [
                 "WRB JJ NNS VBD DT NN IN NNP VBP JJ NN ."
             ]
@@ -39877,7 +39870,7 @@
         },
         {
             "id": "task345-9f6e64be7568444dab64dc427a2d2c94",
-            "input": "The Bogenschießanlage venue hosted a sport with how many events ?",
+            "input": "The Bogenschie\u00dfanlage venue hosted a sport with how many events ?",
             "output": [
                 "DT NNP NN VBD DT NN IN WRB JJ NNS ."
             ]
@@ -40192,7 +40185,7 @@
         },
         {
             "id": "task345-908b72087b6542789d2c93175e876ccc",
-            "input": "How many time zones are in the home country of René Jourdan ?",
+            "input": "How many time zones are in the home country of Ren\u00e9 Jourdan ?",
             "output": [
                 "WRB JJ NN NNS VBP IN DT NN NN IN NNP NNP ."
             ]
@@ -40241,7 +40234,7 @@
         },
         {
             "id": "task345-1f6159bfc3854e02a12d2516d9aaf7e7",
-            "input": "Which section of Kızılay contains the mosque in Ankara constructed 1987 ?",
+            "input": "Which section of K\u0131z\u0131lay contains the mosque in Ankara constructed 1987 ?",
             "output": [
                 "JJ NN IN NNP VBZ DT NN IN NNP VBD CD ."
             ]
@@ -40430,7 +40423,7 @@
         },
         {
             "id": "task345-7f21da1d6183485599cb3ab0a7a2a63f",
-            "input": "What was the middle name of the English entertainer and comedian whose well known catchphrase first appeared in 1967 on the show based on the German TV show Der goldene Schuß ?",
+            "input": "What was the middle name of the English entertainer and comedian whose well known catchphrase first appeared in 1967 on the show based on the German TV show Der goldene Schu\u00df ?",
             "output": [
                 "WP VBD DT JJ NN IN DT NNP NN CC JJ WP$ RB VBN NN RB VBD IN CD IN DT NN VBN IN DT JJ NN NN NNP NN NNP ."
             ]
@@ -40759,7 +40752,7 @@
         },
         {
             "id": "task345-1f40399ee7c848ad99817b13c3b9b922",
-            "input": "What old province of japan once called Hishū , is located in a region that include 1 village , 2 towns and 1 city in the Kumamoto Prefecture , Japan ?",
+            "input": "What old province of japan once called Hish\u016b , is located in a region that include 1 village , 2 towns and 1 city in the Kumamoto Prefecture , Japan ?",
             "output": [
                 "WP JJ NN IN NN RB VBD NNP , VBZ VBN IN DT NN WDT VBP CD NN , CD NNS CC CD NN IN DT NNP NNP , NNP ."
             ]
@@ -42341,7 +42334,7 @@
         },
         {
             "id": "task345-5cbbfcc7fe184a6d91e6d506573c690f",
-            "input": "How many times did a team from Egilsstaðir win first place ?",
+            "input": "How many times did a team from Egilssta\u00f0ir win first place ?",
             "output": [
                 "WRB JJ NNS VBD DT NN IN NNP VBP JJ NN ."
             ]
@@ -42516,7 +42509,7 @@
         },
         {
             "id": "task345-ac9d443823044fb0bfee88beaab275d4",
-            "input": "What was the 1961 movie by the person who directed L'Amour à mort ?",
+            "input": "What was the 1961 movie by the person who directed L'Amour \u00e0 mort ?",
             "output": [
                 "WP VBD DT CD NN IN DT NN WP VBD NNP NNP NN ."
             ]
@@ -42810,7 +42803,7 @@
         },
         {
             "id": "task345-1c6bf030a1324d1e97e2d8d394c8c440",
-            "input": "What is the capital of the country with these three clubs : Bolívar , Jorge Wilstermann , Oriente Petrolero ?",
+            "input": "What is the capital of the country with these three clubs : Bol\u00edvar , Jorge Wilstermann , Oriente Petrolero ?",
             "output": [
                 "WP VBZ DT NN IN DT NN IN DT CD NNS : NNP , NNP NNP , NNP NNP ."
             ]
@@ -42845,7 +42838,7 @@
         },
         {
             "id": "task345-8a6331eead9e4505b8f454cc1534fb78",
-            "input": "In what league division does the team play who has had their current season in top flight from 1989 - and has a hometown with a population density of 4890 persons per km² ?",
+            "input": "In what league division does the team play who has had their current season in top flight from 1989 - and has a hometown with a population density of 4890 persons per km\u00b2 ?",
             "output": [
                 "IN WP JJ NN VBZ DT NN NN WP VBZ VBN PRP$ JJ NN IN JJ NN IN CD : CC VBZ DT VBN IN DT NN NN IN CD NNS IN NN ."
             ]
@@ -43559,7 +43552,7 @@
         },
         {
             "id": "task345-39eebb78f03346ec9a5d0d04bdbff14c",
-            "input": "What is the capacity of the stadium of the team coached by Marcin Ćwikła ?",
+            "input": "What is the capacity of the stadium of the team coached by Marcin \u0106wik\u0142a ?",
             "output": [
                 "WP VBZ DT NN IN DT NN IN DT NN VBN IN NNP NNP ."
             ]
@@ -43874,7 +43867,7 @@
         },
         {
             "id": "task345-9c6db47a4fbd4d94ba09e07d6be86f8a",
-            "input": "What are the notes of the territory that was part of province of Cádiz until 14 March 1995 ?",
+            "input": "What are the notes of the territory that was part of province of C\u00e1diz until 14 March 1995 ?",
             "output": [
                 "WP VBP DT NNS IN DT NN WDT VBD NN IN NN IN NNP IN CD NNP CD ."
             ]
@@ -44392,7 +44385,7 @@
         },
         {
             "id": "task345-d001a5446d4d430fa04f89e4b47c73c1",
-            "input": "What is the area that influenced music performed by Eishō Koshino called in English ?",
+            "input": "What is the area that influenced music performed by Eish\u014d Koshino called in English ?",
             "output": [
                 "WP VBZ DT NN IN VBD NN VBN IN NNP NNP VBD IN NNP ."
             ]
@@ -44658,7 +44651,7 @@
         },
         {
             "id": "task345-27ab85f4a3594431be18e0450b53cb58",
-            "input": "How many Olympics has the youngest member of the Men 's 4 × 200 m Freestyle Relay team competed at ?",
+            "input": "How many Olympics has the youngest member of the Men 's 4 \u00d7 200 m Freestyle Relay team competed at ?",
             "output": [
                 "WRB JJ NNPS VBZ DT JJS NN IN DT NNP POS CD JJ CD NN NNP NNP NN VBD IN ."
             ]
@@ -45148,7 +45141,7 @@
         },
         {
             "id": "task345-9048b8230c514d3b870cdcd236435d77",
-            "input": "What is the notability of the celebrity who had a role as Paola in the erotic TV series Bellas y Ambiciosas in 2006 with Raúl Olivo ?",
+            "input": "What is the notability of the celebrity who had a role as Paola in the erotic TV series Bellas y Ambiciosas in 2006 with Ra\u00fal Olivo ?",
             "output": [
                 "WP VBZ DT NN IN DT NN WP VBD DT NN IN NNP IN DT JJ NN NN NNP NNP NNP IN CD IN NNP NNP ."
             ]
@@ -45365,7 +45358,7 @@
         },
         {
             "id": "task345-a677e9ad1bee4d0fad5c7abd06dabfc4",
-            "input": "What is the vehicle registration code for the political district that borders Bavaria in the north and the districts of Kufstein , Kitzbühel and Pinzgau in the east ?",
+            "input": "What is the vehicle registration code for the political district that borders Bavaria in the north and the districts of Kufstein , Kitzb\u00fchel and Pinzgau in the east ?",
             "output": [
                 "WP VBZ DT NN NN NN IN DT JJ NN IN NNS NNP IN DT NN CC DT NNS IN NNP , NNP CC NNP IN DT NN ."
             ]

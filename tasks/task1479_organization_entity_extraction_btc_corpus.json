@@ -119,7 +119,7 @@
         },
         {
             "id": "task1479-6e10890952944817bf44ec3249cbef3e",
-            "input": " RT SoibiTonteLJ : Smh at Big Brother . Its really downgraded over the years . « « Its on channel 5 mate ! Ofc it has",
+            "input": " RT SoibiTonteLJ : Smh at Big Brother . Its really downgraded over the years . \u00ab \u00ab Its on channel 5 mate ! Ofc it has",
             "output": [
                 "channel 5"
             ]
@@ -189,9 +189,9 @@
         },
         {
             "id": "task1479-22ce86811c684d778c43dbb8276cf8ec",
-            "input": " I 'm at Caffè Nero ( 21 High St . , Bath ) http://t.co/IkncHGtI",
+            "input": " I 'm at Caff\u00e8 Nero ( 21 High St . , Bath ) http://t.co/IkncHGtI",
             "output": [
-                "Caffè Nero"
+                "Caff\u00e8 Nero"
             ]
         },
         {
@@ -252,7 +252,7 @@
         },
         {
             "id": "task1479-62fde64fad824b75901817098f3acd98",
-            "input": " @ Tod123x @ JewishNewsUK Please don ’ t confuse Jews with the actions of the Israeli government .",
+            "input": " @ Tod123x @ JewishNewsUK Please don \u2019 t confuse Jews with the actions of the Israeli government .",
             "output": [
                 "Israeli government"
             ]
@@ -266,7 +266,7 @@
         },
         {
             "id": "task1479-a33bb9fcc0b147f8babe2d2fa4b8b07c",
-            "input": " BBC News - Hong Kong firm MTR wins £ 1 . 4bn Crossrail franchise http://t.co/27lww23S9P",
+            "input": " BBC News - Hong Kong firm MTR wins \u00a3 1 . 4bn Crossrail franchise http://t.co/27lww23S9P",
             "output": [
                 "BBC News"
             ]
@@ -280,7 +280,7 @@
         },
         {
             "id": "task1479-0b434d88c047437d99a146595f77f0b9",
-            "input": " How stunning is my sister ? ! ? Fashion credits : Kardashian Kollection pants , Saint Laurent blouse , … http://t.co/bTUPqJ9uju",
+            "input": " How stunning is my sister ? ! ? Fashion credits : Kardashian Kollection pants , Saint Laurent blouse , \u2026 http://t.co/bTUPqJ9uju",
             "output": [
                 "Saint Laurent"
             ]
@@ -343,7 +343,7 @@
         },
         {
             "id": "task1479-ee03ab0e2091419aa7cf45968f1abde9",
-            "input": " Tonight on Anger Management Toronto Blue Jay 's pitcher Conner Greene . . ! Tune in to #FX at 9 . . ! … http://t.co/N3Jxw9gOwM",
+            "input": " Tonight on Anger Management Toronto Blue Jay 's pitcher Conner Greene . . ! Tune in to #FX at 9 . . ! \u2026 http://t.co/N3Jxw9gOwM",
             "output": [
                 "Toronto Blue Jay"
             ]
@@ -399,7 +399,7 @@
         },
         {
             "id": "task1479-f891396c1bc94c6a9ba5620075d6cc79",
-            "input": " Wow ! ! Our @thek_kollection at @ lipsylondon was voted Best Celeb Designer Collection by Reveal Magazine … http://t.co/j0KUEQ4cdQ",
+            "input": " Wow ! ! Our @thek_kollection at @ lipsylondon was voted Best Celeb Designer Collection by Reveal Magazine \u2026 http://t.co/j0KUEQ4cdQ",
             "output": [
                 "Reveal Magazine"
             ]
@@ -497,7 +497,7 @@
         },
         {
             "id": "task1479-4cd725da3ec74b94bbefa9e0af53ecd7",
-            "input": " #KKTeam Quem foi o adversário do Milan na estreia de Kaká pelo Campeonato Italiano , em 2003 ? A . Napoli ; B . Ancona ; C . Genoa #KKQuiz",
+            "input": " #KKTeam Quem foi o advers\u00e1rio do Milan na estreia de Kak\u00e1 pelo Campeonato Italiano , em 2003 ? A . Napoli ; B . Ancona ; C . Genoa #KKQuiz",
             "output": [
                 "Campeonato Italiano"
             ]
@@ -532,7 +532,7 @@
         },
         {
             "id": "task1479-c8b381d7df884105a855c426a250c4ed",
-            "input": " DISGRACE : An Atalanta fan not only threw a banana at AC Milan 's Kevin Constant … but also a knife ! ! http://t.co/KXogzwQNu1",
+            "input": " DISGRACE : An Atalanta fan not only threw a banana at AC Milan 's Kevin Constant \u2026 but also a knife ! ! http://t.co/KXogzwQNu1",
             "output": [
                 "AC Milan"
             ]
@@ -567,7 +567,7 @@
         },
         {
             "id": "task1479-f4e319b9070e44e69729c7999e325a3a",
-            "input": " Celebrating 1000 members at Somerton SLSC- first club in SA to achieve this . @ Somerton Surf Life … http://t.co/dyB6wKUevf",
+            "input": " Celebrating 1000 members at Somerton SLSC- first club in SA to achieve this . @ Somerton Surf Life \u2026 http://t.co/dyB6wKUevf",
             "output": [
                 "Somerton SLSC-"
             ]
@@ -595,7 +595,7 @@
         },
         {
             "id": "task1479-08f2222697664902aa9dc02ee32fb578",
-            "input": " Internal innovation report says the New York Times needs to up its digital game or else — Tech News and Analysis - http://t.co/X61FknHKH3",
+            "input": " Internal innovation report says the New York Times needs to up its digital game or else \u2014 Tech News and Analysis - http://t.co/X61FknHKH3",
             "output": [
                 "New York Times"
             ]
@@ -616,7 +616,7 @@
         },
         {
             "id": "task1479-99dbbf84fa9a470da56a0b500666682f",
-            "input": " HTFPNewsinBrief Local World aims for ‘ world class mobile product ’ : Company announces new digital product director http://t.co/yUA7Q9hnLJ",
+            "input": " HTFPNewsinBrief Local World aims for \u2018 world class mobile product \u2019 : Company announces new digital product director http://t.co/yUA7Q9hnLJ",
             "output": [
                 "HTFPNewsinBrief Local World"
             ]
@@ -903,7 +903,7 @@
         },
         {
             "id": "task1479-e6f7b32f2ec5451fb3041186ac504306",
-            "input": " The last time Honduras scored a World Cup goal , “ Eye of the Tiger ” was one of the top songs on the charts . # 1982",
+            "input": " The last time Honduras scored a World Cup goal , \u201c Eye of the Tiger \u201d was one of the top songs on the charts . # 1982",
             "output": [
                 "World Cup"
             ]
@@ -938,7 +938,7 @@
         },
         {
             "id": "task1479-c890e65729de4663aca4d971fe425d8a",
-            "input": " # directioners Follow Backk ? ♥ # 1 Dfamily",
+            "input": " # directioners Follow Backk ? \u2665 # 1 Dfamily",
             "output": [
                 "1 D"
             ]
@@ -952,7 +952,7 @@
         },
         {
             "id": "task1479-f6aaa8370b064d6a9f787a15497a6d3f",
-            "input": " USA ! Tune in to @ GMA tomorrow morning for an exclusive sneak peek at 1 D ’ s \" You and I ” video ! #YouAndIonGMA 1 D HQ x",
+            "input": " USA ! Tune in to @ GMA tomorrow morning for an exclusive sneak peek at 1 D \u2019 s \" You and I \u201d video ! #YouAndIonGMA 1 D HQ x",
             "output": [
                 "1 D"
             ]
@@ -994,7 +994,7 @@
         },
         {
             "id": "task1479-531ede9d1ea84a6c87e790519d1051dc",
-            "input": " Was your area Pro- Treaty or Anti- Treaty ? The 1921 Dáil vote on the Anglo- Irish Treaty , in map form : http://t.co/RHn1kb2g2d",
+            "input": " Was your area Pro- Treaty or Anti- Treaty ? The 1921 D\u00e1il vote on the Anglo- Irish Treaty , in map form : http://t.co/RHn1kb2g2d",
             "output": [
                 "1 D"
             ]
@@ -1176,7 +1176,7 @@
         },
         {
             "id": "task1479-99b817bbf29243718ec432d2ca7984dc",
-            "input": " The Ecco Shoes UK Daily is out ! http://t.co/uIvExTtR ▸ Top stories today via nomik33 laroyal06 ecco_uk jbgwbkntbya lovethoseshoes",
+            "input": " The Ecco Shoes UK Daily is out ! http://t.co/uIvExTtR \u25b8 Top stories today via nomik33 laroyal06 ecco_uk jbgwbkntbya lovethoseshoes",
             "output": [
                 "Ecco Shoes"
             ]
@@ -1190,7 +1190,7 @@
         },
         {
             "id": "task1479-e551232314634f3283dd590c966d7883",
-            "input": " Sesión preparatoria antes del #RSORealMadrid. #halamadrid http://t.co/frEUVKJ4OS",
+            "input": " Sesi\u00f3n preparatoria antes del #RSORealMadrid. #halamadrid http://t.co/frEUVKJ4OS",
             "output": [
                 "#RSORealMadrid. #halamadrid"
             ]
@@ -1246,14 +1246,14 @@
         },
         {
             "id": "task1479-259a320127cc45ffaa41454384e97ef3",
-            "input": " In Irish News tmro : Injuries have forced @ Doiregaa into changes ahead of Saturday ’ s All- Ireland SFC Qualifier Round 1 clash #EveryBall",
+            "input": " In Irish News tmro : Injuries have forced @ Doiregaa into changes ahead of Saturday \u2019 s All- Ireland SFC Qualifier Round 1 clash #EveryBall",
             "output": [
                 "Irish News"
             ]
         },
         {
             "id": "task1479-3f12be1722a2436d8bcbe2c02e4bdac2",
-            "input": " In today 's Irish News : Sunday ’ s crowd at Clones will get value for their money from Antrim says Saffrons manager Liam Bradley #EveryBall",
+            "input": " In today 's Irish News : Sunday \u2019 s crowd at Clones will get value for their money from Antrim says Saffrons manager Liam Bradley #EveryBall",
             "output": [
                 "Irish News"
             ]
@@ -1295,7 +1295,7 @@
         },
         {
             "id": "task1479-ea31c81573fc4b48bb3278b758089340",
-            "input": " En media hora comienza el sorteo que dará con los rivales del Real Madrid en la Fase de Grupos de la #UCL. #UCLdraw #halamadrid",
+            "input": " En media hora comienza el sorteo que dar\u00e1 con los rivales del Real Madrid en la Fase de Grupos de la #UCL. #UCLdraw #halamadrid",
             "output": [
                 "Real Madrid"
             ]
@@ -1344,7 +1344,7 @@
         },
         {
             "id": "task1479-590b5b1aae1e47c293f0c0575c4ea5b8",
-            "input": " . @ joseiswriting , America ’ s most famous unauthorized immigrant , detained by Border Patrol http://t.co/nIlmMacWO8",
+            "input": " . @ joseiswriting , America \u2019 s most famous unauthorized immigrant , detained by Border Patrol http://t.co/nIlmMacWO8",
             "output": [
                 "Border Patrol"
             ]
@@ -1414,16 +1414,16 @@
         },
         {
             "id": "task1479-82901afbb93a48ada1bbcf0924607e87",
-            "input": " Landslide victory for Sinn Féin : the 1918 general election : http://t.co/96TkhnBUfo",
+            "input": " Landslide victory for Sinn F\u00e9in : the 1918 general election : http://t.co/96TkhnBUfo",
             "output": [
-                "Sinn Féin"
+                "Sinn F\u00e9in"
             ]
         },
         {
             "id": "task1479-b149388ea814445c9addf68328eb81da",
-            "input": " Latest : Daithí McKay : Sinn Féin will not be deflected by ' old guard ' within the police http://t.co/qZmErJoyOS",
+            "input": " Latest : Daith\u00ed McKay : Sinn F\u00e9in will not be deflected by ' old guard ' within the police http://t.co/qZmErJoyOS",
             "output": [
-                "Sinn Féin"
+                "Sinn F\u00e9in"
             ]
         },
         {
@@ -1442,7 +1442,7 @@
         },
         {
             "id": "task1479-d9d94947c2a347faabf746396a884e49",
-            "input": " Parliamentary Library ’ s latest blog brings balance to : GP co-payments , PPL , direct action , and pension indexation . http://t.co/T1qxqP0jwf",
+            "input": " Parliamentary Library \u2019 s latest blog brings balance to : GP co-payments , PPL , direct action , and pension indexation . http://t.co/T1qxqP0jwf",
             "output": [
                 "Parliamentary Library"
             ]
